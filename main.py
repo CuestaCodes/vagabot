@@ -15,6 +15,7 @@ if __name__ == '__main__':
 
     for line in lines:
         # TODO: following for loop tasks
+		# break up lines into parts?
         # if Event_Init then ++ event_num and break
         # if MapChange then ++ map_num and update map_current then break
         # store datetime
