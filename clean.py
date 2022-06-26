@@ -19,8 +19,6 @@ def clean_gamestats():
     players_current = None
 
     for line in lines:
-        # TODO: following for loop tasks
-
         # use only lines with data
         if line[:1] != "[":
             continue
@@ -38,12 +36,13 @@ def clean_gamestats():
         event_name = event[0]
         event_details = event[1]
 
-        # keep track of event number
+        # keep track of event number and refresh map counter
         if event_name == "Event_Init":
             event_num = event_num + 1
             map_num = -1
             continue
 
+        # keep track of map number and reset map name and players
         elif event_name == "Event_LevelInit":
             map_name = event_details[1:-1]
             print(map_name)
@@ -51,12 +50,12 @@ def clean_gamestats():
             map_num = map_num + 1
             map_current = map_name
             players_current = set()
-            # continue
-            break
+            continue
 
-        # if Event_Init then ++ event_num and break
-        # if MapChange then ++ map_num and update map_current then break
-        # store datetime
+        break
+
+        # TODO:
+        # create event/mapnumber code?
         # if PlayerKilled then store datetime, event_num, map_num, map, player,
         # 	player_killed as new entry in working csv
         # if PlayerDied then store datetime, event_num, map_num, player_died
