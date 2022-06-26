@@ -1,6 +1,6 @@
 # created 26/06/2022
 import pandas as pd
-from datetime import date, datetime
+from datetime import datetime
 
 
 def clean_gamestats():
@@ -19,6 +19,9 @@ def clean_gamestats():
     players_current = None
 
     for line in lines:
+        # TODO:
+        # refresh playerkilled etc. with None for e.g.
+
         # use only lines with data
         if line[:1] != "[":
             continue
