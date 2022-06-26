@@ -3,4 +3,5 @@
 import clean
 
 if __name__ == '__main__':
+    # to be run on one log
     clean.clean_gamestats()
