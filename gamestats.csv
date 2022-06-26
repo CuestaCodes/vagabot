@@ -1,1 +1,1 @@
-﻿datetime,event_number,game_no,map,player,player_killed,player_died
+﻿datetime,event_number,game_no,map, map_key, player,player_killed,player_died

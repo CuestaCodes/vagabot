@@ -16,7 +16,10 @@ def clean_gamestats():
     event_num = -1
     map_num = None
     map_current = None
-    players_current = None
+    player = None
+    player_killed = None
+    player_died = None
+    row_details = None
 
     for line in lines:
         # TODO:
@@ -27,6 +30,9 @@ def clean_gamestats():
             continue
 
         details = line.split("::", 1)
+        # check if line was split with ::
+        if len(details) < 2:
+            continue
 
         # extract datetime, can be called later
         datetime_details = details[0].split(" ")
@@ -48,17 +54,44 @@ def clean_gamestats():
         # keep track of map number and reset map name and players
         elif event_name == "Event_LevelInit":
             map_name = event_details[1:-1]
+
+            # debug
             print(map_name)
 
             map_num = map_num + 1
             map_current = map_name
-            players_current = set()
             continue
 
-        break
+        # insert new row when player kills other
+        elif event_name == "Event_PlayerKilledOther":
+            players = event_details.split("] killed [")
 
-        # TODO:
-        # create event/mapnumber code?
-        # if PlayerKilled then store datetime, event_num, map_num, map, player,
-        # 	player_killed as new entry in working csv
-        # if PlayerDied then store datetime, event_num, map_num, player_died
+            player = players[0][1:]
+            player_killed = players[1][:-1]
+            player_died = None
+
+            row_details = [datetime_val, event_num, map_num,
+                           map_current, str(map_num) + " " + map_current, player, player_killed, player_died]
+            df.loc[len(df)] = row_details
+
+        # insert new row when playerkilled
+        elif event_name == "Event_PlayerKilled":
+            player_details = event_details.split("] [")
+
+            player_died = player_details[0][1:]
+            player = None
+            player_killed = None
+
+            row_details = [datetime_val, event_num, map_num,
+                           map_current, str(map_num) + " " + map_current, player, player_killed, player_died]
+            df.loc[len(df)] = row_details
+
+            # debug
+            print(df.head())
+            break
+
+            # TODO:
+            # create event/mapnumber code?
+            # if PlayerKilled then store datetime, event_num, map_num, map, player,
+            # 	player_killed as new entry in working csv
+            # if PlayerDied then store datetime, event_num, map_num, player_died
