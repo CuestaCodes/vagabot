@@ -43,6 +43,10 @@ def clean_gamestats():
         # separate event name from its details
         event = details[1].split(" ", 1)
         event_name = event[0]
+
+        # check if any event details
+        if len(event) < 2:
+            continue
         event_details = event[1]
 
         # keep track of event number and refresh map counter
@@ -54,9 +58,6 @@ def clean_gamestats():
         # keep track of map number and reset map name and players
         elif event_name == "Event_LevelInit":
             map_name = event_details[1:-1]
-
-            # debug
-            print(map_name)
 
             map_num = map_num + 1
             map_current = map_name
@@ -86,12 +87,10 @@ def clean_gamestats():
                            map_current, str(map_num) + " " + map_current, player, player_killed, player_died]
             df.loc[len(df)] = row_details
 
-            # debug
-            print(df.head())
-            break
-
             # TODO:
             # create event/mapnumber code?
             # if PlayerKilled then store datetime, event_num, map_num, map, player,
             # 	player_killed as new entry in working csv
             # if PlayerDied then store datetime, event_num, map_num, player_died
+
+    df.to_csv("gamestatscleaned.csv", index=False)
