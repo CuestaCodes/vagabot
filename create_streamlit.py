@@ -1,5 +1,7 @@
 # created 27/06/2022
-# credit: https://github.com/AndriiGoz/football_game_stats
+# credit:
+# https://github.com/AndriiGoz/football_game_stats
+# https://docs.streamlit.io/knowledge-base/using-streamlit/hide-row-indices-displaying-dataframe
 import streamlit as st
 import pandas as pd
 
@@ -51,4 +53,19 @@ def create_st():
     df_player = pd.concat(
         [df_player_only, df_player_killed, df_player_died]).drop_duplicates()
 
-    print(df_player)
+    # get ranking df by kills
+    df_player_rank = df_map.groupby(
+        ['player'])['player_killed'].count().reset_index(name='kills')
+
+    # hide row index
+    # CSS to inject contained in a string
+    hide_table_row_index = """
+            <style>
+            tbody th {display:none}
+            .blank {display:none}
+            </style>
+            """
+    # Inject CSS with Markdown
+    st.markdown(hide_table_row_index, unsafe_allow_html=True)
+
+    st.table(df_player_rank)
