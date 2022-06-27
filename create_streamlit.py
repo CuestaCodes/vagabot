@@ -76,18 +76,20 @@ def create_st():
     # show ranking table
     st.table(df_player_rank[['ranking', 'player', 'kills']])
 
-    N = 15
-    theta = np.linspace(0.0, 2 * np.pi, N, endpoint=False)
+    # get count of kills for each player
+    df_player_only_kills = df_player.groupby(['player_killed'])[
+        'player_killed'].count().reset_index(name='kills')
+
     r = np.array(
-        [0.9928, 0.9854, 0.9829, 0.9794, 0.9727, 0.9698, 0.9657, 0.9641, 0.9651, 0.9482, 0.9557, 0.9404, 0.9360, 0.9270,
-         0.9253])
+        df_player_only_kills['kills'].tolist())
+    label = df_player_only_kills['player_killed'].tolist()
+    N = len(label)
+    theta = np.linspace(0.0, 2 * np.pi, N, endpoint=False)
     width = np.array([0.4] * N)
-    label = ["a", "b", "c", "d", "e", "f", "g",
-             "h", "i", "j", "l", "m", "n", "o", "p"]
 
     ax = plt.subplot(111, projection='polar')
 
-    ax.set_rlim(0.9, 1)
+    ax.set_rlim(0, max(r))
     ax.set_yticklabels([])
     ax.grid(False)
     for spine in ax.spines.values():
@@ -96,4 +98,4 @@ def create_st():
                       bottom=0.9, alpha=0.5, tick_label=label)
 
     ax.bar_label(l_values)
-    plt.show()
+    st.pyplot()
