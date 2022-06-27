@@ -8,7 +8,7 @@ def create_st():
     # open cleaned gamestats
     df = pd.read_csv("gamestatscleaned.csv", header=0)
 
-    event_list = df['event_number'].tolist()
+    event_list = df['event_number'].tolist().unique()
 
     # set page config
     st.set_page_config(page_title='Match Game Statistics',
@@ -22,7 +22,7 @@ def create_st():
     df_event = df[df.event_number == menu_event]
 
     # get map names
-    map_list = df_event['make_key'].tolist()
+    map_list = df_event['map_key'].tolist()
 
     # get player names
     player_set = set(df_event['player'].dropna())
