@@ -8,7 +8,7 @@ def create_st():
     # open cleaned gamestats
     df = pd.read_csv("gamestatscleaned.csv", header=0)
 
-    event_list = df['event_number'].tolist().unique()
+    event_list = set(df['event_number'].tolist())
 
     # set page config
     st.set_page_config(page_title='Match Game Statistics',
