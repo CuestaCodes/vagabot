@@ -105,7 +105,7 @@ def create_st():
 
     deaths = killed + died
     if deaths == 0:
-        kdr = 1
+        kdr = kills
     else:
         kdr = np.round(kills / deaths, 2)
     st.write('###### Kills: ', kills, '&emsp;Deaths: ',
