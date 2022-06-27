@@ -35,7 +35,7 @@ def create_st():
     menu_map = st.sidebar.selectbox('Select Map', map_list_sorted)
 
     # reduce dataframe with selected map
-    df_map = df[df.map_key == menu_map]
+    df_map = df_event[df_event.map_key == menu_map]
 
     # get player names
     player_set = set(df_map['player'].dropna())
@@ -95,7 +95,8 @@ def create_st():
     for spine in ax.spines.values():
         spine.set_visible(False)
     l_values = ax.bar(x=theta, height=r, width=width,
-                      bottom=0.1, alpha=0.5, tick_label=label)
+                      bottom=0.1*max(r), alpha=0.5, tick_label=label)
 
     ax.bar_label(l_values, label_type='center')
-    plt.show()
+    st.set_option('deprecation.showPyplotGlobalUse', False)
+    st.pyplot()
