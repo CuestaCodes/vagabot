@@ -62,6 +62,14 @@ def create_st():
         'kills', ascending=False).head(5).reset_index()
     df_player_rank['ranking'] = df_player_rank.index + 1
 
+    # titles above top 5 table
+    st.title('Match Game Statistics')
+
+    # get mapname and title
+    map_name = menu_map.split(' ', 1)[1]
+    st.write('### map ', map_name)
+    st.write('###### Top 5:')
+
     # hide row index
     # CSS to inject contained in a string
     hide_table_row_index = """
