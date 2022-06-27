@@ -56,8 +56,9 @@ def create_st():
     # get ranking df by kills
     df_player_kills = df_map.groupby(
         ['player'])['player_killed'].count().reset_index(name='kills')
-    df_player_kills_sorted = df_player_kills.sort_values('kills').head(5)
-    df_player_rank = df_player_kills_sorted.index + 1
+    df_player_rank = df_player_kills.sort_values(
+        'kills', ascending=False).head(5).reset_index()
+    df_player_rank['ranking'] = df_player_rank.index + 1
 
     # hide row index
     # CSS to inject contained in a string
@@ -70,4 +71,5 @@ def create_st():
     # Inject CSS with Markdown
     st.markdown(hide_table_row_index, unsafe_allow_html=True)
 
-    st.table(df_player_rank)
+    # show ranking table
+    st.table(df_player_rank[['ranking', 'player', 'kills']])
