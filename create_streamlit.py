@@ -22,7 +22,8 @@ def create_st():
     df_event = df[df.event_number == menu_event]
 
     # get map names
-    map_list = sorted(list(set(df_event['map_key'])))
+    map_list = df_event['map_key'].tolist()
+    map_list_sorted = sorted(set(map_list), key=lambda x: map_list.index(x))
 
     # get player names
     player_set = set(df_event['player'].dropna())
@@ -34,7 +35,7 @@ def create_st():
 
     # create drop-down menu for map and player
     st.sidebar.markdown('## Select Map and Player')
-    menu_map = st.sidebar.selectbox('Select Map', map_list)
+    menu_map = st.sidebar.selectbox('Select Map', map_list_sorted)
     menu_player = st.sidebar.selectbox('Select Player', player_list)
     st.sidebar.markdown(
         'Select a map and player to see their match statistics.')
