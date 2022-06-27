@@ -22,7 +22,7 @@ def create_st():
     df_event = df[df.event_number == menu_event]
 
     # get map names
-    map_list = list(set(df_event['map_key']))
+    map_list = sorted(list(set(df_event['map_key'])))
 
     # get player names
     player_set = set(df_event['player'].dropna())
