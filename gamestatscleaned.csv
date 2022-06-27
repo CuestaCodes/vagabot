@@ -1,0 +1,2045 @@
+datetime,event_number,game_no,map,map_key,player,player_killed,player_died
+15/05/2022 9:39,0,0,dod_anzio,0 dod_anzio,osgSaber,func_breakable,
+15/05/2022 9:39,0,0,dod_anzio,0 dod_anzio,osgSaber,func_breakable,
+15/05/2022 9:40,0,0,dod_anzio,0 dod_anzio,,,Aftershock_
+15/05/2022 9:40,0,0,dod_anzio,0 dod_anzio,osgSaber,player,
+15/05/2022 9:41,0,0,dod_anzio,0 dod_anzio,,,Aftershock_
+15/05/2022 9:41,0,0,dod_anzio,0 dod_anzio,osgSaber,player,
+15/05/2022 9:42,0,0,dod_anzio,0 dod_anzio,osgSaber,func_breakable,
+15/05/2022 9:44,0,1,dod_palermo,1 dod_palermo,osgSaber,prop_physics_multiplayer,
+15/05/2022 9:45,0,1,dod_palermo,1 dod_palermo,osgSaber,prop_physics_multiplayer,
+15/05/2022 9:45,0,1,dod_palermo,1 dod_palermo,osgSaber,prop_physics_multiplayer,
+15/05/2022 9:47,0,1,dod_palermo,1 dod_palermo,,,osgSaber
+15/05/2022 9:47,0,1,dod_palermo,1 dod_palermo,GodModuleAU,player,
+15/05/2022 9:47,0,1,dod_palermo,1 dod_palermo,,,Aftershock_
+15/05/2022 9:47,0,1,dod_palermo,1 dod_palermo,GodModuleAU,player,
+15/05/2022 9:48,0,1,dod_palermo,1 dod_palermo,Direhelix,prop_physics_multiplayer,
+15/05/2022 9:48,0,1,dod_palermo,1 dod_palermo,Direhelix,prop_physics_multiplayer,
+15/05/2022 9:48,0,1,dod_palermo,1 dod_palermo,,,Aftershock_
+15/05/2022 9:48,0,1,dod_palermo,1 dod_palermo,Direhelix,player,
+15/05/2022 9:48,0,1,dod_palermo,1 dod_palermo,,,Direhelix
+15/05/2022 9:48,0,1,dod_palermo,1 dod_palermo,osgSaber,player,
+15/05/2022 9:48,0,1,dod_palermo,1 dod_palermo,,,osgSaber
+15/05/2022 9:48,0,1,dod_palermo,1 dod_palermo,GodModuleAU,player,
+15/05/2022 9:48,0,1,dod_palermo,1 dod_palermo,,,GodModuleAU
+15/05/2022 9:48,0,1,dod_palermo,1 dod_palermo,Aftershock_,player,
+15/05/2022 9:48,0,1,dod_palermo,1 dod_palermo,,,Aftershock_
+15/05/2022 9:48,0,1,dod_palermo,1 dod_palermo,Direhelix,player,
+15/05/2022 9:49,0,1,dod_palermo,1 dod_palermo,,,osgSaber
+15/05/2022 9:49,0,1,dod_palermo,1 dod_palermo,Direhelix,player,
+15/05/2022 9:50,0,1,dod_palermo,1 dod_palermo,,,osgSaber
+15/05/2022 9:50,0,1,dod_palermo,1 dod_palermo,GodModuleAU,player,
+15/05/2022 9:50,0,1,dod_palermo,1 dod_palermo,Direhelix,prop_physics_multiplayer,
+15/05/2022 9:50,0,1,dod_palermo,1 dod_palermo,,,Aftershock_
+15/05/2022 9:50,0,1,dod_palermo,1 dod_palermo,Direhelix,player,
+15/05/2022 9:50,0,1,dod_palermo,1 dod_palermo,,,Direhelix
+15/05/2022 9:50,0,1,dod_palermo,1 dod_palermo,osgSaber,player,
+15/05/2022 9:50,0,1,dod_palermo,1 dod_palermo,,,GodModuleAU
+15/05/2022 9:50,0,1,dod_palermo,1 dod_palermo,Aftershock_,player,
+15/05/2022 9:50,0,1,dod_palermo,1 dod_palermo,Direhelix,prop_physics_multiplayer,
+15/05/2022 9:50,0,1,dod_palermo,1 dod_palermo,,,Direhelix
+15/05/2022 9:50,0,1,dod_palermo,1 dod_palermo,osgSaber,player,
+15/05/2022 9:50,0,1,dod_palermo,1 dod_palermo,,,Direhelix
+15/05/2022 9:50,0,1,dod_palermo,1 dod_palermo,osgSaber,player,
+15/05/2022 9:51,0,1,dod_palermo,1 dod_palermo,,,osgSaber
+15/05/2022 9:51,0,1,dod_palermo,1 dod_palermo,GodModuleAU,player,
+15/05/2022 9:51,0,1,dod_palermo,1 dod_palermo,Direhelix,prop_physics_multiplayer,
+15/05/2022 9:51,0,1,dod_palermo,1 dod_palermo,,,Aftershock_
+15/05/2022 9:51,0,1,dod_palermo,1 dod_palermo,GodModuleAU,player,
+15/05/2022 9:51,0,1,dod_palermo,1 dod_palermo,Direhelix,func_breakable,
+15/05/2022 9:51,0,1,dod_palermo,1 dod_palermo,,,osgSaber
+15/05/2022 9:51,0,1,dod_palermo,1 dod_palermo,Direhelix,player,
+15/05/2022 9:52,0,1,dod_palermo,1 dod_palermo,,,Aftershock_
+15/05/2022 9:52,0,1,dod_palermo,1 dod_palermo,Direhelix,player,
+15/05/2022 9:52,0,1,dod_palermo,1 dod_palermo,,,GodModuleAU
+15/05/2022 9:52,0,1,dod_palermo,1 dod_palermo,osgSaber,player,
+15/05/2022 9:52,0,1,dod_palermo,1 dod_palermo,,,GodModuleAU
+15/05/2022 9:52,0,1,dod_palermo,1 dod_palermo,osgSaber,player,
+15/05/2022 9:52,0,1,dod_palermo,1 dod_palermo,,,Direhelix
+15/05/2022 9:52,0,1,dod_palermo,1 dod_palermo,osgSaber,player,
+15/05/2022 9:53,0,1,dod_palermo,1 dod_palermo,,,Direhelix
+15/05/2022 9:53,0,1,dod_palermo,1 dod_palermo,osgSaber,player,
+15/05/2022 9:53,0,1,dod_palermo,1 dod_palermo,,,osgSaber
+15/05/2022 9:53,0,1,dod_palermo,1 dod_palermo,Direhelix,player,
+15/05/2022 9:54,0,1,dod_palermo,1 dod_palermo,,,Direhelix
+15/05/2022 9:54,0,1,dod_palermo,1 dod_palermo,osgSaber,player,
+15/05/2022 9:54,0,1,dod_palermo,1 dod_palermo,GodModuleAU,prop_physics_multiplayer,
+15/05/2022 9:54,0,1,dod_palermo,1 dod_palermo,Direhelix,prop_physics_multiplayer,
+15/05/2022 9:54,0,1,dod_palermo,1 dod_palermo,Direhelix,prop_physics_multiplayer,
+15/05/2022 9:54,0,1,dod_palermo,1 dod_palermo,GodModuleAU,prop_physics_multiplayer,
+15/05/2022 9:54,0,1,dod_palermo,1 dod_palermo,,,GodModuleAU
+15/05/2022 9:54,0,1,dod_palermo,1 dod_palermo,osgSaber,player,
+15/05/2022 9:54,0,1,dod_palermo,1 dod_palermo,,,Direhelix
+15/05/2022 9:54,0,1,dod_palermo,1 dod_palermo,osgSaber,player,
+15/05/2022 9:54,0,1,dod_palermo,1 dod_palermo,,,GodModuleAU
+15/05/2022 9:54,0,1,dod_palermo,1 dod_palermo,osgSaber,player,
+15/05/2022 9:55,0,1,dod_palermo,1 dod_palermo,,,Direhelix
+15/05/2022 9:55,0,1,dod_palermo,1 dod_palermo,osgSaber,player,
+15/05/2022 9:55,0,1,dod_palermo,1 dod_palermo,,,GodModuleAU
+15/05/2022 9:55,0,1,dod_palermo,1 dod_palermo,osgSaber,player,
+15/05/2022 9:55,0,1,dod_palermo,1 dod_palermo,,,Direhelix
+15/05/2022 9:55,0,1,dod_palermo,1 dod_palermo,osgSaber,player,
+15/05/2022 9:55,0,1,dod_palermo,1 dod_palermo,Direhelix,prop_physics_multiplayer,
+15/05/2022 9:55,0,1,dod_palermo,1 dod_palermo,,,osgSaber
+15/05/2022 9:55,0,1,dod_palermo,1 dod_palermo,GodModuleAU,player,
+15/05/2022 9:56,0,1,dod_palermo,1 dod_palermo,,,Direhelix
+15/05/2022 9:56,0,1,dod_palermo,1 dod_palermo,osgSaber,player,
+15/05/2022 9:56,0,1,dod_palermo,1 dod_palermo,,,Direhelix
+15/05/2022 9:56,0,1,dod_palermo,1 dod_palermo,osgSaber,player,
+15/05/2022 9:56,0,1,dod_palermo,1 dod_palermo,,,GodModuleAU
+15/05/2022 9:56,0,1,dod_palermo,1 dod_palermo,osgSaber,player,
+15/05/2022 9:56,0,1,dod_palermo,1 dod_palermo,,,osgSaber
+15/05/2022 9:56,0,1,dod_palermo,1 dod_palermo,Direhelix,player,
+15/05/2022 9:56,0,1,dod_palermo,1 dod_palermo,,,Direhelix
+15/05/2022 9:56,0,1,dod_palermo,1 dod_palermo,GodModuleAU,player,
+15/05/2022 9:57,0,1,dod_palermo,1 dod_palermo,,,osgSaber
+15/05/2022 9:57,0,1,dod_palermo,1 dod_palermo,GodModuleAU,player,
+15/05/2022 9:57,0,1,dod_palermo,1 dod_palermo,,,osgSaber
+15/05/2022 9:57,0,1,dod_palermo,1 dod_palermo,Direhelix,player,
+15/05/2022 9:58,0,1,dod_palermo,1 dod_palermo,,,Direhelix
+15/05/2022 9:58,0,1,dod_palermo,1 dod_palermo,osgSaber,player,
+15/05/2022 9:58,0,1,dod_palermo,1 dod_palermo,,,Direhelix
+15/05/2022 9:58,0,1,dod_palermo,1 dod_palermo,osgSaber,player,
+15/05/2022 9:58,0,1,dod_palermo,1 dod_palermo,,,GodModuleAU
+15/05/2022 9:58,0,1,dod_palermo,1 dod_palermo,osgSaber,player,
+15/05/2022 9:58,0,1,dod_palermo,1 dod_palermo,,,Direhelix
+15/05/2022 9:58,0,1,dod_palermo,1 dod_palermo,osgSaber,player,
+15/05/2022 9:58,0,1,dod_palermo,1 dod_palermo,,,GodModuleAU
+15/05/2022 9:58,0,1,dod_palermo,1 dod_palermo,Direhelix,player,
+15/05/2022 9:58,0,1,dod_palermo,1 dod_palermo,,,Direhelix
+15/05/2022 9:58,0,1,dod_palermo,1 dod_palermo,osgSaber,player,
+15/05/2022 9:58,0,1,dod_palermo,1 dod_palermo,,,GodModuleAU
+15/05/2022 9:58,0,1,dod_palermo,1 dod_palermo,Direhelix,player,
+15/05/2022 9:59,0,1,dod_palermo,1 dod_palermo,,,osgSaber
+15/05/2022 9:59,0,1,dod_palermo,1 dod_palermo,GodModuleAU,player,
+15/05/2022 9:59,0,1,dod_palermo,1 dod_palermo,,,osgSaber
+15/05/2022 9:59,0,1,dod_palermo,1 dod_palermo,GodModuleAU,player,
+15/05/2022 9:59,0,1,dod_palermo,1 dod_palermo,,,Direhelix
+15/05/2022 9:59,0,1,dod_palermo,1 dod_palermo,osgSaber,player,
+15/05/2022 10:00,0,1,dod_palermo,1 dod_palermo,,,GodModuleAU
+15/05/2022 10:00,0,1,dod_palermo,1 dod_palermo,Direhelix,player,
+15/05/2022 10:00,0,1,dod_palermo,1 dod_palermo,,,osgSaber
+15/05/2022 10:00,0,1,dod_palermo,1 dod_palermo,Direhelix,player,
+15/05/2022 10:00,0,1,dod_palermo,1 dod_palermo,,,osgSaber
+15/05/2022 10:00,0,1,dod_palermo,1 dod_palermo,Direhelix,player,
+15/05/2022 10:01,0,1,dod_palermo,1 dod_palermo,,,osgSaber
+15/05/2022 10:01,0,1,dod_palermo,1 dod_palermo,Direhelix,player,
+15/05/2022 10:01,0,1,dod_palermo,1 dod_palermo,,,Direhelix
+15/05/2022 10:01,0,1,dod_palermo,1 dod_palermo,osgSaber,player,
+15/05/2022 10:01,0,1,dod_palermo,1 dod_palermo,,,osgSaber
+15/05/2022 10:01,0,1,dod_palermo,1 dod_palermo,GodModuleAU,player,
+15/05/2022 10:01,0,1,dod_palermo,1 dod_palermo,,,Direhelix
+15/05/2022 10:01,0,1,dod_palermo,1 dod_palermo,osgSaber,player,
+15/05/2022 10:01,0,1,dod_palermo,1 dod_palermo,,,GodModuleAU
+15/05/2022 10:01,0,1,dod_palermo,1 dod_palermo,osgSaber,player,
+15/05/2022 10:01,0,1,dod_palermo,1 dod_palermo,,,GodModuleAU
+15/05/2022 10:01,0,1,dod_palermo,1 dod_palermo,osgSaber,player,
+15/05/2022 10:02,0,1,dod_palermo,1 dod_palermo,,,Direhelix
+15/05/2022 10:02,0,1,dod_palermo,1 dod_palermo,osgSaber,player,
+15/05/2022 10:02,0,1,dod_palermo,1 dod_palermo,,,Direhelix
+15/05/2022 10:02,0,1,dod_palermo,1 dod_palermo,osgSaber,player,
+15/05/2022 10:02,0,1,dod_palermo,1 dod_palermo,,,osgSaber
+15/05/2022 10:02,0,1,dod_palermo,1 dod_palermo,GodModuleAU,player,
+15/05/2022 10:02,0,1,dod_palermo,1 dod_palermo,GodModuleAU,prop_physics_multiplayer,
+15/05/2022 10:02,0,1,dod_palermo,1 dod_palermo,,,GodModuleAU
+15/05/2022 10:02,0,1,dod_palermo,1 dod_palermo,osgSaber,player,
+15/05/2022 10:02,0,1,dod_palermo,1 dod_palermo,,,Direhelix
+15/05/2022 10:02,0,1,dod_palermo,1 dod_palermo,osgSaber,player,
+15/05/2022 10:02,0,1,dod_palermo,1 dod_palermo,osgSaber,prop_physics_multiplayer,
+15/05/2022 10:02,0,1,dod_palermo,1 dod_palermo,,,GodModuleAU
+15/05/2022 10:02,0,1,dod_palermo,1 dod_palermo,osgSaber,player,
+15/05/2022 10:02,0,1,dod_palermo,1 dod_palermo,,,Direhelix
+15/05/2022 10:02,0,1,dod_palermo,1 dod_palermo,osgSaber,player,
+15/05/2022 10:04,0,3,dod_kalt,3 dod_kalt,osgSaber,prop_physics_multiplayer,
+15/05/2022 10:04,0,3,dod_kalt,3 dod_kalt,osgSaber,prop_physics,
+15/05/2022 10:04,0,3,dod_kalt,3 dod_kalt,,,GodModuleAU
+15/05/2022 10:04,0,3,dod_kalt,3 dod_kalt,,,osgSaber
+15/05/2022 10:04,0,3,dod_kalt,3 dod_kalt,GodModuleAU,player,
+15/05/2022 10:04,0,3,dod_kalt,3 dod_kalt,,,GodModuleAU
+15/05/2022 10:04,0,3,dod_kalt,3 dod_kalt,Direhelix,player,
+15/05/2022 10:05,0,3,dod_kalt,3 dod_kalt,,,GodModuleAU
+15/05/2022 10:05,0,3,dod_kalt,3 dod_kalt,Direhelix,player,
+15/05/2022 10:05,0,3,dod_kalt,3 dod_kalt,,,Direhelix
+15/05/2022 10:05,0,3,dod_kalt,3 dod_kalt,GodModuleAU,player,
+15/05/2022 10:05,0,3,dod_kalt,3 dod_kalt,,,osgSaber
+15/05/2022 10:05,0,3,dod_kalt,3 dod_kalt,GodModuleAU,player,
+15/05/2022 10:06,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Sorter
+15/05/2022 10:06,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Direhelix,player,
+15/05/2022 10:06,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,GodModuleAU
+15/05/2022 10:06,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,osgSaber,player,
+15/05/2022 10:06,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,osgSaber
+15/05/2022 10:06,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Sorter,player,
+15/05/2022 10:06,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Direhelix
+15/05/2022 10:06,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Sorter,player,
+15/05/2022 10:06,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,GodModuleAU
+15/05/2022 10:06,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,osgSaber,player,
+15/05/2022 10:06,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Sorter
+15/05/2022 10:06,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,osgSaber,player,
+15/05/2022 10:07,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,osgSaber
+15/05/2022 10:07,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,GodModuleAU,player,
+15/05/2022 10:07,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Sorter
+15/05/2022 10:07,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Direhelix,player,
+15/05/2022 10:07,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,osgSaber
+15/05/2022 10:07,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Sorter,player,
+15/05/2022 10:07,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Direhelix
+15/05/2022 10:07,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Sorter,player,
+15/05/2022 10:07,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,osgSaber
+15/05/2022 10:07,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Sorter,player,
+15/05/2022 10:07,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Direhelix
+15/05/2022 10:07,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Sorter,player,
+15/05/2022 10:07,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Sorter
+15/05/2022 10:07,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,osgSaber,player,
+15/05/2022 10:08,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,GodModuleAU
+15/05/2022 10:08,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,osgSaber,player,
+15/05/2022 10:08,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Sorter
+15/05/2022 10:08,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Direhelix,player,
+15/05/2022 10:08,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,GodModuleAU
+15/05/2022 10:08,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,osgSaber,player,
+15/05/2022 10:08,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,osgSaber
+15/05/2022 10:08,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Sorter,player,
+15/05/2022 10:08,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Direhelix
+15/05/2022 10:08,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,GodModuleAU,player,
+15/05/2022 10:08,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,GodModuleAU
+15/05/2022 10:08,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,osgSaber,player,
+15/05/2022 10:08,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Sorter
+15/05/2022 10:08,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,osgSaber,player,
+15/05/2022 10:09,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,GodModuleAU
+15/05/2022 10:09,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,osgSaber,player,
+15/05/2022 10:09,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Sorter
+15/05/2022 10:09,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,osgSaber,player,
+15/05/2022 10:09,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,osgSaber
+15/05/2022 10:09,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,GodModuleAU,player,
+15/05/2022 10:09,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,GodModuleAU
+15/05/2022 10:09,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Direhelix,player,
+15/05/2022 10:09,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,osgSaber
+15/05/2022 10:09,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,GodModuleAU,player,
+15/05/2022 10:09,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Direhelix
+15/05/2022 10:09,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Sorter,player,
+15/05/2022 10:09,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Direhelix
+15/05/2022 10:09,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,GodModuleAU,player,
+15/05/2022 10:09,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,osgSaber
+15/05/2022 10:09,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Sorter,player,
+15/05/2022 10:10,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Direhelix
+15/05/2022 10:10,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,GodModuleAU,player,
+15/05/2022 10:10,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,osgSaber
+15/05/2022 10:10,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,GodModuleAU,player,
+15/05/2022 10:10,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Sorter
+15/05/2022 10:10,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,osgSaber,player,
+15/05/2022 10:10,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,osgSaber
+15/05/2022 10:10,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,GodModuleAU,player,
+15/05/2022 10:10,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Sorter
+15/05/2022 10:10,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,osgSaber,player,
+15/05/2022 10:10,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,GodModuleAU
+15/05/2022 10:10,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,osgSaber,player,
+15/05/2022 10:10,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Sorter
+15/05/2022 10:10,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,osgSaber,player,
+15/05/2022 10:11,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Sorter
+15/05/2022 10:11,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,osgSaber,player,
+15/05/2022 10:11,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,GodModuleAU
+15/05/2022 10:11,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,osgSaber,player,
+15/05/2022 10:11,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Sorter
+15/05/2022 10:11,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,osgSaber,player,
+15/05/2022 10:11,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,osgSaber
+15/05/2022 10:11,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,GodModuleAU,player,
+15/05/2022 10:11,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Direhelix
+15/05/2022 10:11,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Sorter,player,
+15/05/2022 10:11,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Sorter
+15/05/2022 10:11,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,osgSaber,player,
+15/05/2022 10:12,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,GodModuleAU
+15/05/2022 10:12,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,osgSaber,player,
+15/05/2022 10:12,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,osgSaber
+15/05/2022 10:12,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Sorter,player,
+15/05/2022 10:12,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Direhelix
+15/05/2022 10:12,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Sorter,player,
+15/05/2022 10:12,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,mcmuff
+15/05/2022 10:12,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Sorter,player,
+15/05/2022 10:12,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,osgSaber
+15/05/2022 10:12,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,GodModuleAU,player,
+15/05/2022 10:12,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Sorter
+15/05/2022 10:12,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Direhelix,player,
+15/05/2022 10:12,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,GodModuleAU
+15/05/2022 10:12,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Direhelix,player,
+15/05/2022 10:12,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Direhelix
+15/05/2022 10:12,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Sorter,player,
+15/05/2022 10:12,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,osgSaber
+15/05/2022 10:12,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Sorter,player,
+15/05/2022 10:13,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Direhelix
+15/05/2022 10:13,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Sorter,player,
+15/05/2022 10:13,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Direhelix
+15/05/2022 10:13,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,GodModuleAU,player,
+15/05/2022 10:13,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,osgSaber
+15/05/2022 10:13,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,GodModuleAU,player,
+15/05/2022 10:13,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,GodModuleAU
+15/05/2022 10:13,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Direhelix,player,
+15/05/2022 10:13,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,osgSaber
+15/05/2022 10:13,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Sorter,player,
+15/05/2022 10:13,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Sorter
+15/05/2022 10:13,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Direhelix,player,
+15/05/2022 10:13,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Direhelix
+15/05/2022 10:13,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,GodModuleAU,player,
+15/05/2022 10:14,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,GodModuleAU
+15/05/2022 10:14,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,osgSaber,player,
+15/05/2022 10:14,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,osgSaber
+15/05/2022 10:14,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,GodModuleAU,player,
+15/05/2022 10:14,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Direhelix
+15/05/2022 10:14,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,GodModuleAU,player,
+15/05/2022 10:14,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,osgSaber
+15/05/2022 10:14,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Sorter,player,
+15/05/2022 10:14,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Direhelix
+15/05/2022 10:14,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,GodModuleAU,player,
+15/05/2022 10:14,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,GodModuleAU
+15/05/2022 10:14,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,osgSaber,player,
+15/05/2022 10:14,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,osgSaber
+15/05/2022 10:14,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Sorter,player,
+15/05/2022 10:14,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Direhelix
+15/05/2022 10:14,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Sorter,player,
+15/05/2022 10:14,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,osgSaber
+15/05/2022 10:14,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Sorter,player,
+15/05/2022 10:15,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Sorter
+15/05/2022 10:15,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Direhelix,player,
+15/05/2022 10:15,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Direhelix
+15/05/2022 10:15,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Sorter,player,
+15/05/2022 10:15,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,GodModuleAU
+15/05/2022 10:15,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,osgSaber,player,
+15/05/2022 10:15,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,osgSaber
+15/05/2022 10:15,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Sorter,player,
+15/05/2022 10:15,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Direhelix
+15/05/2022 10:15,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Sorter,player,
+15/05/2022 10:15,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,GodModuleAU
+15/05/2022 10:15,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,osgSaber,player,
+15/05/2022 10:15,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,osgSaber
+15/05/2022 10:15,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Sorter,player,
+15/05/2022 10:16,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,osgSaber
+15/05/2022 10:16,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Sorter,player,
+15/05/2022 10:16,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Sorter
+15/05/2022 10:16,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Direhelix,player,
+15/05/2022 10:16,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Direhelix
+15/05/2022 10:16,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,GodModuleAU,player,
+15/05/2022 10:16,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,osgSaber
+15/05/2022 10:16,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,GodModuleAU,player,
+15/05/2022 10:16,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Direhelix
+15/05/2022 10:16,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,GodModuleAU,player,
+15/05/2022 10:16,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,GodModuleAU
+15/05/2022 10:16,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,osgSaber,player,
+15/05/2022 10:16,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,osgSaber
+15/05/2022 10:16,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Sorter,player,
+15/05/2022 10:16,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Sorter
+15/05/2022 10:16,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Direhelix,player,
+15/05/2022 10:17,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Direhelix
+15/05/2022 10:17,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,GodModuleAU,player,
+15/05/2022 10:17,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,GodModuleAU
+15/05/2022 10:17,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,osgSaber,player,
+15/05/2022 10:17,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Sorter
+15/05/2022 10:17,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,osgSaber,player,
+15/05/2022 10:17,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,osgSaber
+15/05/2022 10:17,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,GodModuleAU,player,
+15/05/2022 10:17,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Direhelix
+15/05/2022 10:17,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,GodModuleAU,player,
+15/05/2022 10:17,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,GodModuleAU
+15/05/2022 10:17,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,osgSaber,player,
+15/05/2022 10:17,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,osgSaber
+15/05/2022 10:17,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Sorter,player,
+15/05/2022 10:17,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Direhelix
+15/05/2022 10:17,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Sorter,player,
+15/05/2022 10:17,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Sorter
+15/05/2022 10:17,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,osgSaber,player,
+15/05/2022 10:17,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,GodModuleAU
+15/05/2022 10:17,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,osgSaber,player,
+15/05/2022 10:18,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,osgSaber
+15/05/2022 10:18,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Sorter,player,
+15/05/2022 10:18,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Direhelix
+15/05/2022 10:18,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,GodModuleAU,player,
+15/05/2022 10:18,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Lex
+15/05/2022 10:18,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Sorter,player,
+15/05/2022 10:18,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Sorter
+15/05/2022 10:18,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Direhelix,player,
+15/05/2022 10:18,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Direhelix
+15/05/2022 10:18,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,GodModuleAU,player,
+15/05/2022 10:18,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,osgSaber
+15/05/2022 10:18,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,GodModuleAU,player,
+15/05/2022 10:18,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Direhelix
+15/05/2022 10:18,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,GodModuleAU,player,
+15/05/2022 10:18,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Lex
+15/05/2022 10:18,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,GodModuleAU,player,
+15/05/2022 10:19,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Sorter
+15/05/2022 10:19,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,osgSaber,player,
+15/05/2022 10:19,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Direhelix
+15/05/2022 10:19,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,GodModuleAU,player,
+15/05/2022 10:19,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Lex
+15/05/2022 10:19,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,GodModuleAU,player,
+15/05/2022 10:19,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,osgSaber
+15/05/2022 10:19,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Sorter,player,
+15/05/2022 10:19,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Direhelix
+15/05/2022 10:19,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Sorter,player,
+15/05/2022 10:19,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,GodModuleAU
+15/05/2022 10:19,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,osgSaber,player,
+15/05/2022 10:19,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,osgSaber
+15/05/2022 10:19,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Sorter,player,
+15/05/2022 10:19,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Sorter
+15/05/2022 10:19,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Direhelix,player,
+15/05/2022 10:20,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Lex
+15/05/2022 10:20,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,GodModuleAU,player,
+15/05/2022 10:20,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Direhelix
+15/05/2022 10:20,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,GodModuleAU,player,
+15/05/2022 10:20,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,osgSaber
+15/05/2022 10:20,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,GodModuleAU,player,
+15/05/2022 10:20,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Lex
+15/05/2022 10:20,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Sorter,player,
+15/05/2022 10:20,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Direhelix
+15/05/2022 10:20,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,osgSaber
+15/05/2022 10:20,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,GodModuleAU,player,
+15/05/2022 10:20,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,GodModuleAU
+15/05/2022 10:20,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,osgSaber,player,
+15/05/2022 10:20,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Direhelix
+15/05/2022 10:20,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Sorter,player,
+15/05/2022 10:20,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Lex
+15/05/2022 10:20,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Sorter,player,
+15/05/2022 10:20,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Sorter
+15/05/2022 10:20,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,osgSaber,player,
+15/05/2022 10:21,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,osgSaber
+15/05/2022 10:21,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,GodModuleAU,player,
+15/05/2022 10:21,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Direhelix
+15/05/2022 10:21,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Sorter,player,
+15/05/2022 10:21,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,osgSaber
+15/05/2022 10:21,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Sorter,player,
+15/05/2022 10:21,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Lex
+15/05/2022 10:21,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Sorter,player,
+15/05/2022 10:21,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Sorter
+15/05/2022 10:21,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,osgSaber,player,
+15/05/2022 10:21,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,GodModuleAU
+15/05/2022 10:21,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,osgSaber,player,
+15/05/2022 10:21,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Direhelix
+15/05/2022 10:21,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Sorter,player,
+15/05/2022 10:21,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,osgSaber
+15/05/2022 10:21,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,GodModuleAU,player,
+15/05/2022 10:22,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Lex
+15/05/2022 10:22,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,GodModuleAU,player,
+15/05/2022 10:22,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,DawG
+15/05/2022 10:22,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Direhelix,player,
+15/05/2022 10:22,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Lex
+15/05/2022 10:22,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,GodModuleAU,player,
+15/05/2022 10:22,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Lex
+15/05/2022 10:22,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,GodModuleAU,player,
+15/05/2022 10:22,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Sorter
+15/05/2022 10:22,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Direhelix,player,
+15/05/2022 10:22,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Direhelix
+15/05/2022 10:22,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,GodModuleAU,player,
+15/05/2022 10:22,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,GodModuleAU
+15/05/2022 10:22,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,osgSaber,player,
+15/05/2022 10:22,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Sorter
+15/05/2022 10:22,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Direhelix,player,
+15/05/2022 10:23,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,DawG
+15/05/2022 10:23,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,osgSaber,player,
+15/05/2022 10:23,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,GodModuleAU
+15/05/2022 10:23,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,osgSaber,player,
+15/05/2022 10:23,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,DawG
+15/05/2022 10:23,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,osgSaber,player,
+15/05/2022 10:23,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Sorter
+15/05/2022 10:23,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,osgSaber,player,
+15/05/2022 10:23,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,GodModuleAU
+15/05/2022 10:23,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,osgSaber,player,
+15/05/2022 10:23,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,osgSaber
+15/05/2022 10:23,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Sorter,player,
+15/05/2022 10:23,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Sorter
+15/05/2022 10:23,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Direhelix,player,
+15/05/2022 10:23,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Direhelix
+15/05/2022 10:23,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,DawG,player,
+15/05/2022 10:23,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Lex
+15/05/2022 10:23,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,DawG,player,
+15/05/2022 10:23,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,osgSaber
+15/05/2022 10:23,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,DawG,player,
+15/05/2022 10:23,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,GodModuleAU
+15/05/2022 10:23,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Direhelix,player,
+15/05/2022 10:23,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Direhelix
+15/05/2022 10:23,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,DawG,player,
+15/05/2022 10:24,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,osgSaber
+15/05/2022 10:24,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,DawG,player,
+15/05/2022 10:24,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,GodModuleAU
+15/05/2022 10:24,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Direhelix,player,
+15/05/2022 10:24,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Direhelix
+15/05/2022 10:24,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Sorter,player,
+15/05/2022 10:24,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Lex
+15/05/2022 10:24,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,DawG,player,
+15/05/2022 10:24,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,DawG
+15/05/2022 10:24,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,osgSaber,player,
+15/05/2022 10:24,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Sorter
+15/05/2022 10:24,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,osgSaber,player,
+15/05/2022 10:24,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,DawG
+15/05/2022 10:24,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Direhelix,player,
+15/05/2022 10:24,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,osgSaber
+15/05/2022 10:24,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,GodModuleAU,player,
+15/05/2022 10:24,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,GodModuleAU
+15/05/2022 10:24,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Direhelix,player,
+15/05/2022 10:24,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Sorter
+15/05/2022 10:24,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Direhelix,player,
+15/05/2022 10:24,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Sorter
+15/05/2022 10:24,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Direhelix,player,
+15/05/2022 10:25,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,GodModuleAU
+15/05/2022 10:25,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Direhelix,player,
+15/05/2022 10:25,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,DawG
+15/05/2022 10:25,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Direhelix,player,
+15/05/2022 10:25,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Lex
+15/05/2022 10:25,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Sorter,player,
+15/05/2022 10:25,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Direhelix
+15/05/2022 10:25,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,GodModuleAU,player,
+15/05/2022 10:25,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Lex
+15/05/2022 10:25,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Sorter,player,
+15/05/2022 10:25,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,DawG
+15/05/2022 10:25,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Direhelix,player,
+15/05/2022 10:25,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Direhelix
+15/05/2022 10:25,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Sorter,player,
+15/05/2022 10:25,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,osgSaber
+15/05/2022 10:25,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Sorter,player,
+15/05/2022 10:25,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,Lex
+15/05/2022 10:25,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,,,GodModuleAU
+15/05/2022 10:25,0,4,dod_LIME_ARENA,4 dod_LIME_ARENA,Lex,player,
+15/05/2022 10:26,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,,,Direhelix
+15/05/2022 10:26,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,Sorter,player,
+15/05/2022 10:26,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,,,osgSaber
+15/05/2022 10:26,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,DawG,player,
+15/05/2022 10:26,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,,,KK
+15/05/2022 10:26,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,Direhelix,player,
+15/05/2022 10:26,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,,,Sorter
+15/05/2022 10:26,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,Lex,player,
+15/05/2022 10:26,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,,,DawG
+15/05/2022 10:26,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,osgSaber,player,
+15/05/2022 10:26,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,,,GodModuleAU
+15/05/2022 10:26,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,KK,player,
+15/05/2022 10:27,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,,,osgSaber
+15/05/2022 10:27,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,KK,player,
+15/05/2022 10:27,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,,,Direhelix
+15/05/2022 10:27,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,KK,player,
+15/05/2022 10:27,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,,,osgSaber
+15/05/2022 10:27,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,Sorter,player,
+15/05/2022 10:27,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,,,Lex
+15/05/2022 10:27,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,DawG,player,
+15/05/2022 10:27,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,,,GodModuleAU
+15/05/2022 10:27,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,KK,player,
+15/05/2022 10:27,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,,,Direhelix
+15/05/2022 10:27,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,KK,player,
+15/05/2022 10:27,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,,,DawG
+15/05/2022 10:27,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,osgSaber,player,
+15/05/2022 10:27,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,,,Lex
+15/05/2022 10:27,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,osgSaber,player,
+15/05/2022 10:27,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,,,KK
+15/05/2022 10:27,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,GodModuleAU,player,
+15/05/2022 10:27,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,,,Direhelix
+15/05/2022 10:27,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,Sorter,player,
+15/05/2022 10:27,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,,,GodModuleAU
+15/05/2022 10:27,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,Sorter,player,
+15/05/2022 10:27,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,,,Sorter
+15/05/2022 10:27,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,osgSaber,player,
+15/05/2022 10:28,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,,,osgSaber
+15/05/2022 10:28,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,KK,player,
+15/05/2022 10:28,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,,,Direhelix
+15/05/2022 10:28,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,KK,player,
+15/05/2022 10:28,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,,,GodModuleAU
+15/05/2022 10:28,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,DawG,player,
+15/05/2022 10:28,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,,,Lex
+15/05/2022 10:28,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,KK,player,
+15/05/2022 10:28,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,,,DawG
+15/05/2022 10:28,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,GodModuleAU,player,
+15/05/2022 10:28,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,,,Sorter
+15/05/2022 10:28,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,GodModuleAU,player,
+15/05/2022 10:28,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,,,GodModuleAU
+15/05/2022 10:28,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,[CX] Tommy W.,player,
+15/05/2022 10:28,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,,,KK
+15/05/2022 10:28,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,osgSaber,player,
+15/05/2022 10:28,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,,,osgSaber
+15/05/2022 10:28,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,Sorter,player,
+15/05/2022 10:28,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,,,Aftershock_
+15/05/2022 10:28,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,Direhelix,player,
+15/05/2022 10:28,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,,,[CX] Tommy W.
+15/05/2022 10:28,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,osgSaber,player,
+15/05/2022 10:28,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,,,Direhelix
+15/05/2022 10:28,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,Sorter,player,
+15/05/2022 10:28,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,,,Lex
+15/05/2022 10:28,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,DawG,player,
+15/05/2022 10:29,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,,,[CX] Tommy W.
+15/05/2022 10:29,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,GodModuleAU,player,
+15/05/2022 10:29,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,,,GodModuleAU
+15/05/2022 10:29,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,Aftershock_,player,
+15/05/2022 10:29,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,,,osgSaber
+15/05/2022 10:29,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,Direhelix,player,
+15/05/2022 10:29,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,,,Direhelix
+15/05/2022 10:29,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,Sorter,player,
+15/05/2022 10:29,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,,,Aftershock_
+15/05/2022 10:29,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,Lex,player,
+15/05/2022 10:29,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,,,Lex
+15/05/2022 10:29,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,DawG,player,
+15/05/2022 10:29,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,,,KK
+15/05/2022 10:29,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,osgSaber,player,
+15/05/2022 10:29,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,,,osgSaber
+15/05/2022 10:29,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,DawG,player,
+15/05/2022 10:29,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,,,Sorter
+15/05/2022 10:29,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,[CX] Tommy W.,player,
+15/05/2022 10:29,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,,,GodModuleAU
+15/05/2022 10:29,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,DawG,player,
+15/05/2022 10:29,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,,,Lex
+15/05/2022 10:29,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,DawG,player,
+15/05/2022 10:29,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,,,DawG
+15/05/2022 10:29,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,osgSaber,player,
+15/05/2022 10:29,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,,,[CX] Tommy W.
+15/05/2022 10:29,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,osgSaber,player,
+15/05/2022 10:29,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,,,Direhelix
+15/05/2022 10:29,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,KK,player,
+15/05/2022 10:29,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,,,Aftershock_
+15/05/2022 10:29,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,osgSaber,player,
+15/05/2022 10:29,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,,,osgSaber
+15/05/2022 10:29,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,Sorter,player,
+15/05/2022 10:29,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,,,GodModuleAU
+15/05/2022 10:29,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,[CX] Tommy W.,player,
+15/05/2022 10:30,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,,,Lex
+15/05/2022 10:30,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,DawG,player,
+15/05/2022 10:30,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,,,DawG
+15/05/2022 10:30,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,Direhelix,player,
+15/05/2022 10:30,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,,,GodModuleAU
+15/05/2022 10:30,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,[CX] Tommy W.,player,
+15/05/2022 10:30,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,,,Direhelix
+15/05/2022 10:30,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,[CX] Tommy W.,player,
+15/05/2022 10:30,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,,,GodModuleAU
+15/05/2022 10:30,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,Sorter,player,
+15/05/2022 10:30,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,,,Lex
+15/05/2022 10:30,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,Sorter,player,
+15/05/2022 10:30,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,,,Direhelix
+15/05/2022 10:30,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,Sorter,player,
+15/05/2022 10:30,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,,,Direhelix
+15/05/2022 10:30,0,5,dod_LIME_ARENA,5 dod_LIME_ARENA,KK,player,
+15/05/2022 10:31,0,6,dod_catania_rc2,6 dod_catania_rc2,,,Sorter
+15/05/2022 10:31,0,6,dod_catania_rc2,6 dod_catania_rc2,KK,player,
+15/05/2022 10:31,0,6,dod_catania_rc2,6 dod_catania_rc2,,,DawG
+15/05/2022 10:31,0,6,dod_catania_rc2,6 dod_catania_rc2,Direhelix,player,
+15/05/2022 10:31,0,6,dod_catania_rc2,6 dod_catania_rc2,,,Direhelix
+15/05/2022 10:31,0,6,dod_catania_rc2,6 dod_catania_rc2,Aftershock_,player,
+15/05/2022 10:31,0,6,dod_catania_rc2,6 dod_catania_rc2,,,osgSaber
+15/05/2022 10:31,0,6,dod_catania_rc2,6 dod_catania_rc2,DawG,player,
+15/05/2022 10:31,0,6,dod_catania_rc2,6 dod_catania_rc2,,,KK
+15/05/2022 10:31,0,6,dod_catania_rc2,6 dod_catania_rc2,Aftershock_,player,
+15/05/2022 10:32,0,6,dod_catania_rc2,6 dod_catania_rc2,Direhelix,prop_physics_multiplayer,
+15/05/2022 10:32,0,6,dod_catania_rc2,6 dod_catania_rc2,Direhelix,prop_physics_multiplayer,
+15/05/2022 10:32,0,6,dod_catania_rc2,6 dod_catania_rc2,Direhelix,prop_physics_multiplayer,
+15/05/2022 10:32,0,6,dod_catania_rc2,6 dod_catania_rc2,,,DawG
+15/05/2022 10:32,0,6,dod_catania_rc2,6 dod_catania_rc2,GodModuleAU,player,
+15/05/2022 10:32,0,6,dod_catania_rc2,6 dod_catania_rc2,,,GodModuleAU
+15/05/2022 10:32,0,6,dod_catania_rc2,6 dod_catania_rc2,[CX] Tommy W.,player,
+15/05/2022 10:32,0,6,dod_catania_rc2,6 dod_catania_rc2,,,Aftershock_
+15/05/2022 10:32,0,6,dod_catania_rc2,6 dod_catania_rc2,KK,player,
+15/05/2022 10:32,0,6,dod_catania_rc2,6 dod_catania_rc2,,,[CX] Tommy W.
+15/05/2022 10:32,0,6,dod_catania_rc2,6 dod_catania_rc2,osgSaber,player,
+15/05/2022 10:32,0,6,dod_catania_rc2,6 dod_catania_rc2,,,Direhelix
+15/05/2022 10:32,0,6,dod_catania_rc2,6 dod_catania_rc2,DawG,player,
+15/05/2022 10:32,0,6,dod_catania_rc2,6 dod_catania_rc2,,,DawG
+15/05/2022 10:32,0,6,dod_catania_rc2,6 dod_catania_rc2,KK,player,
+15/05/2022 10:32,0,6,dod_catania_rc2,6 dod_catania_rc2,,,osgSaber
+15/05/2022 10:32,0,6,dod_catania_rc2,6 dod_catania_rc2,[CX] Tommy W.,player,
+15/05/2022 10:32,0,6,dod_catania_rc2,6 dod_catania_rc2,,,GodModuleAU
+15/05/2022 10:32,0,6,dod_catania_rc2,6 dod_catania_rc2,Aftershock_,player,
+15/05/2022 10:32,0,6,dod_catania_rc2,6 dod_catania_rc2,Direhelix,prop_physics_multiplayer,
+15/05/2022 10:32,0,6,dod_catania_rc2,6 dod_catania_rc2,Direhelix,prop_physics_multiplayer,
+15/05/2022 10:32,0,6,dod_catania_rc2,6 dod_catania_rc2,Direhelix,prop_physics_multiplayer,
+15/05/2022 10:32,0,6,dod_catania_rc2,6 dod_catania_rc2,,,Aftershock_
+15/05/2022 10:32,0,6,dod_catania_rc2,6 dod_catania_rc2,KK,player,
+15/05/2022 10:32,0,6,dod_catania_rc2,6 dod_catania_rc2,,,DawG
+15/05/2022 10:32,0,6,dod_catania_rc2,6 dod_catania_rc2,KK,player,
+15/05/2022 10:32,0,6,dod_catania_rc2,6 dod_catania_rc2,,,[CX] Tommy W.
+15/05/2022 10:32,0,6,dod_catania_rc2,6 dod_catania_rc2,Direhelix,player,
+15/05/2022 10:32,0,6,dod_catania_rc2,6 dod_catania_rc2,Direhelix,prop_physics_multiplayer,
+15/05/2022 10:32,0,6,dod_catania_rc2,6 dod_catania_rc2,Direhelix,prop_physics_multiplayer,
+15/05/2022 10:32,0,6,dod_catania_rc2,6 dod_catania_rc2,[CX] Tommy W.,prop_physics_multiplayer,
+15/05/2022 10:33,0,6,dod_catania_rc2,6 dod_catania_rc2,,,Direhelix
+15/05/2022 10:33,0,6,dod_catania_rc2,6 dod_catania_rc2,foolycooly.,player,
+15/05/2022 10:33,0,6,dod_catania_rc2,6 dod_catania_rc2,KK,prop_physics_multiplayer,
+15/05/2022 10:33,0,6,dod_catania_rc2,6 dod_catania_rc2,,,KK
+15/05/2022 10:33,0,6,dod_catania_rc2,6 dod_catania_rc2,osgSaber,player,
+15/05/2022 10:33,0,6,dod_catania_rc2,6 dod_catania_rc2,,,DawG
+15/05/2022 10:33,0,6,dod_catania_rc2,6 dod_catania_rc2,osgSaber,player,
+15/05/2022 10:33,0,6,dod_catania_rc2,6 dod_catania_rc2,,,Sorter
+15/05/2022 10:33,0,6,dod_catania_rc2,6 dod_catania_rc2,osgSaber,player,
+15/05/2022 10:33,0,6,dod_catania_rc2,6 dod_catania_rc2,,,osgSaber
+15/05/2022 10:33,0,6,dod_catania_rc2,6 dod_catania_rc2,Aftershock_,player,
+15/05/2022 10:33,0,6,dod_catania_rc2,6 dod_catania_rc2,,,GodModuleAU
+15/05/2022 10:33,0,6,dod_catania_rc2,6 dod_catania_rc2,foolycooly.,player,
+15/05/2022 10:33,0,6,dod_catania_rc2,6 dod_catania_rc2,Direhelix,prop_physics_multiplayer,
+15/05/2022 10:33,0,6,dod_catania_rc2,6 dod_catania_rc2,,,foolycooly.
+15/05/2022 10:33,0,6,dod_catania_rc2,6 dod_catania_rc2,KK,player,
+15/05/2022 10:33,0,6,dod_catania_rc2,6 dod_catania_rc2,[CX] Tommy W.,prop_physics_multiplayer,
+15/05/2022 10:33,0,6,dod_catania_rc2,6 dod_catania_rc2,,,KK
+15/05/2022 10:33,0,6,dod_catania_rc2,6 dod_catania_rc2,Aftershock_,player,
+15/05/2022 10:33,0,6,dod_catania_rc2,6 dod_catania_rc2,,,Direhelix
+15/05/2022 10:33,0,6,dod_catania_rc2,6 dod_catania_rc2,DawG,player,
+15/05/2022 10:33,0,6,dod_catania_rc2,6 dod_catania_rc2,,,Sorter
+15/05/2022 10:33,0,6,dod_catania_rc2,6 dod_catania_rc2,osgSaber,player,
+15/05/2022 10:33,0,6,dod_catania_rc2,6 dod_catania_rc2,,,DawG
+15/05/2022 10:33,0,6,dod_catania_rc2,6 dod_catania_rc2,osgSaber,player,
+15/05/2022 10:33,0,6,dod_catania_rc2,6 dod_catania_rc2,,,osgSaber
+15/05/2022 10:33,0,6,dod_catania_rc2,6 dod_catania_rc2,Aftershock_,player,
+15/05/2022 10:33,0,6,dod_catania_rc2,6 dod_catania_rc2,,,[CX] Tommy W.
+15/05/2022 10:33,0,6,dod_catania_rc2,6 dod_catania_rc2,GodModuleAU,player,
+15/05/2022 10:33,0,6,dod_catania_rc2,6 dod_catania_rc2,,,KK
+15/05/2022 10:33,0,6,dod_catania_rc2,6 dod_catania_rc2,Aftershock_,player,
+15/05/2022 10:33,0,6,dod_catania_rc2,6 dod_catania_rc2,foolycooly.,prop_physics_multiplayer,
+15/05/2022 10:33,0,6,dod_catania_rc2,6 dod_catania_rc2,foolycooly.,prop_physics_multiplayer,
+15/05/2022 10:33,0,6,dod_catania_rc2,6 dod_catania_rc2,foolycooly.,prop_physics_multiplayer,
+15/05/2022 10:34,0,6,dod_catania_rc2,6 dod_catania_rc2,Direhelix,prop_physics_multiplayer,
+15/05/2022 10:34,0,6,dod_catania_rc2,6 dod_catania_rc2,,,Direhelix
+15/05/2022 10:34,0,6,dod_catania_rc2,6 dod_catania_rc2,foolycooly.,player,
+15/05/2022 10:34,0,6,dod_catania_rc2,6 dod_catania_rc2,,,osgSaber
+15/05/2022 10:34,0,6,dod_catania_rc2,6 dod_catania_rc2,foolycooly.,player,
+15/05/2022 10:34,0,6,dod_catania_rc2,6 dod_catania_rc2,,,KK
+15/05/2022 10:34,0,6,dod_catania_rc2,6 dod_catania_rc2,Aftershock_,player,
+15/05/2022 10:34,0,6,dod_catania_rc2,6 dod_catania_rc2,,,foolycooly.
+15/05/2022 10:34,0,6,dod_catania_rc2,6 dod_catania_rc2,GodModuleAU,player,
+15/05/2022 10:34,0,6,dod_catania_rc2,6 dod_catania_rc2,,,Sorter
+15/05/2022 10:34,0,6,dod_catania_rc2,6 dod_catania_rc2,GodModuleAU,player,
+15/05/2022 10:34,0,6,dod_catania_rc2,6 dod_catania_rc2,,,GodModuleAU
+15/05/2022 10:34,0,6,dod_catania_rc2,6 dod_catania_rc2,Aftershock_,player,
+15/05/2022 10:34,0,6,dod_catania_rc2,6 dod_catania_rc2,,,osgSaber
+15/05/2022 10:34,0,6,dod_catania_rc2,6 dod_catania_rc2,Direhelix,player,
+15/05/2022 10:34,0,6,dod_catania_rc2,6 dod_catania_rc2,,,Direhelix
+15/05/2022 10:34,0,6,dod_catania_rc2,6 dod_catania_rc2,foolycooly.,player,
+15/05/2022 10:34,0,6,dod_catania_rc2,6 dod_catania_rc2,,,KK
+15/05/2022 10:34,0,6,dod_catania_rc2,6 dod_catania_rc2,DawG,player,
+15/05/2022 10:34,0,6,dod_catania_rc2,6 dod_catania_rc2,,,[CX] Tommy W.
+15/05/2022 10:34,0,6,dod_catania_rc2,6 dod_catania_rc2,osgSaber,player,
+15/05/2022 10:34,0,6,dod_catania_rc2,6 dod_catania_rc2,,,osgSaber
+15/05/2022 10:34,0,6,dod_catania_rc2,6 dod_catania_rc2,Aftershock_,player,
+15/05/2022 10:34,0,6,dod_catania_rc2,6 dod_catania_rc2,,,KK
+15/05/2022 10:34,0,6,dod_catania_rc2,6 dod_catania_rc2,DawG,player,
+15/05/2022 10:34,0,6,dod_catania_rc2,6 dod_catania_rc2,,,Direhelix
+15/05/2022 10:34,0,6,dod_catania_rc2,6 dod_catania_rc2,Aftershock_,player,
+15/05/2022 10:35,0,6,dod_catania_rc2,6 dod_catania_rc2,,,Sorter
+15/05/2022 10:35,0,6,dod_catania_rc2,6 dod_catania_rc2,GodModuleAU,player,
+15/05/2022 10:35,0,6,dod_catania_rc2,6 dod_catania_rc2,,,DawG
+15/05/2022 10:35,0,6,dod_catania_rc2,6 dod_catania_rc2,osgSaber,player,
+15/05/2022 10:35,0,6,dod_catania_rc2,6 dod_catania_rc2,,,osgSaber
+15/05/2022 10:35,0,6,dod_catania_rc2,6 dod_catania_rc2,Aftershock_,player,
+15/05/2022 10:35,0,6,dod_catania_rc2,6 dod_catania_rc2,,,foolycooly.
+15/05/2022 10:35,0,6,dod_catania_rc2,6 dod_catania_rc2,free tibet,player,
+15/05/2022 10:35,0,6,dod_catania_rc2,6 dod_catania_rc2,,,Aftershock_
+15/05/2022 10:35,0,6,dod_catania_rc2,6 dod_catania_rc2,free tibet,player,
+15/05/2022 10:35,0,6,dod_catania_rc2,6 dod_catania_rc2,,,GodModuleAU
+15/05/2022 10:35,0,6,dod_catania_rc2,6 dod_catania_rc2,Sorter,player,
+15/05/2022 10:35,0,6,dod_catania_rc2,6 dod_catania_rc2,,,DawG
+15/05/2022 10:35,0,6,dod_catania_rc2,6 dod_catania_rc2,KK,player,
+15/05/2022 10:35,0,6,dod_catania_rc2,6 dod_catania_rc2,osgSaber,prop_physics_multiplayer,
+15/05/2022 10:35,0,6,dod_catania_rc2,6 dod_catania_rc2,,,Sorter
+15/05/2022 10:35,0,6,dod_catania_rc2,6 dod_catania_rc2,free tibet,player,
+15/05/2022 10:35,0,6,dod_catania_rc2,6 dod_catania_rc2,,,free tibet
+15/05/2022 10:35,0,6,dod_catania_rc2,6 dod_catania_rc2,Aftershock_,player,
+15/05/2022 10:35,0,6,dod_catania_rc2,6 dod_catania_rc2,,,osgSaber
+15/05/2022 10:35,0,6,dod_catania_rc2,6 dod_catania_rc2,[CX] Tommy W.,player,
+15/05/2022 10:35,0,6,dod_catania_rc2,6 dod_catania_rc2,KK,prop_physics_multiplayer,
+15/05/2022 10:35,0,6,dod_catania_rc2,6 dod_catania_rc2,KK,prop_physics_multiplayer,
+15/05/2022 10:35,0,6,dod_catania_rc2,6 dod_catania_rc2,GodModuleAU,prop_physics_multiplayer,
+15/05/2022 10:35,0,6,dod_catania_rc2,6 dod_catania_rc2,[CX] Tommy W.,prop_physics_multiplayer,
+15/05/2022 10:35,0,6,dod_catania_rc2,6 dod_catania_rc2,[CX] Tommy W.,prop_physics_multiplayer,
+15/05/2022 10:35,0,6,dod_catania_rc2,6 dod_catania_rc2,GodModuleAU,prop_physics_multiplayer,
+15/05/2022 10:35,0,6,dod_catania_rc2,6 dod_catania_rc2,GodModuleAU,prop_physics_multiplayer,
+15/05/2022 10:35,0,6,dod_catania_rc2,6 dod_catania_rc2,,,KK
+15/05/2022 10:35,0,6,dod_catania_rc2,6 dod_catania_rc2,DawG,player,
+15/05/2022 10:36,0,6,dod_catania_rc2,6 dod_catania_rc2,,,Direhelix
+15/05/2022 10:36,0,6,dod_catania_rc2,6 dod_catania_rc2,Sorter,player,
+15/05/2022 10:36,0,6,dod_catania_rc2,6 dod_catania_rc2,,,[CX] Tommy W.
+15/05/2022 10:36,0,6,dod_catania_rc2,6 dod_catania_rc2,osgSaber,player,
+15/05/2022 10:36,0,6,dod_catania_rc2,6 dod_catania_rc2,,,osgSaber
+15/05/2022 10:36,0,6,dod_catania_rc2,6 dod_catania_rc2,Sorter,player,
+15/05/2022 10:36,0,6,dod_catania_rc2,6 dod_catania_rc2,,,free tibet
+15/05/2022 10:36,0,6,dod_catania_rc2,6 dod_catania_rc2,Aftershock_,player,
+15/05/2022 10:36,0,6,dod_catania_rc2,6 dod_catania_rc2,,,Direhelix
+15/05/2022 10:36,0,6,dod_catania_rc2,6 dod_catania_rc2,foolycooly.,player,
+15/05/2022 10:36,0,6,dod_catania_rc2,6 dod_catania_rc2,DawG,prop_physics_multiplayer,
+15/05/2022 10:36,0,6,dod_catania_rc2,6 dod_catania_rc2,,,GodModuleAU
+15/05/2022 10:36,0,6,dod_catania_rc2,6 dod_catania_rc2,[CX] Tommy W.,player,
+15/05/2022 10:36,0,6,dod_catania_rc2,6 dod_catania_rc2,,,foolycooly.
+15/05/2022 10:36,0,6,dod_catania_rc2,6 dod_catania_rc2,free tibet,player,
+15/05/2022 10:36,0,6,dod_catania_rc2,6 dod_catania_rc2,,,[CX] Tommy W.
+15/05/2022 10:36,0,6,dod_catania_rc2,6 dod_catania_rc2,KK,player,
+15/05/2022 10:36,0,6,dod_catania_rc2,6 dod_catania_rc2,,,osgSaber
+15/05/2022 10:36,0,6,dod_catania_rc2,6 dod_catania_rc2,foolycooly.,player,
+15/05/2022 10:36,0,6,dod_catania_rc2,6 dod_catania_rc2,,,DawG
+15/05/2022 10:36,0,6,dod_catania_rc2,6 dod_catania_rc2,free tibet,player,
+15/05/2022 10:36,0,6,dod_catania_rc2,6 dod_catania_rc2,,,Aftershock_
+15/05/2022 10:36,0,6,dod_catania_rc2,6 dod_catania_rc2,free tibet,player,
+15/05/2022 10:36,0,6,dod_catania_rc2,6 dod_catania_rc2,,,Direhelix
+15/05/2022 10:36,0,6,dod_catania_rc2,6 dod_catania_rc2,Sorter,player,
+15/05/2022 10:36,0,6,dod_catania_rc2,6 dod_catania_rc2,,,Sorter
+15/05/2022 10:36,0,6,dod_catania_rc2,6 dod_catania_rc2,free tibet,player,
+15/05/2022 10:37,0,6,dod_catania_rc2,6 dod_catania_rc2,,,[CX] Tommy W.
+15/05/2022 10:37,0,6,dod_catania_rc2,6 dod_catania_rc2,osgSaber,player,
+15/05/2022 10:37,0,6,dod_catania_rc2,6 dod_catania_rc2,,,DawG
+15/05/2022 10:37,0,6,dod_catania_rc2,6 dod_catania_rc2,osgSaber,player,
+15/05/2022 10:37,0,6,dod_catania_rc2,6 dod_catania_rc2,,,osgSaber
+15/05/2022 10:37,0,6,dod_catania_rc2,6 dod_catania_rc2,Aftershock_,player,
+15/05/2022 10:37,0,6,dod_catania_rc2,6 dod_catania_rc2,,,Sorter
+15/05/2022 10:37,0,6,dod_catania_rc2,6 dod_catania_rc2,GodModuleAU,player,
+15/05/2022 10:37,0,6,dod_catania_rc2,6 dod_catania_rc2,,,Aftershock_
+15/05/2022 10:37,0,6,dod_catania_rc2,6 dod_catania_rc2,KK,player,
+15/05/2022 10:37,0,6,dod_catania_rc2,6 dod_catania_rc2,foolycooly.,prop_physics_multiplayer,
+15/05/2022 10:37,0,6,dod_catania_rc2,6 dod_catania_rc2,,,GodModuleAU
+15/05/2022 10:37,0,6,dod_catania_rc2,6 dod_catania_rc2,foolycooly.,player,
+15/05/2022 10:37,0,6,dod_catania_rc2,6 dod_catania_rc2,,,foolycooly.
+15/05/2022 10:37,0,6,dod_catania_rc2,6 dod_catania_rc2,Direhelix,player,
+15/05/2022 10:37,0,6,dod_catania_rc2,6 dod_catania_rc2,,,free tibet
+15/05/2022 10:37,0,6,dod_catania_rc2,6 dod_catania_rc2,DawG,player,
+15/05/2022 10:37,0,6,dod_catania_rc2,6 dod_catania_rc2,,,KK
+15/05/2022 10:37,0,6,dod_catania_rc2,6 dod_catania_rc2,DawG,player,
+15/05/2022 10:37,0,6,dod_catania_rc2,6 dod_catania_rc2,,,Direhelix
+15/05/2022 10:37,0,6,dod_catania_rc2,6 dod_catania_rc2,[CX] Tommy W.,player,
+15/05/2022 10:37,0,6,dod_catania_rc2,6 dod_catania_rc2,,,GodModuleAU
+15/05/2022 10:37,0,6,dod_catania_rc2,6 dod_catania_rc2,[CX] Tommy W.,player,
+15/05/2022 10:37,0,6,dod_catania_rc2,6 dod_catania_rc2,,,Sorter
+15/05/2022 10:37,0,6,dod_catania_rc2,6 dod_catania_rc2,osgSaber,player,
+15/05/2022 10:37,0,6,dod_catania_rc2,6 dod_catania_rc2,,,osgSaber
+15/05/2022 10:37,0,6,dod_catania_rc2,6 dod_catania_rc2,DawG,player,
+15/05/2022 10:37,0,6,dod_catania_rc2,6 dod_catania_rc2,,,Direhelix
+15/05/2022 10:37,0,6,dod_catania_rc2,6 dod_catania_rc2,[CX] Tommy W.,player,
+15/05/2022 10:37,0,6,dod_catania_rc2,6 dod_catania_rc2,,,DawG
+15/05/2022 10:37,0,6,dod_catania_rc2,6 dod_catania_rc2,free tibet,player,
+15/05/2022 10:37,0,6,dod_catania_rc2,6 dod_catania_rc2,,,foolycooly.
+15/05/2022 10:37,0,6,dod_catania_rc2,6 dod_catania_rc2,GodModuleAU,player,
+15/05/2022 10:37,0,6,dod_catania_rc2,6 dod_catania_rc2,,,Aftershock_
+15/05/2022 10:37,0,6,dod_catania_rc2,6 dod_catania_rc2,osgSaber,player,
+15/05/2022 10:38,0,6,dod_catania_rc2,6 dod_catania_rc2,,,Sorter
+15/05/2022 10:38,0,6,dod_catania_rc2,6 dod_catania_rc2,free tibet,player,
+15/05/2022 10:38,0,6,dod_catania_rc2,6 dod_catania_rc2,,,Direhelix
+15/05/2022 10:38,0,6,dod_catania_rc2,6 dod_catania_rc2,[CX] Tommy W.,player,
+15/05/2022 10:38,0,6,dod_catania_rc2,6 dod_catania_rc2,,,foolycooly.
+15/05/2022 10:38,0,6,dod_catania_rc2,6 dod_catania_rc2,osgSaber,player,
+15/05/2022 10:38,0,6,dod_catania_rc2,6 dod_catania_rc2,,,osgSaber
+15/05/2022 10:38,0,6,dod_catania_rc2,6 dod_catania_rc2,Aftershock_,player,
+15/05/2022 10:38,0,6,dod_catania_rc2,6 dod_catania_rc2,GodModuleAU,prop_physics_multiplayer,
+15/05/2022 10:38,0,6,dod_catania_rc2,6 dod_catania_rc2,,,DawG
+15/05/2022 10:38,0,6,dod_catania_rc2,6 dod_catania_rc2,free tibet,player,
+15/05/2022 10:38,0,6,dod_catania_rc2,6 dod_catania_rc2,,,GodModuleAU
+15/05/2022 10:38,0,6,dod_catania_rc2,6 dod_catania_rc2,Aftershock_,player,
+15/05/2022 10:38,0,6,dod_catania_rc2,6 dod_catania_rc2,,,osgSaber
+15/05/2022 10:38,0,6,dod_catania_rc2,6 dod_catania_rc2,Aftershock_,player,
+15/05/2022 10:38,0,6,dod_catania_rc2,6 dod_catania_rc2,,,free tibet
+15/05/2022 10:38,0,6,dod_catania_rc2,6 dod_catania_rc2,foolycooly.,player,
+15/05/2022 10:38,0,6,dod_catania_rc2,6 dod_catania_rc2,,,KK
+15/05/2022 10:38,0,6,dod_catania_rc2,6 dod_catania_rc2,Sorter,player,
+15/05/2022 10:38,0,6,dod_catania_rc2,6 dod_catania_rc2,,,GodModuleAU
+15/05/2022 10:38,0,6,dod_catania_rc2,6 dod_catania_rc2,osgSaber,player,
+15/05/2022 10:38,0,6,dod_catania_rc2,6 dod_catania_rc2,,,[CX] Tommy W.
+15/05/2022 10:38,0,6,dod_catania_rc2,6 dod_catania_rc2,snow,player,
+15/05/2022 10:38,0,6,dod_catania_rc2,6 dod_catania_rc2,,,osgSaber
+15/05/2022 10:38,0,6,dod_catania_rc2,6 dod_catania_rc2,Aftershock_,player,
+15/05/2022 10:38,0,6,dod_catania_rc2,6 dod_catania_rc2,,,Sorter
+15/05/2022 10:38,0,6,dod_catania_rc2,6 dod_catania_rc2,free tibet,player,
+15/05/2022 10:38,0,6,dod_catania_rc2,6 dod_catania_rc2,,,free tibet
+15/05/2022 10:38,0,6,dod_catania_rc2,6 dod_catania_rc2,DawG,player,
+15/05/2022 10:38,0,6,dod_catania_rc2,6 dod_catania_rc2,,,DawG
+15/05/2022 10:38,0,6,dod_catania_rc2,6 dod_catania_rc2,KK,player,
+15/05/2022 10:38,0,6,dod_catania_rc2,6 dod_catania_rc2,,,KK
+15/05/2022 10:38,0,6,dod_catania_rc2,6 dod_catania_rc2,Aftershock_,player,
+15/05/2022 10:39,0,6,dod_catania_rc2,6 dod_catania_rc2,,,snow
+15/05/2022 10:39,0,6,dod_catania_rc2,6 dod_catania_rc2,Sorter,player,
+15/05/2022 10:39,0,6,dod_catania_rc2,6 dod_catania_rc2,,,free tibet
+15/05/2022 10:39,0,6,dod_catania_rc2,6 dod_catania_rc2,Aftershock_,player,
+15/05/2022 10:39,0,6,dod_catania_rc2,6 dod_catania_rc2,,,Aftershock_
+15/05/2022 10:39,0,6,dod_catania_rc2,6 dod_catania_rc2,osgSaber,player,
+15/05/2022 10:39,0,6,dod_catania_rc2,6 dod_catania_rc2,,,foolycooly.
+15/05/2022 10:39,0,6,dod_catania_rc2,6 dod_catania_rc2,GodModuleAU,player,
+15/05/2022 10:39,0,6,dod_catania_rc2,6 dod_catania_rc2,,,osgSaber
+15/05/2022 10:39,0,6,dod_catania_rc2,6 dod_catania_rc2,[CX] Tommy W.,player,
+15/05/2022 10:39,0,6,dod_catania_rc2,6 dod_catania_rc2,,,snow
+15/05/2022 10:39,0,6,dod_catania_rc2,6 dod_catania_rc2,Sorter,player,
+15/05/2022 10:39,0,6,dod_catania_rc2,6 dod_catania_rc2,,,GodModuleAU
+15/05/2022 10:39,0,6,dod_catania_rc2,6 dod_catania_rc2,DawG,player,
+15/05/2022 10:39,0,6,dod_catania_rc2,6 dod_catania_rc2,foolycooly.,prop_physics_multiplayer,
+15/05/2022 10:39,0,6,dod_catania_rc2,6 dod_catania_rc2,foolycooly.,prop_physics_multiplayer,
+15/05/2022 10:39,0,6,dod_catania_rc2,6 dod_catania_rc2,osgSaber,prop_physics_multiplayer,
+15/05/2022 10:39,0,6,dod_catania_rc2,6 dod_catania_rc2,osgSaber,prop_physics_multiplayer,
+15/05/2022 10:39,0,6,dod_catania_rc2,6 dod_catania_rc2,,,osgSaber
+15/05/2022 10:39,0,6,dod_catania_rc2,6 dod_catania_rc2,Sorter,player,
+15/05/2022 10:39,0,6,dod_catania_rc2,6 dod_catania_rc2,,,DawG
+15/05/2022 10:39,0,6,dod_catania_rc2,6 dod_catania_rc2,free tibet,player,
+15/05/2022 10:39,0,6,dod_catania_rc2,6 dod_catania_rc2,,,snow
+15/05/2022 10:39,0,6,dod_catania_rc2,6 dod_catania_rc2,Sorter,player,
+15/05/2022 10:39,0,6,dod_catania_rc2,6 dod_catania_rc2,,,Aftershock_
+15/05/2022 10:39,0,6,dod_catania_rc2,6 dod_catania_rc2,free tibet,player,
+15/05/2022 10:39,0,6,dod_catania_rc2,6 dod_catania_rc2,Aftershock_,prop_physics_multiplayer,
+15/05/2022 10:39,0,6,dod_catania_rc2,6 dod_catania_rc2,Aftershock_,prop_physics_multiplayer,
+15/05/2022 10:39,0,6,dod_catania_rc2,6 dod_catania_rc2,,,Sorter
+15/05/2022 10:39,0,6,dod_catania_rc2,6 dod_catania_rc2,free tibet,player,
+15/05/2022 10:39,0,6,dod_catania_rc2,6 dod_catania_rc2,[CX] Tommy W.,prop_physics_multiplayer,
+15/05/2022 10:39,0,6,dod_catania_rc2,6 dod_catania_rc2,,,foolycooly.
+15/05/2022 10:39,0,6,dod_catania_rc2,6 dod_catania_rc2,free tibet,player,
+15/05/2022 10:39,0,6,dod_catania_rc2,6 dod_catania_rc2,,,free tibet
+15/05/2022 10:39,0,6,dod_catania_rc2,6 dod_catania_rc2,[CX] Tommy W.,player,
+15/05/2022 10:40,0,6,dod_catania_rc2,6 dod_catania_rc2,,,[CX] Tommy W.
+15/05/2022 10:40,0,6,dod_catania_rc2,6 dod_catania_rc2,osgSaber,player,
+15/05/2022 10:40,0,6,dod_catania_rc2,6 dod_catania_rc2,,,Sorter
+15/05/2022 10:40,0,6,dod_catania_rc2,6 dod_catania_rc2,osgSaber,player,
+15/05/2022 10:40,0,6,dod_catania_rc2,6 dod_catania_rc2,,,osgSaber
+15/05/2022 10:40,0,6,dod_catania_rc2,6 dod_catania_rc2,foolycooly.,player,
+15/05/2022 10:40,0,6,dod_catania_rc2,6 dod_catania_rc2,,,Valkyries
+15/05/2022 10:40,0,6,dod_catania_rc2,6 dod_catania_rc2,Aftershock_,player,
+15/05/2022 10:40,0,6,dod_catania_rc2,6 dod_catania_rc2,,,Aftershock_
+15/05/2022 10:40,0,6,dod_catania_rc2,6 dod_catania_rc2,snow,player,
+15/05/2022 10:40,0,6,dod_catania_rc2,6 dod_catania_rc2,,,DawG
+15/05/2022 10:40,0,6,dod_catania_rc2,6 dod_catania_rc2,osgSaber,player,
+15/05/2022 10:40,0,6,dod_catania_rc2,6 dod_catania_rc2,,,foolycooly.
+15/05/2022 10:40,0,6,dod_catania_rc2,6 dod_catania_rc2,snow,player,
+15/05/2022 10:40,0,6,dod_catania_rc2,6 dod_catania_rc2,,,snow
+15/05/2022 10:40,0,6,dod_catania_rc2,6 dod_catania_rc2,[CX] Tommy W.,player,
+15/05/2022 10:40,0,6,dod_catania_rc2,6 dod_catania_rc2,,,Sorter
+15/05/2022 10:40,0,6,dod_catania_rc2,6 dod_catania_rc2,Valkyries,player,
+15/05/2022 10:40,0,6,dod_catania_rc2,6 dod_catania_rc2,,,Aftershock_
+15/05/2022 10:40,0,6,dod_catania_rc2,6 dod_catania_rc2,Valkyries,player,
+15/05/2022 10:40,0,6,dod_catania_rc2,6 dod_catania_rc2,DawG,prop_physics_multiplayer,
+15/05/2022 10:40,0,6,dod_catania_rc2,6 dod_catania_rc2,DawG,prop_physics_multiplayer,
+15/05/2022 10:40,0,6,dod_catania_rc2,6 dod_catania_rc2,[CX] Tommy W.,func_breakable,
+15/05/2022 10:41,0,6,dod_catania_rc2,6 dod_catania_rc2,,,free tibet
+15/05/2022 10:41,0,6,dod_catania_rc2,6 dod_catania_rc2,DawG,player,
+15/05/2022 10:41,0,6,dod_catania_rc2,6 dod_catania_rc2,,,Valkyries
+15/05/2022 10:41,0,6,dod_catania_rc2,6 dod_catania_rc2,Sorter,player,
+15/05/2022 10:41,0,6,dod_catania_rc2,6 dod_catania_rc2,,,snow
+15/05/2022 10:41,0,6,dod_catania_rc2,6 dod_catania_rc2,foolycooly.,player,
+15/05/2022 10:41,0,6,dod_catania_rc2,6 dod_catania_rc2,,,DawG
+15/05/2022 10:41,0,6,dod_catania_rc2,6 dod_catania_rc2,osgSaber,player,
+15/05/2022 10:41,0,6,dod_catania_rc2,6 dod_catania_rc2,,,GodModuleAU
+15/05/2022 10:41,0,6,dod_catania_rc2,6 dod_catania_rc2,[CX] Tommy W.,player,
+15/05/2022 10:41,0,6,dod_catania_rc2,6 dod_catania_rc2,,,osgSaber
+15/05/2022 10:41,0,6,dod_catania_rc2,6 dod_catania_rc2,foolycooly.,player,
+15/05/2022 10:41,0,6,dod_catania_rc2,6 dod_catania_rc2,,,[CX] Tommy W.
+15/05/2022 10:41,0,6,dod_catania_rc2,6 dod_catania_rc2,free tibet,player,
+15/05/2022 10:41,0,6,dod_catania_rc2,6 dod_catania_rc2,,,free tibet
+15/05/2022 10:41,0,6,dod_catania_rc2,6 dod_catania_rc2,Sorter,player,
+15/05/2022 10:41,0,6,dod_catania_rc2,6 dod_catania_rc2,,,Aftershock_
+15/05/2022 10:41,0,6,dod_catania_rc2,6 dod_catania_rc2,GodModuleAU,player,
+15/05/2022 10:41,0,6,dod_catania_rc2,6 dod_catania_rc2,,,GodModuleAU
+15/05/2022 10:41,0,6,dod_catania_rc2,6 dod_catania_rc2,foolycooly.,player,
+15/05/2022 10:41,0,6,dod_catania_rc2,6 dod_catania_rc2,,,Sorter
+15/05/2022 10:41,0,6,dod_catania_rc2,6 dod_catania_rc2,osgSaber,player,
+15/05/2022 10:41,0,6,dod_catania_rc2,6 dod_catania_rc2,,,osgSaber
+15/05/2022 10:41,0,6,dod_catania_rc2,6 dod_catania_rc2,foolycooly.,player,
+15/05/2022 10:41,0,6,dod_catania_rc2,6 dod_catania_rc2,,,DawG
+15/05/2022 10:41,0,6,dod_catania_rc2,6 dod_catania_rc2,snow,player,
+15/05/2022 10:41,0,6,dod_catania_rc2,6 dod_catania_rc2,,,foolycooly.
+15/05/2022 10:41,0,6,dod_catania_rc2,6 dod_catania_rc2,free tibet,player,
+15/05/2022 10:41,0,6,dod_catania_rc2,6 dod_catania_rc2,free tibet,prop_physics_multiplayer,
+15/05/2022 10:41,0,6,dod_catania_rc2,6 dod_catania_rc2,,,snow
+15/05/2022 10:41,0,6,dod_catania_rc2,6 dod_catania_rc2,[CX] Tommy W.,player,
+15/05/2022 10:41,0,6,dod_catania_rc2,6 dod_catania_rc2,,,[CX] Tommy W.
+15/05/2022 10:41,0,6,dod_catania_rc2,6 dod_catania_rc2,Valkyries,player,
+15/05/2022 10:41,0,6,dod_catania_rc2,6 dod_catania_rc2,,,Stoney DK
+15/05/2022 10:41,0,6,dod_catania_rc2,6 dod_catania_rc2,free tibet,player,
+15/05/2022 10:41,0,6,dod_catania_rc2,6 dod_catania_rc2,Valkyries,prop_physics_multiplayer,
+15/05/2022 10:42,0,6,dod_catania_rc2,6 dod_catania_rc2,,,Aftershock_
+15/05/2022 10:42,0,6,dod_catania_rc2,6 dod_catania_rc2,Valkyries,player,
+15/05/2022 10:42,0,6,dod_catania_rc2,6 dod_catania_rc2,,,foolycooly.
+15/05/2022 10:42,0,6,dod_catania_rc2,6 dod_catania_rc2,Valkyries,player,
+15/05/2022 10:42,0,6,dod_catania_rc2,6 dod_catania_rc2,,,Valkyries
+15/05/2022 10:42,0,6,dod_catania_rc2,6 dod_catania_rc2,DawG,player,
+15/05/2022 10:42,0,6,dod_catania_rc2,6 dod_catania_rc2,,,osgSaber
+15/05/2022 10:42,0,6,dod_catania_rc2,6 dod_catania_rc2,foolycooly.,player,
+15/05/2022 10:42,0,6,dod_catania_rc2,6 dod_catania_rc2,osgSaber,func_breakable,
+15/05/2022 10:42,0,6,dod_catania_rc2,6 dod_catania_rc2,snow,prop_physics_multiplayer,
+15/05/2022 10:42,0,6,dod_catania_rc2,6 dod_catania_rc2,snow,func_breakable,
+15/05/2022 10:42,0,6,dod_catania_rc2,6 dod_catania_rc2,,,snow
+15/05/2022 10:42,0,6,dod_catania_rc2,6 dod_catania_rc2,DawG,player,
+15/05/2022 10:42,0,6,dod_catania_rc2,6 dod_catania_rc2,,,DawG
+15/05/2022 10:42,0,6,dod_catania_rc2,6 dod_catania_rc2,free tibet,player,
+15/05/2022 10:42,0,6,dod_catania_rc2,6 dod_catania_rc2,osgSaber,func_breakable,
+15/05/2022 10:42,0,6,dod_catania_rc2,6 dod_catania_rc2,,,osgSaber
+15/05/2022 10:42,0,6,dod_catania_rc2,6 dod_catania_rc2,foolycooly.,player,
+15/05/2022 10:43,0,6,dod_catania_rc2,6 dod_catania_rc2,,,free tibet
+15/05/2022 10:43,0,6,dod_catania_rc2,6 dod_catania_rc2,Sorter,player,
+15/05/2022 10:43,0,6,dod_catania_rc2,6 dod_catania_rc2,,,DawG
+15/05/2022 10:43,0,6,dod_catania_rc2,6 dod_catania_rc2,snow,player,
+15/05/2022 10:43,0,6,dod_catania_rc2,6 dod_catania_rc2,,,snow
+15/05/2022 10:43,0,6,dod_catania_rc2,6 dod_catania_rc2,foolycooly.,player,
+15/05/2022 10:43,0,6,dod_catania_rc2,6 dod_catania_rc2,,,osgSaber
+15/05/2022 10:43,0,6,dod_catania_rc2,6 dod_catania_rc2,Aftershock_,player,
+15/05/2022 10:43,0,6,dod_catania_rc2,6 dod_catania_rc2,,,Sorter
+15/05/2022 10:43,0,6,dod_catania_rc2,6 dod_catania_rc2,free tibet,player,
+15/05/2022 10:43,0,6,dod_catania_rc2,6 dod_catania_rc2,foolycooly.,prop_physics_multiplayer,
+15/05/2022 10:43,0,6,dod_catania_rc2,6 dod_catania_rc2,,,Aftershock_
+15/05/2022 10:43,0,6,dod_catania_rc2,6 dod_catania_rc2,free tibet,player,
+15/05/2022 10:43,0,6,dod_catania_rc2,6 dod_catania_rc2,,,foolycooly.
+15/05/2022 10:43,0,6,dod_catania_rc2,6 dod_catania_rc2,free tibet,player,
+15/05/2022 10:43,0,6,dod_catania_rc2,6 dod_catania_rc2,,,snow
+15/05/2022 10:43,0,6,dod_catania_rc2,6 dod_catania_rc2,DawG,player,
+15/05/2022 10:43,0,6,dod_catania_rc2,6 dod_catania_rc2,,,Sorter
+15/05/2022 10:43,0,6,dod_catania_rc2,6 dod_catania_rc2,osgSaber,player,
+15/05/2022 10:43,0,6,dod_catania_rc2,6 dod_catania_rc2,foolycooly.,prop_physics_multiplayer,
+15/05/2022 10:43,0,6,dod_catania_rc2,6 dod_catania_rc2,foolycooly.,prop_physics_multiplayer,
+15/05/2022 10:43,0,6,dod_catania_rc2,6 dod_catania_rc2,,,DawG
+15/05/2022 10:43,0,6,dod_catania_rc2,6 dod_catania_rc2,snow,player,
+15/05/2022 10:44,0,6,dod_catania_rc2,6 dod_catania_rc2,,,Sorter
+15/05/2022 10:44,0,6,dod_catania_rc2,6 dod_catania_rc2,free tibet,player,
+15/05/2022 10:44,0,6,dod_catania_rc2,6 dod_catania_rc2,,,foolycooly.
+15/05/2022 10:44,0,6,dod_catania_rc2,6 dod_catania_rc2,free tibet,player,
+15/05/2022 10:44,0,6,dod_catania_rc2,6 dod_catania_rc2,,,DawG
+15/05/2022 10:44,0,6,dod_catania_rc2,6 dod_catania_rc2,osgSaber,player,
+15/05/2022 10:44,0,6,dod_catania_rc2,6 dod_catania_rc2,,,foolycooly.
+15/05/2022 10:44,0,6,dod_catania_rc2,6 dod_catania_rc2,osgSaber,player,
+15/05/2022 10:44,0,6,dod_catania_rc2,6 dod_catania_rc2,,,osgSaber
+15/05/2022 10:44,0,6,dod_catania_rc2,6 dod_catania_rc2,Sorter,player,
+15/05/2022 10:44,0,6,dod_catania_rc2,6 dod_catania_rc2,,,Sorter
+15/05/2022 10:44,0,6,dod_catania_rc2,6 dod_catania_rc2,free tibet,player,
+15/05/2022 10:44,0,6,dod_catania_rc2,6 dod_catania_rc2,,,DawG
+15/05/2022 10:44,0,6,dod_catania_rc2,6 dod_catania_rc2,free tibet,player,
+15/05/2022 10:44,0,6,dod_catania_rc2,6 dod_catania_rc2,,,foolycooly.
+15/05/2022 10:44,0,6,dod_catania_rc2,6 dod_catania_rc2,free tibet,player,
+15/05/2022 10:44,0,6,dod_catania_rc2,6 dod_catania_rc2,,,DawG
+15/05/2022 10:44,0,6,dod_catania_rc2,6 dod_catania_rc2,snow,player,
+15/05/2022 10:44,0,6,dod_catania_rc2,6 dod_catania_rc2,,,foolycooly.
+15/05/2022 10:44,0,6,dod_catania_rc2,6 dod_catania_rc2,snow,player,
+15/05/2022 10:44,0,6,dod_catania_rc2,6 dod_catania_rc2,,,DawG
+15/05/2022 10:44,0,6,dod_catania_rc2,6 dod_catania_rc2,snow,player,
+15/05/2022 10:45,0,6,dod_catania_rc2,6 dod_catania_rc2,,,free tibet
+15/05/2022 10:45,0,6,dod_catania_rc2,6 dod_catania_rc2,Sorter,player,
+15/05/2022 10:45,0,6,dod_catania_rc2,6 dod_catania_rc2,foolycooly.,prop_physics_multiplayer,
+15/05/2022 10:45,0,6,dod_catania_rc2,6 dod_catania_rc2,,,snow
+15/05/2022 10:45,0,6,dod_catania_rc2,6 dod_catania_rc2,Sorter,player,
+15/05/2022 10:45,0,6,dod_catania_rc2,6 dod_catania_rc2,,,Sorter
+15/05/2022 10:45,0,6,dod_catania_rc2,6 dod_catania_rc2,osgSaber,player,
+15/05/2022 10:45,0,6,dod_catania_rc2,6 dod_catania_rc2,,,free tibet
+15/05/2022 10:45,0,6,dod_catania_rc2,6 dod_catania_rc2,DawG,player,
+15/05/2022 10:45,0,6,dod_catania_rc2,6 dod_catania_rc2,,,osgSaber
+15/05/2022 10:45,0,6,dod_catania_rc2,6 dod_catania_rc2,Sorter,player,
+15/05/2022 10:45,0,6,dod_catania_rc2,6 dod_catania_rc2,foolycooly.,prop_physics_multiplayer,
+15/05/2022 10:45,0,6,dod_catania_rc2,6 dod_catania_rc2,foolycooly.,prop_physics_multiplayer,
+15/05/2022 10:45,0,6,dod_catania_rc2,6 dod_catania_rc2,,,DawG
+15/05/2022 10:45,0,6,dod_catania_rc2,6 dod_catania_rc2,free tibet,player,
+15/05/2022 10:45,0,6,dod_catania_rc2,6 dod_catania_rc2,,,osgSaber
+15/05/2022 10:45,0,6,dod_catania_rc2,6 dod_catania_rc2,foolycooly.,player,
+15/05/2022 10:45,0,6,dod_catania_rc2,6 dod_catania_rc2,,,foolycooly.
+15/05/2022 10:45,0,6,dod_catania_rc2,6 dod_catania_rc2,free tibet,player,
+15/05/2022 10:45,0,6,dod_catania_rc2,6 dod_catania_rc2,,,free tibet
+15/05/2022 10:45,0,6,dod_catania_rc2,6 dod_catania_rc2,Sorter,player,
+15/05/2022 10:45,0,6,dod_catania_rc2,6 dod_catania_rc2,,,DawG
+15/05/2022 10:45,0,6,dod_catania_rc2,6 dod_catania_rc2,snow,player,
+15/05/2022 10:46,0,6,dod_catania_rc2,6 dod_catania_rc2,,,snow
+15/05/2022 10:46,0,6,dod_catania_rc2,6 dod_catania_rc2,foolycooly.,player,
+15/05/2022 10:46,0,6,dod_catania_rc2,6 dod_catania_rc2,,,DawG
+15/05/2022 10:46,0,6,dod_catania_rc2,6 dod_catania_rc2,osgSaber,player,
+15/05/2022 10:46,0,6,dod_catania_rc2,6 dod_catania_rc2,foolycooly.,func_breakable,
+15/05/2022 10:46,0,6,dod_catania_rc2,6 dod_catania_rc2,foolycooly.,func_breakable,
+15/05/2022 10:47,0,7,dod_lime_arena,7 dod_lime_arena,,,snow
+15/05/2022 10:47,0,7,dod_lime_arena,7 dod_lime_arena,free tibet,player,
+15/05/2022 10:47,0,7,dod_lime_arena,7 dod_lime_arena,,,foolycooly.
+15/05/2022 10:47,0,7,dod_lime_arena,7 dod_lime_arena,free tibet,player,
+15/05/2022 10:47,0,7,dod_lime_arena,7 dod_lime_arena,,,free tibet
+15/05/2022 10:47,0,7,dod_lime_arena,7 dod_lime_arena,Sorter,player,
+15/05/2022 10:47,0,7,dod_lime_arena,7 dod_lime_arena,,,osgSaber
+15/05/2022 10:47,0,7,dod_lime_arena,7 dod_lime_arena,Sorter,player,
+15/05/2022 10:47,0,7,dod_lime_arena,7 dod_lime_arena,,,foolycooly.
+15/05/2022 10:47,0,7,dod_lime_arena,7 dod_lime_arena,DawG,player,
+15/05/2022 10:47,0,7,dod_lime_arena,7 dod_lime_arena,,,free tibet
+15/05/2022 10:47,0,7,dod_lime_arena,7 dod_lime_arena,Sorter,player,
+15/05/2022 10:47,0,7,dod_lime_arena,7 dod_lime_arena,,,DawG
+15/05/2022 10:47,0,7,dod_lime_arena,7 dod_lime_arena,Sorter,player,
+15/05/2022 10:47,0,7,dod_lime_arena,7 dod_lime_arena,,,snow
+15/05/2022 10:47,0,7,dod_lime_arena,7 dod_lime_arena,osgSaber,player,
+15/05/2022 10:47,0,7,dod_lime_arena,7 dod_lime_arena,,,Sorter
+15/05/2022 10:47,0,7,dod_lime_arena,7 dod_lime_arena,osgSaber,player,
+15/05/2022 10:47,0,7,dod_lime_arena,7 dod_lime_arena,,,foolycooly.
+15/05/2022 10:47,0,7,dod_lime_arena,7 dod_lime_arena,osgSaber,player,
+15/05/2022 10:47,0,7,dod_lime_arena,7 dod_lime_arena,,,osgSaber
+15/05/2022 10:47,0,7,dod_lime_arena,7 dod_lime_arena,snow,player,
+15/05/2022 10:47,0,7,dod_lime_arena,7 dod_lime_arena,,,DawG
+15/05/2022 10:47,0,7,dod_lime_arena,7 dod_lime_arena,Sorter,player,
+15/05/2022 10:47,0,7,dod_lime_arena,7 dod_lime_arena,,,free tibet
+15/05/2022 10:47,0,7,dod_lime_arena,7 dod_lime_arena,Sorter,player,
+15/05/2022 10:48,0,7,dod_lime_arena,7 dod_lime_arena,,,DawG
+15/05/2022 10:48,0,7,dod_lime_arena,7 dod_lime_arena,Sorter,player,
+15/05/2022 10:48,0,7,dod_lime_arena,7 dod_lime_arena,,,foolycooly.
+15/05/2022 10:48,0,7,dod_lime_arena,7 dod_lime_arena,free tibet,player,
+15/05/2022 10:48,0,7,dod_lime_arena,7 dod_lime_arena,,,foolycooly.
+15/05/2022 10:48,0,7,dod_lime_arena,7 dod_lime_arena,osgSaber,player,
+15/05/2022 10:48,0,7,dod_lime_arena,7 dod_lime_arena,,,osgSaber
+15/05/2022 10:48,0,7,dod_lime_arena,7 dod_lime_arena,snow,player,
+15/05/2022 10:48,0,7,dod_lime_arena,7 dod_lime_arena,,,DawG
+15/05/2022 10:48,0,7,dod_lime_arena,7 dod_lime_arena,snow,player,
+15/05/2022 10:48,0,7,dod_lime_arena,7 dod_lime_arena,,,free tibet
+15/05/2022 10:48,0,7,dod_lime_arena,7 dod_lime_arena,snow,player,
+15/05/2022 10:48,0,7,dod_lime_arena,7 dod_lime_arena,,,DawG
+15/05/2022 10:48,0,7,dod_lime_arena,7 dod_lime_arena,Sorter,player,
+15/05/2022 10:48,0,7,dod_lime_arena,7 dod_lime_arena,,,osgSaber
+15/05/2022 10:48,0,7,dod_lime_arena,7 dod_lime_arena,Sorter,player,
+15/05/2022 10:48,0,7,dod_lime_arena,7 dod_lime_arena,,,Sorter
+15/05/2022 10:48,0,7,dod_lime_arena,7 dod_lime_arena,free tibet,player,
+15/05/2022 10:48,0,7,dod_lime_arena,7 dod_lime_arena,,,foolycooly.
+15/05/2022 10:48,0,7,dod_lime_arena,7 dod_lime_arena,snow,player,
+15/05/2022 10:48,0,7,dod_lime_arena,7 dod_lime_arena,,,snow
+15/05/2022 10:48,0,7,dod_lime_arena,7 dod_lime_arena,osgSaber,player,
+15/05/2022 10:49,0,7,dod_lime_arena,7 dod_lime_arena,,,Sorter
+15/05/2022 10:49,0,7,dod_lime_arena,7 dod_lime_arena,osgSaber,player,
+15/05/2022 10:49,0,7,dod_lime_arena,7 dod_lime_arena,,,foolycooly.
+15/05/2022 10:49,0,7,dod_lime_arena,7 dod_lime_arena,free tibet,player,
+15/05/2022 10:49,0,7,dod_lime_arena,7 dod_lime_arena,,,snow
+15/05/2022 10:49,0,7,dod_lime_arena,7 dod_lime_arena,free tibet,player,
+15/05/2022 10:49,0,7,dod_lime_arena,7 dod_lime_arena,,,osgSaber
+15/05/2022 10:49,0,7,dod_lime_arena,7 dod_lime_arena,snow,player,
+15/05/2022 10:49,0,7,dod_lime_arena,7 dod_lime_arena,,,DawG
+15/05/2022 10:49,0,7,dod_lime_arena,7 dod_lime_arena,foolycooly.,player,
+15/05/2022 10:49,0,7,dod_lime_arena,7 dod_lime_arena,,,free tibet
+15/05/2022 10:49,0,7,dod_lime_arena,7 dod_lime_arena,Sorter,player,
+15/05/2022 10:49,0,7,dod_lime_arena,7 dod_lime_arena,,,foolycooly.
+15/05/2022 10:49,0,7,dod_lime_arena,7 dod_lime_arena,osgSaber,player,
+15/05/2022 10:49,0,7,dod_lime_arena,7 dod_lime_arena,,,Sorter
+15/05/2022 10:49,0,7,dod_lime_arena,7 dod_lime_arena,osgSaber,player,
+15/05/2022 10:49,0,7,dod_lime_arena,7 dod_lime_arena,,,snow
+15/05/2022 10:49,0,7,dod_lime_arena,7 dod_lime_arena,osgSaber,player,
+15/05/2022 10:49,0,7,dod_lime_arena,7 dod_lime_arena,,,osgSaber
+15/05/2022 10:49,0,7,dod_lime_arena,7 dod_lime_arena,Sorter,player,
+15/05/2022 10:50,0,7,dod_lime_arena,7 dod_lime_arena,,,free tibet
+15/05/2022 10:50,0,7,dod_lime_arena,7 dod_lime_arena,Sorter,player,
+15/05/2022 10:50,0,7,dod_lime_arena,7 dod_lime_arena,,,Sorter
+15/05/2022 10:50,0,7,dod_lime_arena,7 dod_lime_arena,DawG,player,
+15/05/2022 10:50,0,7,dod_lime_arena,7 dod_lime_arena,,,osgSaber
+15/05/2022 10:50,0,7,dod_lime_arena,7 dod_lime_arena,snow,player,
+15/05/2022 10:50,0,7,dod_lime_arena,7 dod_lime_arena,,,DawG
+15/05/2022 10:50,0,7,dod_lime_arena,7 dod_lime_arena,snow,player,
+15/05/2022 10:50,0,7,dod_lime_arena,7 dod_lime_arena,,,free tibet
+15/05/2022 10:50,0,7,dod_lime_arena,7 dod_lime_arena,foolycooly.,player,
+15/05/2022 10:50,0,7,dod_lime_arena,7 dod_lime_arena,,,DawG
+15/05/2022 10:50,0,7,dod_lime_arena,7 dod_lime_arena,foolycooly.,player,
+15/05/2022 10:50,0,7,dod_lime_arena,7 dod_lime_arena,,,free tibet
+15/05/2022 10:50,0,7,dod_lime_arena,7 dod_lime_arena,foolycooly.,player,
+15/05/2022 10:50,0,7,dod_lime_arena,7 dod_lime_arena,,,foolycooly.
+15/05/2022 10:50,0,7,dod_lime_arena,7 dod_lime_arena,osgSaber,player,
+15/05/2022 10:50,0,7,dod_lime_arena,7 dod_lime_arena,,,osgSaber
+15/05/2022 10:50,0,7,dod_lime_arena,7 dod_lime_arena,snow,player,
+15/05/2022 10:50,0,7,dod_lime_arena,7 dod_lime_arena,,,DawG
+15/05/2022 10:50,0,7,dod_lime_arena,7 dod_lime_arena,Sorter,player,
+15/05/2022 10:50,0,7,dod_lime_arena,7 dod_lime_arena,,,Sorter
+15/05/2022 10:50,0,7,dod_lime_arena,7 dod_lime_arena,free tibet,player,
+15/05/2022 10:50,0,7,dod_lime_arena,7 dod_lime_arena,,,free tibet
+15/05/2022 10:50,0,7,dod_lime_arena,7 dod_lime_arena,snow,player,
+15/05/2022 10:50,0,7,dod_lime_arena,7 dod_lime_arena,,,snow
+15/05/2022 10:50,0,7,dod_lime_arena,7 dod_lime_arena,foolycooly.,player,
+15/05/2022 10:51,0,7,dod_lime_arena,7 dod_lime_arena,,,osgSaber
+15/05/2022 10:51,0,7,dod_lime_arena,7 dod_lime_arena,foolycooly.,player,
+15/05/2022 10:51,0,7,dod_lime_arena,7 dod_lime_arena,,,DawG
+15/05/2022 10:51,0,7,dod_lime_arena,7 dod_lime_arena,foolycooly.,player,
+15/05/2022 10:51,0,7,dod_lime_arena,7 dod_lime_arena,,,foolycooly.
+15/05/2022 10:51,0,7,dod_lime_arena,7 dod_lime_arena,free tibet,player,
+15/05/2022 10:51,0,7,dod_lime_arena,7 dod_lime_arena,,,osgSaber
+15/05/2022 10:51,0,7,dod_lime_arena,7 dod_lime_arena,snow,player,
+15/05/2022 10:51,0,7,dod_lime_arena,7 dod_lime_arena,,,Sorter
+15/05/2022 10:51,0,7,dod_lime_arena,7 dod_lime_arena,free tibet,player,
+15/05/2022 10:51,0,7,dod_lime_arena,7 dod_lime_arena,,,DawG
+15/05/2022 10:51,0,7,dod_lime_arena,7 dod_lime_arena,snow,player,
+15/05/2022 10:51,0,7,dod_lime_arena,7 dod_lime_arena,,,snow
+15/05/2022 10:51,0,7,dod_lime_arena,7 dod_lime_arena,free tibet,player,
+15/05/2022 10:51,0,7,dod_lime_arena,7 dod_lime_arena,,,foolycooly.
+15/05/2022 10:51,0,7,dod_lime_arena,7 dod_lime_arena,free tibet,player,
+15/05/2022 10:51,0,7,dod_lime_arena,7 dod_lime_arena,,,free tibet
+15/05/2022 10:51,0,7,dod_lime_arena,7 dod_lime_arena,snow,player,
+15/05/2022 10:51,0,7,dod_lime_arena,7 dod_lime_arena,,,Sorter
+15/05/2022 10:51,0,7,dod_lime_arena,7 dod_lime_arena,DawG,player,
+15/05/2022 10:51,0,7,dod_lime_arena,7 dod_lime_arena,,,DawG
+15/05/2022 10:51,0,7,dod_lime_arena,7 dod_lime_arena,snow,player,
+15/05/2022 10:51,0,7,dod_lime_arena,7 dod_lime_arena,,,foolycooly.
+15/05/2022 10:51,0,7,dod_lime_arena,7 dod_lime_arena,osgSaber,player,
+15/05/2022 10:51,0,7,dod_lime_arena,7 dod_lime_arena,,,free tibet
+15/05/2022 10:51,0,7,dod_lime_arena,7 dod_lime_arena,snow,player,
+15/05/2022 10:51,0,7,dod_lime_arena,7 dod_lime_arena,,,snow
+15/05/2022 10:51,0,7,dod_lime_arena,7 dod_lime_arena,osgSaber,player,
+15/05/2022 10:52,0,7,dod_lime_arena,7 dod_lime_arena,,,osgSaber
+15/05/2022 10:52,0,7,dod_lime_arena,7 dod_lime_arena,Sorter,player,
+15/05/2022 10:52,0,7,dod_lime_arena,7 dod_lime_arena,,,DawG
+15/05/2022 10:52,0,7,dod_lime_arena,7 dod_lime_arena,Sorter,player,
+15/05/2022 10:52,0,7,dod_lime_arena,7 dod_lime_arena,,,free tibet
+15/05/2022 10:52,0,7,dod_lime_arena,7 dod_lime_arena,snow,player,
+15/05/2022 10:52,0,7,dod_lime_arena,7 dod_lime_arena,,,foolycooly.
+15/05/2022 10:52,0,7,dod_lime_arena,7 dod_lime_arena,DawG,player,
+15/05/2022 10:52,0,7,dod_lime_arena,7 dod_lime_arena,,,DawG
+15/05/2022 10:52,0,7,dod_lime_arena,7 dod_lime_arena,Sorter,player,
+15/05/2022 10:52,0,7,dod_lime_arena,7 dod_lime_arena,,,Sorter
+15/05/2022 10:52,0,7,dod_lime_arena,7 dod_lime_arena,osgSaber,player,
+15/05/2022 10:52,0,7,dod_lime_arena,7 dod_lime_arena,,,osgSaber
+15/05/2022 10:52,0,7,dod_lime_arena,7 dod_lime_arena,snow,player,
+15/05/2022 10:52,0,7,dod_lime_arena,7 dod_lime_arena,,,snow
+15/05/2022 10:52,0,7,dod_lime_arena,7 dod_lime_arena,free tibet,player,
+15/05/2022 10:52,0,7,dod_lime_arena,7 dod_lime_arena,,,foolycooly.
+15/05/2022 10:52,0,7,dod_lime_arena,7 dod_lime_arena,free tibet,player,
+15/05/2022 10:52,0,7,dod_lime_arena,7 dod_lime_arena,,,free tibet
+15/05/2022 10:52,0,7,dod_lime_arena,7 dod_lime_arena,Sorter,player,
+15/05/2022 10:52,0,7,dod_lime_arena,7 dod_lime_arena,,,DawG
+15/05/2022 10:52,0,7,dod_lime_arena,7 dod_lime_arena,Sorter,player,
+15/05/2022 10:53,0,7,dod_lime_arena,7 dod_lime_arena,,,foolycooly.
+15/05/2022 10:53,0,7,dod_lime_arena,7 dod_lime_arena,osgSaber,player,
+15/05/2022 10:53,0,7,dod_lime_arena,7 dod_lime_arena,,,Sorter
+15/05/2022 10:53,0,7,dod_lime_arena,7 dod_lime_arena,free tibet,player,
+15/05/2022 10:53,0,7,dod_lime_arena,7 dod_lime_arena,,,DawG
+15/05/2022 10:53,0,7,dod_lime_arena,7 dod_lime_arena,snow,player,
+15/05/2022 10:53,0,7,dod_lime_arena,7 dod_lime_arena,,,free tibet
+15/05/2022 10:53,0,7,dod_lime_arena,7 dod_lime_arena,snow,player,
+15/05/2022 10:53,0,7,dod_lime_arena,7 dod_lime_arena,,,snow
+15/05/2022 10:53,0,7,dod_lime_arena,7 dod_lime_arena,osgSaber,player,
+15/05/2022 10:53,0,7,dod_lime_arena,7 dod_lime_arena,,,osgSaber
+15/05/2022 10:53,0,7,dod_lime_arena,7 dod_lime_arena,DawG,player,
+15/05/2022 10:53,0,7,dod_lime_arena,7 dod_lime_arena,,,Sorter
+15/05/2022 10:53,0,7,dod_lime_arena,7 dod_lime_arena,free tibet,player,
+15/05/2022 10:53,0,7,dod_lime_arena,7 dod_lime_arena,,,DawG
+15/05/2022 10:53,0,7,dod_lime_arena,7 dod_lime_arena,foolycooly.,player,
+15/05/2022 10:53,0,7,dod_lime_arena,7 dod_lime_arena,,,free tibet
+15/05/2022 10:53,0,7,dod_lime_arena,7 dod_lime_arena,foolycooly.,player,
+15/05/2022 10:53,0,7,dod_lime_arena,7 dod_lime_arena,,,foolycooly.
+15/05/2022 10:53,0,7,dod_lime_arena,7 dod_lime_arena,DawG,player,
+15/05/2022 10:53,0,7,dod_lime_arena,7 dod_lime_arena,,,DawG
+15/05/2022 10:53,0,7,dod_lime_arena,7 dod_lime_arena,snow,player,
+15/05/2022 10:53,0,7,dod_lime_arena,7 dod_lime_arena,,,snow
+15/05/2022 10:53,0,7,dod_lime_arena,7 dod_lime_arena,osgSaber,player,
+15/05/2022 10:54,0,7,dod_lime_arena,7 dod_lime_arena,,,osgSaber
+15/05/2022 10:54,0,7,dod_lime_arena,7 dod_lime_arena,Sorter,player,
+15/05/2022 10:54,0,7,dod_lime_arena,7 dod_lime_arena,,,free tibet
+15/05/2022 10:54,0,7,dod_lime_arena,7 dod_lime_arena,Sorter,player,
+15/05/2022 10:54,0,7,dod_lime_arena,7 dod_lime_arena,,,DawG
+15/05/2022 10:54,0,7,dod_lime_arena,7 dod_lime_arena,Sorter,player,
+15/05/2022 10:54,0,7,dod_lime_arena,7 dod_lime_arena,,,osgSaber
+15/05/2022 10:54,0,7,dod_lime_arena,7 dod_lime_arena,Sorter,player,
+15/05/2022 10:54,0,7,dod_lime_arena,7 dod_lime_arena,,,free tibet
+15/05/2022 10:54,0,7,dod_lime_arena,7 dod_lime_arena,foolycooly.,player,
+15/05/2022 10:54,0,7,dod_lime_arena,7 dod_lime_arena,,,DawG
+15/05/2022 10:54,0,7,dod_lime_arena,7 dod_lime_arena,foolycooly.,player,
+15/05/2022 10:54,0,7,dod_lime_arena,7 dod_lime_arena,,,osgSaber
+15/05/2022 10:54,0,7,dod_lime_arena,7 dod_lime_arena,Sorter,player,
+15/05/2022 10:54,0,7,dod_lime_arena,7 dod_lime_arena,,,free tibet
+15/05/2022 10:54,0,7,dod_lime_arena,7 dod_lime_arena,Sorter,player,
+15/05/2022 10:54,0,7,dod_lime_arena,7 dod_lime_arena,,,foolycooly.
+15/05/2022 10:54,0,7,dod_lime_arena,7 dod_lime_arena,free tibet,player,
+15/05/2022 10:54,0,7,dod_lime_arena,7 dod_lime_arena,,,Sorter
+15/05/2022 10:54,0,7,dod_lime_arena,7 dod_lime_arena,free tibet,player,
+15/05/2022 10:54,0,7,dod_lime_arena,7 dod_lime_arena,,,osgSaber
+15/05/2022 10:54,0,7,dod_lime_arena,7 dod_lime_arena,Sorter,player,
+15/05/2022 10:54,0,7,dod_lime_arena,7 dod_lime_arena,,,foolycooly.
+15/05/2022 10:54,0,7,dod_lime_arena,7 dod_lime_arena,free tibet,player,
+15/05/2022 10:54,0,7,dod_lime_arena,7 dod_lime_arena,,,Sorter
+15/05/2022 10:54,0,7,dod_lime_arena,7 dod_lime_arena,DawG,player,
+15/05/2022 10:54,0,7,dod_lime_arena,7 dod_lime_arena,,,snow
+15/05/2022 10:54,0,7,dod_lime_arena,7 dod_lime_arena,DawG,player,
+15/05/2022 10:55,0,7,dod_lime_arena,7 dod_lime_arena,,,DawG
+15/05/2022 10:55,0,7,dod_lime_arena,7 dod_lime_arena,Sorter,player,
+15/05/2022 10:55,0,7,dod_lime_arena,7 dod_lime_arena,,,Sorter
+15/05/2022 10:55,0,7,dod_lime_arena,7 dod_lime_arena,free tibet,player,
+15/05/2022 10:55,0,7,dod_lime_arena,7 dod_lime_arena,,,free tibet
+15/05/2022 10:55,0,7,dod_lime_arena,7 dod_lime_arena,foolycooly.,player,
+15/05/2022 10:55,0,7,dod_lime_arena,7 dod_lime_arena,,,DawG
+15/05/2022 10:55,0,7,dod_lime_arena,7 dod_lime_arena,foolycooly.,player,
+15/05/2022 10:55,0,7,dod_lime_arena,7 dod_lime_arena,,,foolycooly.
+15/05/2022 10:55,0,7,dod_lime_arena,7 dod_lime_arena,free tibet,player,
+15/05/2022 10:55,0,7,dod_lime_arena,7 dod_lime_arena,,,osgSaber
+15/05/2022 10:55,0,7,dod_lime_arena,7 dod_lime_arena,Sorter,player,
+15/05/2022 10:55,0,7,dod_lime_arena,7 dod_lime_arena,,,Sorter
+15/05/2022 10:55,0,7,dod_lime_arena,7 dod_lime_arena,DawG,player,
+15/05/2022 10:55,0,7,dod_lime_arena,7 dod_lime_arena,,,snow
+15/05/2022 10:55,0,7,dod_lime_arena,7 dod_lime_arena,DawG,player,
+15/05/2022 10:55,0,7,dod_lime_arena,7 dod_lime_arena,,,DawG
+15/05/2022 10:55,0,7,dod_lime_arena,7 dod_lime_arena,Sorter,player,
+15/05/2022 10:56,0,7,dod_lime_arena,7 dod_lime_arena,,,snow
+15/05/2022 10:56,0,7,dod_lime_arena,7 dod_lime_arena,free tibet,player,
+15/05/2022 10:56,0,7,dod_lime_arena,7 dod_lime_arena,,,foolycooly.
+15/05/2022 10:56,0,7,dod_lime_arena,7 dod_lime_arena,osgSaber,player,
+15/05/2022 10:56,0,7,dod_lime_arena,7 dod_lime_arena,,,Sorter
+15/05/2022 10:56,0,7,dod_lime_arena,7 dod_lime_arena,free tibet,player,
+15/05/2022 10:56,0,7,dod_lime_arena,7 dod_lime_arena,,,foolycooly.
+15/05/2022 10:56,0,7,dod_lime_arena,7 dod_lime_arena,osgSaber,player,
+15/05/2022 10:56,0,7,dod_lime_arena,7 dod_lime_arena,,,Sorter
+15/05/2022 10:56,0,7,dod_lime_arena,7 dod_lime_arena,free tibet,player,
+15/05/2022 10:56,0,7,dod_lime_arena,7 dod_lime_arena,,,snow
+15/05/2022 10:56,0,7,dod_lime_arena,7 dod_lime_arena,osgSaber,player,
+15/05/2022 10:56,0,7,dod_lime_arena,7 dod_lime_arena,,,foolycooly.
+15/05/2022 10:56,0,7,dod_lime_arena,7 dod_lime_arena,free tibet,player,
+15/05/2022 10:56,0,7,dod_lime_arena,7 dod_lime_arena,,,Sorter
+15/05/2022 10:56,0,7,dod_lime_arena,7 dod_lime_arena,osgSaber,player,
+15/05/2022 10:56,0,7,dod_lime_arena,7 dod_lime_arena,,,snow
+15/05/2022 10:56,0,7,dod_lime_arena,7 dod_lime_arena,free tibet,player,
+15/05/2022 10:56,0,7,dod_lime_arena,7 dod_lime_arena,,,foolycooly.
+15/05/2022 10:56,0,7,dod_lime_arena,7 dod_lime_arena,free tibet,player,
+15/05/2022 10:56,0,7,dod_lime_arena,7 dod_lime_arena,,,free tibet
+15/05/2022 10:56,0,7,dod_lime_arena,7 dod_lime_arena,Sorter,player,
+15/05/2022 10:56,0,7,dod_lime_arena,7 dod_lime_arena,,,Sorter
+15/05/2022 10:56,0,7,dod_lime_arena,7 dod_lime_arena,DawG,player,
+15/05/2022 10:56,0,7,dod_lime_arena,7 dod_lime_arena,,,foolycooly.
+15/05/2022 10:56,0,7,dod_lime_arena,7 dod_lime_arena,osgSaber,player,
+15/05/2022 10:57,0,7,dod_lime_arena,7 dod_lime_arena,,,osgSaber
+15/05/2022 10:57,0,7,dod_lime_arena,7 dod_lime_arena,Sorter,player,
+15/05/2022 10:57,0,7,dod_lime_arena,7 dod_lime_arena,,,DawG
+15/05/2022 10:57,0,7,dod_lime_arena,7 dod_lime_arena,snow,player,
+15/05/2022 10:57,0,7,dod_lime_arena,7 dod_lime_arena,,,foolycooly.
+15/05/2022 10:57,0,7,dod_lime_arena,7 dod_lime_arena,free tibet,player,
+15/05/2022 10:57,0,7,dod_lime_arena,7 dod_lime_arena,,,Sorter
+15/05/2022 10:57,0,7,dod_lime_arena,7 dod_lime_arena,free tibet,player,
+15/05/2022 10:57,0,7,dod_lime_arena,7 dod_lime_arena,,,snow
+15/05/2022 10:57,0,7,dod_lime_arena,7 dod_lime_arena,free tibet,player,
+15/05/2022 10:57,0,7,dod_lime_arena,7 dod_lime_arena,,,Sorter
+15/05/2022 10:57,0,7,dod_lime_arena,7 dod_lime_arena,free tibet,player,
+15/05/2022 10:57,0,7,dod_lime_arena,7 dod_lime_arena,,,free tibet
+15/05/2022 10:57,0,7,dod_lime_arena,7 dod_lime_arena,foolycooly.,player,
+15/05/2022 10:57,0,7,dod_lime_arena,7 dod_lime_arena,,,foolycooly.
+15/05/2022 10:57,0,7,dod_lime_arena,7 dod_lime_arena,osgSaber,player,
+15/05/2022 10:57,0,7,dod_lime_arena,7 dod_lime_arena,,,snow
+15/05/2022 10:57,0,7,dod_lime_arena,7 dod_lime_arena,osgSaber,player,
+15/05/2022 10:57,0,7,dod_lime_arena,7 dod_lime_arena,,,osgSaber
+15/05/2022 10:57,0,7,dod_lime_arena,7 dod_lime_arena,Sorter,player,
+15/05/2022 10:57,0,7,dod_lime_arena,7 dod_lime_arena,,,Sorter
+15/05/2022 10:57,0,7,dod_lime_arena,7 dod_lime_arena,DawG,player,
+15/05/2022 10:57,0,7,dod_lime_arena,7 dod_lime_arena,,,foolycooly.
+15/05/2022 10:57,0,7,dod_lime_arena,7 dod_lime_arena,free tibet,player,
+15/05/2022 10:57,0,7,dod_lime_arena,7 dod_lime_arena,,,snow
+15/05/2022 10:57,0,7,dod_lime_arena,7 dod_lime_arena,DawG,player,
+15/05/2022 10:57,0,7,dod_lime_arena,7 dod_lime_arena,,,DawG
+15/05/2022 10:57,0,7,dod_lime_arena,7 dod_lime_arena,Sorter,player,
+15/05/2022 10:57,0,7,dod_lime_arena,7 dod_lime_arena,,,free tibet
+15/05/2022 10:57,0,7,dod_lime_arena,7 dod_lime_arena,foolycooly.,player,
+15/05/2022 10:58,0,7,dod_lime_arena,7 dod_lime_arena,,,foolycooly.
+15/05/2022 10:58,0,7,dod_lime_arena,7 dod_lime_arena,osgSaber,player,
+15/05/2022 10:58,0,7,dod_lime_arena,7 dod_lime_arena,,,osgSaber
+15/05/2022 10:58,0,7,dod_lime_arena,7 dod_lime_arena,snow,player,
+15/05/2022 10:58,0,7,dod_lime_arena,7 dod_lime_arena,,,Sorter
+15/05/2022 10:58,0,7,dod_lime_arena,7 dod_lime_arena,free tibet,player,
+15/05/2022 10:58,0,7,dod_lime_arena,7 dod_lime_arena,,,foolycooly.
+15/05/2022 10:58,0,7,dod_lime_arena,7 dod_lime_arena,free tibet,player,
+15/05/2022 10:58,0,7,dod_lime_arena,7 dod_lime_arena,,,DawG
+15/05/2022 10:58,0,7,dod_lime_arena,7 dod_lime_arena,snow,player,
+15/05/2022 10:58,0,7,dod_lime_arena,7 dod_lime_arena,,,snow
+15/05/2022 10:58,0,7,dod_lime_arena,7 dod_lime_arena,free tibet,player,
+15/05/2022 10:58,0,7,dod_lime_arena,7 dod_lime_arena,,,free tibet
+15/05/2022 10:58,0,7,dod_lime_arena,7 dod_lime_arena,Sorter,player,
+15/05/2022 10:58,0,7,dod_lime_arena,7 dod_lime_arena,,,DawG
+15/05/2022 10:58,0,7,dod_lime_arena,7 dod_lime_arena,Sorter,player,
+15/05/2022 10:58,0,7,dod_lime_arena,7 dod_lime_arena,,,osgSaber
+15/05/2022 10:58,0,7,dod_lime_arena,7 dod_lime_arena,Sorter,player,
+15/05/2022 10:58,0,7,dod_lime_arena,7 dod_lime_arena,,,free tibet
+15/05/2022 10:58,0,7,dod_lime_arena,7 dod_lime_arena,snow,player,
+15/05/2022 10:58,0,7,dod_lime_arena,7 dod_lime_arena,,,DawG
+15/05/2022 10:58,0,7,dod_lime_arena,7 dod_lime_arena,foolycooly.,player,
+15/05/2022 10:58,0,7,dod_lime_arena,7 dod_lime_arena,,,osgSaber
+15/05/2022 10:58,0,7,dod_lime_arena,7 dod_lime_arena,snow,player,
+15/05/2022 10:59,0,7,dod_lime_arena,7 dod_lime_arena,,,free tibet
+15/05/2022 10:59,0,7,dod_lime_arena,7 dod_lime_arena,snow,player,
+15/05/2022 10:59,0,7,dod_lime_arena,7 dod_lime_arena,,,foolycooly.
+15/05/2022 10:59,0,7,dod_lime_arena,7 dod_lime_arena,DawG,player,
+15/05/2022 10:59,0,7,dod_lime_arena,7 dod_lime_arena,,,snow
+15/05/2022 10:59,0,7,dod_lime_arena,7 dod_lime_arena,osgSaber,player,
+15/05/2022 10:59,0,7,dod_lime_arena,7 dod_lime_arena,,,osgSaber
+15/05/2022 10:59,0,7,dod_lime_arena,7 dod_lime_arena,Sorter,player,
+15/05/2022 10:59,0,7,dod_lime_arena,7 dod_lime_arena,,,Sorter
+15/05/2022 10:59,0,7,dod_lime_arena,7 dod_lime_arena,free tibet,player,
+15/05/2022 10:59,0,7,dod_lime_arena,7 dod_lime_arena,,,foolycooly.
+15/05/2022 10:59,0,7,dod_lime_arena,7 dod_lime_arena,free tibet,player,
+15/05/2022 10:59,0,7,dod_lime_arena,7 dod_lime_arena,,,DawG
+15/05/2022 10:59,0,7,dod_lime_arena,7 dod_lime_arena,Sorter,player,
+15/05/2022 10:59,0,7,dod_lime_arena,7 dod_lime_arena,,,foolycooly.
+15/05/2022 10:59,0,7,dod_lime_arena,7 dod_lime_arena,osgSaber,player,
+15/05/2022 10:59,0,7,dod_lime_arena,7 dod_lime_arena,,,free tibet
+15/05/2022 10:59,0,7,dod_lime_arena,7 dod_lime_arena,Sorter,player,
+15/05/2022 10:59,0,7,dod_lime_arena,7 dod_lime_arena,,,Sorter
+15/05/2022 10:59,0,7,dod_lime_arena,7 dod_lime_arena,DawG,player,
+15/05/2022 10:59,0,7,dod_lime_arena,7 dod_lime_arena,,,osgSaber
+15/05/2022 10:59,0,7,dod_lime_arena,7 dod_lime_arena,foolycooly.,player,
+15/05/2022 10:59,0,7,dod_lime_arena,7 dod_lime_arena,,,DawG
+15/05/2022 10:59,0,7,dod_lime_arena,7 dod_lime_arena,foolycooly.,player,
+15/05/2022 11:00,0,7,dod_lime_arena,7 dod_lime_arena,,,foolycooly.
+15/05/2022 11:00,0,7,dod_lime_arena,7 dod_lime_arena,free tibet,player,
+15/05/2022 11:00,0,7,dod_lime_arena,7 dod_lime_arena,,,Sorter
+15/05/2022 11:00,0,7,dod_lime_arena,7 dod_lime_arena,free tibet,player,
+15/05/2022 11:00,0,7,dod_lime_arena,7 dod_lime_arena,,,free tibet
+15/05/2022 11:00,0,7,dod_lime_arena,7 dod_lime_arena,foolycooly.,player,
+15/05/2022 11:00,0,7,dod_lime_arena,7 dod_lime_arena,,,DawG
+15/05/2022 11:00,0,7,dod_lime_arena,7 dod_lime_arena,osgSaber,player,
+15/05/2022 11:00,0,7,dod_lime_arena,7 dod_lime_arena,,,foolycooly.
+15/05/2022 11:00,0,7,dod_lime_arena,7 dod_lime_arena,free tibet,player,
+15/05/2022 11:00,0,7,dod_lime_arena,7 dod_lime_arena,,,osgSaber
+15/05/2022 11:00,0,7,dod_lime_arena,7 dod_lime_arena,free tibet,player,
+15/05/2022 11:00,0,7,dod_lime_arena,7 dod_lime_arena,,,foolycooly.
+15/05/2022 11:00,0,7,dod_lime_arena,7 dod_lime_arena,DawG,player,
+15/05/2022 11:00,0,7,dod_lime_arena,7 dod_lime_arena,,,DawG
+15/05/2022 11:00,0,7,dod_lime_arena,7 dod_lime_arena,osgSaber,player,
+15/05/2022 11:00,0,7,dod_lime_arena,7 dod_lime_arena,,,osgSaber
+15/05/2022 11:00,0,7,dod_lime_arena,7 dod_lime_arena,free tibet,player,
+15/05/2022 11:01,0,7,dod_lime_arena,7 dod_lime_arena,,,osgSaber
+15/05/2022 11:01,0,7,dod_lime_arena,7 dod_lime_arena,free tibet,player,
+15/05/2022 11:01,0,7,dod_lime_arena,7 dod_lime_arena,,,free tibet
+15/05/2022 11:01,0,7,dod_lime_arena,7 dod_lime_arena,foolycooly.,player,
+15/05/2022 11:01,0,7,dod_lime_arena,7 dod_lime_arena,,,DawG
+15/05/2022 11:01,0,7,dod_lime_arena,7 dod_lime_arena,foolycooly.,player,
+15/05/2022 11:01,0,7,dod_lime_arena,7 dod_lime_arena,,,Sorter
+15/05/2022 11:01,0,7,dod_lime_arena,7 dod_lime_arena,foolycooly.,player,
+15/05/2022 11:01,0,7,dod_lime_arena,7 dod_lime_arena,,,DawG
+15/05/2022 11:01,0,7,dod_lime_arena,7 dod_lime_arena,foolycooly.,player,
+15/05/2022 11:01,0,7,dod_lime_arena,7 dod_lime_arena,,,osgSaber
+15/05/2022 11:01,0,7,dod_lime_arena,7 dod_lime_arena,free tibet,player,
+15/05/2022 11:01,0,7,dod_lime_arena,7 dod_lime_arena,,,foolycooly.
+15/05/2022 11:01,0,7,dod_lime_arena,7 dod_lime_arena,free tibet,player,
+15/05/2022 11:01,0,7,dod_lime_arena,7 dod_lime_arena,,,DawG
+15/05/2022 11:01,0,7,dod_lime_arena,7 dod_lime_arena,foolycooly.,player,
+15/05/2022 11:01,0,7,dod_lime_arena,7 dod_lime_arena,,,Sorter
+15/05/2022 11:01,0,7,dod_lime_arena,7 dod_lime_arena,foolycooly.,player,
+15/05/2022 11:01,0,7,dod_lime_arena,7 dod_lime_arena,,,free tibet
+15/05/2022 11:01,0,7,dod_lime_arena,7 dod_lime_arena,foolycooly.,player,
+15/05/2022 11:02,0,7,dod_lime_arena,7 dod_lime_arena,,,DawG
+15/05/2022 11:02,0,7,dod_lime_arena,7 dod_lime_arena,osgSaber,player,
+15/05/2022 11:02,0,7,dod_lime_arena,7 dod_lime_arena,,,free tibet
+15/05/2022 11:02,0,7,dod_lime_arena,7 dod_lime_arena,osgSaber,player,
+15/05/2022 11:02,0,7,dod_lime_arena,7 dod_lime_arena,,,osgSaber
+15/05/2022 11:02,0,7,dod_lime_arena,7 dod_lime_arena,Sorter,player,
+15/05/2022 11:02,0,7,dod_lime_arena,7 dod_lime_arena,,,Sorter
+15/05/2022 11:02,0,7,dod_lime_arena,7 dod_lime_arena,foolycooly.,player,
+15/05/2022 11:02,0,7,dod_lime_arena,7 dod_lime_arena,,,foolycooly.
+15/05/2022 11:02,0,7,dod_lime_arena,7 dod_lime_arena,Sorter,player,
+15/05/2022 11:02,0,7,dod_lime_arena,7 dod_lime_arena,,,osgSaber
+15/05/2022 11:02,0,7,dod_lime_arena,7 dod_lime_arena,free tibet,player,
+15/05/2022 11:02,0,7,dod_lime_arena,7 dod_lime_arena,,,osgSaber
+15/05/2022 11:02,0,7,dod_lime_arena,7 dod_lime_arena,free tibet,player,
+15/05/2022 11:02,0,7,dod_lime_arena,7 dod_lime_arena,,,foolycooly.
+15/05/2022 11:02,0,7,dod_lime_arena,7 dod_lime_arena,Sorter,player,
+15/05/2022 11:02,0,7,dod_lime_arena,7 dod_lime_arena,,,DawG
+15/05/2022 11:02,0,7,dod_lime_arena,7 dod_lime_arena,osgSaber,player,
+15/05/2022 11:02,0,7,dod_lime_arena,7 dod_lime_arena,,,osgSaber
+15/05/2022 11:02,0,7,dod_lime_arena,7 dod_lime_arena,Sorter,player,
+15/05/2022 11:03,0,7,dod_lime_arena,7 dod_lime_arena,,,KK
+15/05/2022 11:03,0,7,dod_lime_arena,7 dod_lime_arena,Sorter,player,
+15/05/2022 11:03,0,7,dod_lime_arena,7 dod_lime_arena,,,free tibet
+15/05/2022 11:03,0,7,dod_lime_arena,7 dod_lime_arena,osgSaber,player,
+15/05/2022 11:03,0,7,dod_lime_arena,7 dod_lime_arena,,,Sorter
+15/05/2022 11:03,0,7,dod_lime_arena,7 dod_lime_arena,osgSaber,player,
+15/05/2022 11:03,0,7,dod_lime_arena,7 dod_lime_arena,,,free tibet
+15/05/2022 11:03,0,7,dod_lime_arena,7 dod_lime_arena,osgSaber,player,
+15/05/2022 11:03,0,7,dod_lime_arena,7 dod_lime_arena,,,Sorter
+15/05/2022 11:03,0,7,dod_lime_arena,7 dod_lime_arena,foolycooly.,player,
+15/05/2022 11:03,0,7,dod_lime_arena,7 dod_lime_arena,,,free tibet
+15/05/2022 11:03,0,7,dod_lime_arena,7 dod_lime_arena,foolycooly.,player,
+15/05/2022 11:03,0,7,dod_lime_arena,7 dod_lime_arena,,,foolycooly.
+15/05/2022 11:03,0,7,dod_lime_arena,7 dod_lime_arena,Sorter,player,
+15/05/2022 11:03,0,7,dod_lime_arena,7 dod_lime_arena,,,Sorter
+15/05/2022 11:03,0,7,dod_lime_arena,7 dod_lime_arena,osgSaber,player,
+15/05/2022 11:03,0,7,dod_lime_arena,7 dod_lime_arena,,,osgSaber
+15/05/2022 11:03,0,7,dod_lime_arena,7 dod_lime_arena,free tibet,player,
+15/05/2022 11:03,0,7,dod_lime_arena,7 dod_lime_arena,,,free tibet
+15/05/2022 11:03,0,7,dod_lime_arena,7 dod_lime_arena,KK,player,
+15/05/2022 11:03,0,7,dod_lime_arena,7 dod_lime_arena,,,KK
+15/05/2022 11:03,0,7,dod_lime_arena,7 dod_lime_arena,Sorter,player,
+15/05/2022 11:04,0,7,dod_lime_arena,7 dod_lime_arena,,,osgSaber
+15/05/2022 11:04,0,7,dod_lime_arena,7 dod_lime_arena,free tibet,player,
+15/05/2022 11:04,0,7,dod_lime_arena,7 dod_lime_arena,,,foolycooly.
+15/05/2022 11:04,0,7,dod_lime_arena,7 dod_lime_arena,Sorter,player,
+15/05/2022 11:04,0,7,dod_lime_arena,7 dod_lime_arena,,,free tibet
+15/05/2022 11:04,0,7,dod_lime_arena,7 dod_lime_arena,osgSaber,player,
+15/05/2022 11:04,0,7,dod_lime_arena,7 dod_lime_arena,,,osgSaber
+15/05/2022 11:04,0,7,dod_lime_arena,7 dod_lime_arena,Sorter,player,
+15/05/2022 11:04,0,7,dod_lime_arena,7 dod_lime_arena,,,KK
+15/05/2022 11:04,0,7,dod_lime_arena,7 dod_lime_arena,Sorter,player,
+15/05/2022 11:04,0,7,dod_lime_arena,7 dod_lime_arena,,,foolycooly.
+15/05/2022 11:04,0,7,dod_lime_arena,7 dod_lime_arena,Sorter,player,
+15/05/2022 11:04,0,7,dod_lime_arena,7 dod_lime_arena,,,osgSaber
+15/05/2022 11:04,0,7,dod_lime_arena,7 dod_lime_arena,free tibet,player,
+15/05/2022 11:04,0,7,dod_lime_arena,7 dod_lime_arena,,,KK
+15/05/2022 11:04,0,7,dod_lime_arena,7 dod_lime_arena,free tibet,player,
+15/05/2022 11:04,0,7,dod_lime_arena,7 dod_lime_arena,,,osgSaber
+15/05/2022 11:04,0,7,dod_lime_arena,7 dod_lime_arena,free tibet,player,
+15/05/2022 11:04,0,7,dod_lime_arena,7 dod_lime_arena,,,KK
+15/05/2022 11:04,0,7,dod_lime_arena,7 dod_lime_arena,free tibet,player,
+15/05/2022 11:05,0,7,dod_lime_arena,7 dod_lime_arena,,,foolycooly.
+15/05/2022 11:05,0,7,dod_lime_arena,7 dod_lime_arena,Sorter,player,
+15/05/2022 11:05,0,7,dod_lime_arena,7 dod_lime_arena,,,WAGET
+15/05/2022 11:05,0,7,dod_lime_arena,7 dod_lime_arena,KK,player,
+15/05/2022 11:05,0,7,dod_lime_arena,7 dod_lime_arena,,,Sorter
+15/05/2022 11:05,0,7,dod_lime_arena,7 dod_lime_arena,osgSaber,player,
+15/05/2022 11:05,0,7,dod_lime_arena,7 dod_lime_arena,,,free tibet
+15/05/2022 11:05,0,7,dod_lime_arena,7 dod_lime_arena,osgSaber,player,
+15/05/2022 11:05,0,7,dod_lime_arena,7 dod_lime_arena,,,WAGET
+15/05/2022 11:05,0,7,dod_lime_arena,7 dod_lime_arena,KK,player,
+15/05/2022 11:05,0,7,dod_lime_arena,7 dod_lime_arena,,,KK
+15/05/2022 11:05,0,7,dod_lime_arena,7 dod_lime_arena,free tibet,player,
+15/05/2022 11:05,0,7,dod_lime_arena,7 dod_lime_arena,,,free tibet
+15/05/2022 11:05,0,7,dod_lime_arena,7 dod_lime_arena,foolycooly.,player,
+15/05/2022 11:05,0,7,dod_lime_arena,7 dod_lime_arena,,,foolycooly.
+15/05/2022 11:05,0,7,dod_lime_arena,7 dod_lime_arena,Sorter,player,
+15/05/2022 11:05,0,7,dod_lime_arena,7 dod_lime_arena,,,Sorter
+15/05/2022 11:05,0,7,dod_lime_arena,7 dod_lime_arena,osgSaber,player,
+15/05/2022 11:05,0,7,dod_lime_arena,7 dod_lime_arena,,,WAGET
+15/05/2022 11:05,0,7,dod_lime_arena,7 dod_lime_arena,osgSaber,player,
+15/05/2022 11:05,0,7,dod_lime_arena,7 dod_lime_arena,,,free tibet
+15/05/2022 11:05,0,7,dod_lime_arena,7 dod_lime_arena,osgSaber,player,
+15/05/2022 11:05,0,7,dod_lime_arena,7 dod_lime_arena,,,Sorter
+15/05/2022 11:05,0,7,dod_lime_arena,7 dod_lime_arena,osgSaber,player,
+15/05/2022 11:05,0,7,dod_lime_arena,7 dod_lime_arena,,,osgSaber
+15/05/2022 11:05,0,7,dod_lime_arena,7 dod_lime_arena,WAGET,player,
+15/05/2022 11:05,0,7,dod_lime_arena,7 dod_lime_arena,,,WAGET
+15/05/2022 11:05,0,7,dod_lime_arena,7 dod_lime_arena,KK,player,
+15/05/2022 11:06,0,7,dod_lime_arena,7 dod_lime_arena,,,foolycooly.
+15/05/2022 11:06,0,7,dod_lime_arena,7 dod_lime_arena,Sorter,player,
+15/05/2022 11:06,0,7,dod_lime_arena,7 dod_lime_arena,,,KK
+15/05/2022 11:06,0,7,dod_lime_arena,7 dod_lime_arena,free tibet,player,
+15/05/2022 11:06,0,7,dod_lime_arena,7 dod_lime_arena,,,WAGET
+15/05/2022 11:06,0,7,dod_lime_arena,7 dod_lime_arena,KK,player,
+15/05/2022 11:06,0,7,dod_lime_arena,7 dod_lime_arena,,,KK
+15/05/2022 11:06,0,7,dod_lime_arena,7 dod_lime_arena,free tibet,player,
+15/05/2022 11:07,0,10,dod_santos_b3,10 dod_santos_b3,,,WAGET
+15/05/2022 11:07,0,10,dod_santos_b3,10 dod_santos_b3,free tibet,player,
+15/05/2022 11:07,0,10,dod_santos_b3,10 dod_santos_b3,,,osgSaber
+15/05/2022 11:07,0,10,dod_santos_b3,10 dod_santos_b3,foolycooly.,player,
+15/05/2022 11:08,0,10,dod_santos_b3,10 dod_santos_b3,,,WAGET
+15/05/2022 11:08,0,10,dod_santos_b3,10 dod_santos_b3,free tibet,player,
+15/05/2022 11:08,0,10,dod_santos_b3,10 dod_santos_b3,,,foolycooly.
+15/05/2022 11:08,0,10,dod_santos_b3,10 dod_santos_b3,osgSaber,player,
+15/05/2022 11:08,0,10,dod_santos_b3,10 dod_santos_b3,,,free tibet
+15/05/2022 11:08,0,10,dod_santos_b3,10 dod_santos_b3,osgSaber,player,
+15/05/2022 11:08,0,10,dod_santos_b3,10 dod_santos_b3,,,foolycooly.
+15/05/2022 11:08,0,10,dod_santos_b3,10 dod_santos_b3,osgSaber,player,
+15/05/2022 11:08,0,10,dod_santos_b3,10 dod_santos_b3,,,free tibet
+15/05/2022 11:08,0,10,dod_santos_b3,10 dod_santos_b3,WAGET,player,
+15/05/2022 11:08,0,10,dod_santos_b3,10 dod_santos_b3,,,Sorter
+15/05/2022 11:08,0,10,dod_santos_b3,10 dod_santos_b3,osgSaber,player,
+15/05/2022 11:09,0,10,dod_santos_b3,10 dod_santos_b3,,,foolycooly.
+15/05/2022 11:09,0,10,dod_santos_b3,10 dod_santos_b3,osgSaber,player,
+15/05/2022 11:09,0,10,dod_santos_b3,10 dod_santos_b3,,,free tibet
+15/05/2022 11:09,0,10,dod_santos_b3,10 dod_santos_b3,osgSaber,player,
+15/05/2022 11:09,0,10,dod_santos_b3,10 dod_santos_b3,,,osgSaber
+15/05/2022 11:09,0,10,dod_santos_b3,10 dod_santos_b3,Sorter,player,
+15/05/2022 11:09,0,10,dod_santos_b3,10 dod_santos_b3,,,WAGET
+15/05/2022 11:09,0,10,dod_santos_b3,10 dod_santos_b3,Sorter,player,
+15/05/2022 11:09,0,10,dod_santos_b3,10 dod_santos_b3,,,Sorter
+15/05/2022 11:09,0,10,dod_santos_b3,10 dod_santos_b3,osgSaber,player,
+15/05/2022 11:09,0,10,dod_santos_b3,10 dod_santos_b3,foolycooly.,prop_physics_multiplayer,
+15/05/2022 11:09,0,10,dod_santos_b3,10 dod_santos_b3,,,osgSaber
+15/05/2022 11:09,0,10,dod_santos_b3,10 dod_santos_b3,foolycooly.,player,
+15/05/2022 11:09,0,10,dod_santos_b3,10 dod_santos_b3,foolycooly.,prop_physics_multiplayer,
+15/05/2022 11:09,0,10,dod_santos_b3,10 dod_santos_b3,Sorter,prop_physics_multiplayer,
+15/05/2022 11:09,0,10,dod_santos_b3,10 dod_santos_b3,,,WAGET
+15/05/2022 11:09,0,10,dod_santos_b3,10 dod_santos_b3,foolycooly.,player,
+15/05/2022 11:10,0,11,dod_purple_fight_arena,11 dod_purple_fight_arena,,,foolycooly.
+15/05/2022 11:10,0,11,dod_purple_fight_arena,11 dod_purple_fight_arena,Sorter,player,
+15/05/2022 11:10,0,11,dod_purple_fight_arena,11 dod_purple_fight_arena,,,osgSaber
+15/05/2022 11:10,0,11,dod_purple_fight_arena,11 dod_purple_fight_arena,free tibet,player,
+15/05/2022 11:10,0,11,dod_purple_fight_arena,11 dod_purple_fight_arena,,,WAGET
+15/05/2022 11:10,0,11,dod_purple_fight_arena,11 dod_purple_fight_arena,foolycooly.,player,
+15/05/2022 11:10,0,11,dod_purple_fight_arena,11 dod_purple_fight_arena,,,free tibet
+15/05/2022 11:10,0,11,dod_purple_fight_arena,11 dod_purple_fight_arena,osgSaber,player,
+15/05/2022 11:10,0,11,dod_purple_fight_arena,11 dod_purple_fight_arena,,,Sorter
+15/05/2022 11:10,0,11,dod_purple_fight_arena,11 dod_purple_fight_arena,foolycooly.,player,
+15/05/2022 11:11,0,11,dod_purple_fight_arena,11 dod_purple_fight_arena,,,Sorter
+15/05/2022 11:11,0,11,dod_purple_fight_arena,11 dod_purple_fight_arena,foolycooly.,player,
+15/05/2022 11:11,0,11,dod_purple_fight_arena,11 dod_purple_fight_arena,,,WAGET
+15/05/2022 11:11,0,11,dod_purple_fight_arena,11 dod_purple_fight_arena,osgSaber,player,
+15/05/2022 11:11,0,11,dod_purple_fight_arena,11 dod_purple_fight_arena,,,osgSaber
+15/05/2022 11:11,0,11,dod_purple_fight_arena,11 dod_purple_fight_arena,free tibet,player,
+15/05/2022 11:11,0,11,dod_purple_fight_arena,11 dod_purple_fight_arena,,,foolycooly.
+15/05/2022 11:11,0,11,dod_purple_fight_arena,11 dod_purple_fight_arena,free tibet,player,
+15/05/2022 11:11,0,11,dod_purple_fight_arena,11 dod_purple_fight_arena,,,free tibet
+15/05/2022 11:11,0,11,dod_purple_fight_arena,11 dod_purple_fight_arena,osgSaber,player,
+15/05/2022 11:11,0,11,dod_purple_fight_arena,11 dod_purple_fight_arena,,,osgSaber
+15/05/2022 11:11,0,11,dod_purple_fight_arena,11 dod_purple_fight_arena,Sorter,player,
+15/05/2022 11:11,0,11,dod_purple_fight_arena,11 dod_purple_fight_arena,,,foolycooly.
+15/05/2022 11:11,0,11,dod_purple_fight_arena,11 dod_purple_fight_arena,Sorter,player,
+15/05/2022 11:11,0,11,dod_purple_fight_arena,11 dod_purple_fight_arena,,,osgSaber
+15/05/2022 11:11,0,11,dod_purple_fight_arena,11 dod_purple_fight_arena,Sorter,player,
+15/05/2022 11:11,0,11,dod_purple_fight_arena,11 dod_purple_fight_arena,,,WAGET
+15/05/2022 11:11,0,11,dod_purple_fight_arena,11 dod_purple_fight_arena,foolycooly.,player,
+15/05/2022 11:11,0,11,dod_purple_fight_arena,11 dod_purple_fight_arena,,,foolycooly.
+15/05/2022 11:11,0,11,dod_purple_fight_arena,11 dod_purple_fight_arena,free tibet,player,
+15/05/2022 11:11,0,11,dod_purple_fight_arena,11 dod_purple_fight_arena,,,foolycooly.
+15/05/2022 11:11,0,11,dod_purple_fight_arena,11 dod_purple_fight_arena,WAGET,player,
+15/05/2022 11:11,0,11,dod_purple_fight_arena,11 dod_purple_fight_arena,,,osgSaber
+15/05/2022 11:11,0,11,dod_purple_fight_arena,11 dod_purple_fight_arena,WAGET,player,
+15/05/2022 11:12,0,11,dod_purple_fight_arena,11 dod_purple_fight_arena,,,osgSaber
+15/05/2022 11:12,0,11,dod_purple_fight_arena,11 dod_purple_fight_arena,Sorter,player,
+15/05/2022 11:12,0,11,dod_purple_fight_arena,11 dod_purple_fight_arena,,,foolycooly.
+15/05/2022 11:12,0,11,dod_purple_fight_arena,11 dod_purple_fight_arena,free tibet,player,
+15/05/2022 11:12,0,11,dod_purple_fight_arena,11 dod_purple_fight_arena,,,WAGET
+15/05/2022 11:12,0,11,dod_purple_fight_arena,11 dod_purple_fight_arena,foolycooly.,player,
+15/05/2022 11:12,0,12,dod_orangex,12 dod_orangex,,,osgSaber
+15/05/2022 11:12,0,12,dod_orangex,12 dod_orangex,WAGET,player,
+15/05/2022 11:12,0,12,dod_orangex,12 dod_orangex,,,foolycooly.
+15/05/2022 11:12,0,12,dod_orangex,12 dod_orangex,WAGET,player,
+15/05/2022 11:12,0,12,dod_orangex,12 dod_orangex,,,Sorter
+15/05/2022 11:12,0,12,dod_orangex,12 dod_orangex,free tibet,player,
+15/05/2022 11:12,0,12,dod_orangex,12 dod_orangex,,,WAGET
+15/05/2022 11:12,0,12,dod_orangex,12 dod_orangex,free tibet,player,
+15/05/2022 11:12,0,12,dod_orangex,12 dod_orangex,,,Sorter
+15/05/2022 11:12,0,12,dod_orangex,12 dod_orangex,free tibet,player,
+15/05/2022 11:12,0,12,dod_orangex,12 dod_orangex,,,free tibet
+15/05/2022 11:12,0,12,dod_orangex,12 dod_orangex,osgSaber,player,
+15/05/2022 11:12,0,12,dod_orangex,12 dod_orangex,,,osgSaber
+15/05/2022 11:12,0,12,dod_orangex,12 dod_orangex,foolycooly.,player,
+15/05/2022 11:13,0,12,dod_orangex,12 dod_orangex,,,WAGET
+15/05/2022 11:13,0,12,dod_orangex,12 dod_orangex,foolycooly.,player,
+15/05/2022 11:13,0,12,dod_orangex,12 dod_orangex,,,foolycooly.
+15/05/2022 11:13,0,12,dod_orangex,12 dod_orangex,Sorter,player,
+15/05/2022 11:13,0,12,dod_orangex,12 dod_orangex,,,free tibet
+15/05/2022 11:13,0,12,dod_orangex,12 dod_orangex,osgSaber,player,
+15/05/2022 11:13,0,12,dod_orangex,12 dod_orangex,,,osgSaber
+15/05/2022 11:13,0,12,dod_orangex,12 dod_orangex,foolycooly.,player,
+15/05/2022 11:13,0,12,dod_orangex,12 dod_orangex,,,foolycooly.
+15/05/2022 11:13,0,12,dod_orangex,12 dod_orangex,Sorter,player,
+15/05/2022 11:13,0,12,dod_orangex,12 dod_orangex,,,free tibet
+15/05/2022 11:13,0,12,dod_orangex,12 dod_orangex,WAGET,player,
+15/05/2022 11:13,0,12,dod_orangex,12 dod_orangex,,,WAGET
+15/05/2022 11:13,0,12,dod_orangex,12 dod_orangex,JoNezZan,player,
+15/05/2022 11:13,0,12,dod_orangex,12 dod_orangex,,,Sorter
+15/05/2022 11:13,0,12,dod_orangex,12 dod_orangex,foolycooly.,player,
+15/05/2022 11:13,0,12,dod_orangex,12 dod_orangex,,,JoNezZan
+15/05/2022 11:13,0,12,dod_orangex,12 dod_orangex,osgSaber,player,
+15/05/2022 11:13,0,12,dod_orangex,12 dod_orangex,,,osgSaber
+15/05/2022 11:13,0,12,dod_orangex,12 dod_orangex,foolycooly.,player,
+15/05/2022 11:13,0,12,dod_orangex,12 dod_orangex,,,WAGET
+15/05/2022 11:13,0,12,dod_orangex,12 dod_orangex,foolycooly.,player,
+15/05/2022 11:13,0,12,dod_orangex,12 dod_orangex,,,Sorter
+15/05/2022 11:13,0,12,dod_orangex,12 dod_orangex,foolycooly.,player,
+15/05/2022 11:13,0,12,dod_orangex,12 dod_orangex,,,foolycooly.
+15/05/2022 11:13,0,12,dod_orangex,12 dod_orangex,osgSaber,player,
+15/05/2022 11:13,0,12,dod_orangex,12 dod_orangex,,,free tibet
+15/05/2022 11:13,0,12,dod_orangex,12 dod_orangex,osgSaber,player,
+15/05/2022 11:14,0,12,dod_orangex,12 dod_orangex,,,JoNezZan
+15/05/2022 11:14,0,12,dod_orangex,12 dod_orangex,osgSaber,player,
+15/05/2022 11:14,0,12,dod_orangex,12 dod_orangex,,,osgSaber
+15/05/2022 11:14,0,12,dod_orangex,12 dod_orangex,JoNezZan,player,
+15/05/2022 11:14,0,12,dod_orangex,12 dod_orangex,,,WAGET
+15/05/2022 11:14,0,12,dod_orangex,12 dod_orangex,free tibet,player,
+15/05/2022 11:14,0,12,dod_orangex,12 dod_orangex,,,foolycooly.
+15/05/2022 11:14,0,12,dod_orangex,12 dod_orangex,osgSaber,player,
+15/05/2022 11:14,0,12,dod_orangex,12 dod_orangex,,,osgSaber
+15/05/2022 11:14,0,12,dod_orangex,12 dod_orangex,free tibet,player,
+15/05/2022 11:14,0,12,dod_orangex,12 dod_orangex,,,free tibet
+15/05/2022 11:14,0,12,dod_orangex,12 dod_orangex,WAGET,player,
+15/05/2022 11:14,0,12,dod_orangex,12 dod_orangex,,,JoNezZan
+15/05/2022 11:14,0,12,dod_orangex,12 dod_orangex,Sorter,player,
+15/05/2022 11:14,0,12,dod_orangex,12 dod_orangex,,,JoNezZan
+15/05/2022 11:14,0,12,dod_orangex,12 dod_orangex,Sorter,player,
+15/05/2022 11:14,0,12,dod_orangex,12 dod_orangex,,,WAGET
+15/05/2022 11:14,0,12,dod_orangex,12 dod_orangex,foolycooly.,player,
+15/05/2022 11:14,0,12,dod_orangex,12 dod_orangex,,,free tibet
+15/05/2022 11:14,0,12,dod_orangex,12 dod_orangex,WAGET,player,
+15/05/2022 11:14,0,12,dod_orangex,12 dod_orangex,,,foolycooly.
+15/05/2022 11:14,0,12,dod_orangex,12 dod_orangex,Sorter,player,
+15/05/2022 11:14,0,12,dod_orangex,12 dod_orangex,,,WAGET
+15/05/2022 11:14,0,12,dod_orangex,12 dod_orangex,JoNezZan,player,
+15/05/2022 11:15,0,12,dod_orangex,12 dod_orangex,,,JoNezZan
+15/05/2022 11:15,0,12,dod_orangex,12 dod_orangex,Sorter,player,
+15/05/2022 11:15,0,12,dod_orangex,12 dod_orangex,,,foolycooly.
+15/05/2022 11:15,0,12,dod_orangex,12 dod_orangex,WAGET,player,
+15/05/2022 11:15,0,12,dod_orangex,12 dod_orangex,,,Sorter
+15/05/2022 11:15,0,12,dod_orangex,12 dod_orangex,free tibet,player,
+15/05/2022 11:15,0,12,dod_orangex,12 dod_orangex,,,WAGET
+15/05/2022 11:15,0,12,dod_orangex,12 dod_orangex,free tibet,player,
+15/05/2022 11:15,0,12,dod_orangex,12 dod_orangex,,,Sorter
+15/05/2022 11:15,0,12,dod_orangex,12 dod_orangex,free tibet,player,
+15/05/2022 11:15,0,12,dod_orangex,12 dod_orangex,,,free tibet
+15/05/2022 11:15,0,12,dod_orangex,12 dod_orangex,WAGET,player,
+15/05/2022 11:15,0,12,dod_orangex,12 dod_orangex,,,Sorter
+15/05/2022 11:15,0,12,dod_orangex,12 dod_orangex,JoNezZan,player,
+15/05/2022 11:15,0,12,dod_orangex,12 dod_orangex,,,WAGET
+15/05/2022 11:15,0,12,dod_orangex,12 dod_orangex,foolycooly.,player,
+15/05/2022 11:15,0,12,dod_orangex,12 dod_orangex,,,Sorter
+15/05/2022 11:15,0,12,dod_orangex,12 dod_orangex,free tibet,player,
+15/05/2022 11:16,0,12,dod_orangex,12 dod_orangex,,,Sorter
+15/05/2022 11:16,0,12,dod_orangex,12 dod_orangex,free tibet,player,
+15/05/2022 11:16,0,12,dod_orangex,12 dod_orangex,,,WAGET
+15/05/2022 11:16,0,12,dod_orangex,12 dod_orangex,free tibet,player,
+15/05/2022 11:16,0,12,dod_orangex,12 dod_orangex,,,Sorter
+15/05/2022 11:16,0,12,dod_orangex,12 dod_orangex,JoNezZan,player,
+15/05/2022 11:16,0,12,dod_orangex,12 dod_orangex,,,WAGET
+15/05/2022 11:16,0,12,dod_orangex,12 dod_orangex,free tibet,player,
+15/05/2022 11:16,0,12,dod_orangex,12 dod_orangex,,,JoNezZan
+15/05/2022 11:16,0,12,dod_orangex,12 dod_orangex,Sorter,player,
+15/05/2022 11:16,0,12,dod_orangex,12 dod_orangex,,,free tibet
+15/05/2022 11:16,0,12,dod_orangex,12 dod_orangex,Sorter,player,
+15/05/2022 11:16,0,12,dod_orangex,12 dod_orangex,,,foolycooly.
+15/05/2022 11:16,0,12,dod_orangex,12 dod_orangex,Sorter,player,
+15/05/2022 11:16,0,12,dod_orangex,12 dod_orangex,,,free tibet
+15/05/2022 11:16,0,12,dod_orangex,12 dod_orangex,WAGET,player,
+15/05/2022 11:16,0,12,dod_orangex,12 dod_orangex,,,WAGET
+15/05/2022 11:16,0,12,dod_orangex,12 dod_orangex,JoNezZan,player,
+15/05/2022 11:17,0,12,dod_orangex,12 dod_orangex,,,JoNezZan
+15/05/2022 11:17,0,12,dod_orangex,12 dod_orangex,Sorter,player,
+15/05/2022 11:17,0,12,dod_orangex,12 dod_orangex,,,WAGET
+15/05/2022 11:17,0,12,dod_orangex,12 dod_orangex,free tibet,player,
+15/05/2022 11:17,0,12,dod_orangex,12 dod_orangex,,,Sorter
+15/05/2022 11:17,0,12,dod_orangex,12 dod_orangex,free tibet,player,
+15/05/2022 11:17,0,12,dod_orangex,12 dod_orangex,,,JoNezZan
+15/05/2022 11:17,0,12,dod_orangex,12 dod_orangex,WAGET,player,
+15/05/2022 11:17,0,12,dod_orangex,12 dod_orangex,,,WAGET
+15/05/2022 11:17,0,12,dod_orangex,12 dod_orangex,free tibet,player,
+15/05/2022 11:17,0,12,dod_orangex,12 dod_orangex,,,Sorter
+15/05/2022 11:17,0,12,dod_orangex,12 dod_orangex,free tibet,player,
+15/05/2022 11:17,0,12,dod_orangex,12 dod_orangex,,,foolycooly.
+15/05/2022 11:17,0,12,dod_orangex,12 dod_orangex,Sorter,player,
+15/05/2022 11:18,0,12,dod_orangex,12 dod_orangex,,,Sorter
+15/05/2022 11:18,0,12,dod_orangex,12 dod_orangex,free tibet,player,
+15/05/2022 11:18,0,12,dod_orangex,12 dod_orangex,,,WAGET
+15/05/2022 11:18,0,12,dod_orangex,12 dod_orangex,foolycooly.,player,
+15/05/2022 11:18,0,12,dod_orangex,12 dod_orangex,,,foolycooly.
+15/05/2022 11:18,0,12,dod_orangex,12 dod_orangex,Sorter,player,
+15/05/2022 11:18,0,12,dod_orangex,12 dod_orangex,,,WAGET
+15/05/2022 11:18,0,12,dod_orangex,12 dod_orangex,free tibet,player,
+15/05/2022 11:18,0,12,dod_orangex,12 dod_orangex,,,free tibet
+15/05/2022 11:18,0,12,dod_orangex,12 dod_orangex,Sorter,player,
+15/05/2022 11:18,0,12,dod_orangex,12 dod_orangex,,,Sorter
+15/05/2022 11:18,0,12,dod_orangex,12 dod_orangex,foolycooly.,player,
+15/05/2022 11:18,0,12,dod_orangex,12 dod_orangex,,,WAGET
+15/05/2022 11:18,0,12,dod_orangex,12 dod_orangex,foolycooly.,player,
+15/05/2022 11:18,0,12,dod_orangex,12 dod_orangex,,,Sorter
+15/05/2022 11:18,0,12,dod_orangex,12 dod_orangex,foolycooly.,player,
+15/05/2022 11:18,0,12,dod_orangex,12 dod_orangex,,,WAGET
+15/05/2022 11:18,0,12,dod_orangex,12 dod_orangex,foolycooly.,player,
+15/05/2022 11:18,0,12,dod_orangex,12 dod_orangex,,,WAGET
+15/05/2022 11:18,0,12,dod_orangex,12 dod_orangex,foolycooly.,player,
+15/05/2022 11:18,0,12,dod_orangex,12 dod_orangex,,,Sorter
+15/05/2022 11:18,0,12,dod_orangex,12 dod_orangex,foolycooly.,player,
+15/05/2022 11:18,0,12,dod_orangex,12 dod_orangex,,,Sorter
+15/05/2022 11:18,0,12,dod_orangex,12 dod_orangex,foolycooly.,player,
+15/05/2022 11:19,0,13,dod_harrington,13 dod_harrington,,,foolycooly.
+15/05/2022 11:19,0,13,dod_harrington,13 dod_harrington,osgSaber,player,
+15/05/2022 11:19,0,13,dod_harrington,13 dod_harrington,,,free tibet
+15/05/2022 11:19,0,13,dod_harrington,13 dod_harrington,osgSaber,player,
+15/05/2022 11:19,0,13,dod_harrington,13 dod_harrington,,,free tibet
+15/05/2022 11:19,0,13,dod_harrington,13 dod_harrington,osgSaber,player,
+15/05/2022 11:20,0,13,dod_harrington,13 dod_harrington,,,osgSaber
+15/05/2022 11:20,0,13,dod_harrington,13 dod_harrington,foolycooly.,player,
+15/05/2022 11:20,0,13,dod_harrington,13 dod_harrington,,,foolycooly.
+15/05/2022 11:20,0,13,dod_harrington,13 dod_harrington,osgSaber,player,
+15/05/2022 11:20,0,13,dod_harrington,13 dod_harrington,,,osgSaber
+15/05/2022 11:20,0,13,dod_harrington,13 dod_harrington,free tibet,player,
+15/05/2022 11:20,0,13,dod_harrington,13 dod_harrington,,,osgSaber
+15/05/2022 11:20,0,13,dod_harrington,13 dod_harrington,free tibet,player,
+15/05/2022 11:20,0,13,dod_harrington,13 dod_harrington,,,osgSaber
+15/05/2022 11:20,0,13,dod_harrington,13 dod_harrington,free tibet,player,
+15/05/2022 11:21,0,13,dod_harrington,13 dod_harrington,,,osgSaber
+15/05/2022 11:21,0,13,dod_harrington,13 dod_harrington,foolycooly.,player,
+15/05/2022 11:21,0,13,dod_harrington,13 dod_harrington,,,foolycooly.
+15/05/2022 11:21,0,13,dod_harrington,13 dod_harrington,osgSaber,player,
+15/05/2022 11:21,0,13,dod_harrington,13 dod_harrington,,,osgSaber
+15/05/2022 11:21,0,13,dod_harrington,13 dod_harrington,free tibet,player,
+15/05/2022 11:21,0,13,dod_harrington,13 dod_harrington,,,free tibet
+15/05/2022 11:21,0,13,dod_harrington,13 dod_harrington,osgSaber,player,
+15/05/2022 11:21,0,13,dod_harrington,13 dod_harrington,,,foolycooly.
+15/05/2022 11:21,0,13,dod_harrington,13 dod_harrington,osgSaber,player,
+15/05/2022 11:21,0,13,dod_harrington,13 dod_harrington,,,free tibet
+15/05/2022 11:21,0,13,dod_harrington,13 dod_harrington,osgSaber,player,
+15/05/2022 11:21,0,13,dod_harrington,13 dod_harrington,,,osgSaber
+15/05/2022 11:21,0,13,dod_harrington,13 dod_harrington,foolycooly.,player,
+15/05/2022 11:21,0,13,dod_harrington,13 dod_harrington,foolycooly.,prop_physics_multiplayer,
+15/05/2022 11:22,0,13,dod_harrington,13 dod_harrington,,,free tibet
+15/05/2022 11:22,0,13,dod_harrington,13 dod_harrington,foolycooly.,player,
+17/05/2022 5:23,1,0,dod_anzio,0 dod_anzio,Motev,prop_physics_multiplayer,
+17/05/2022 5:23,1,0,dod_anzio,0 dod_anzio,Motev,prop_physics_multiplayer,
+17/05/2022 5:31,1,0,dod_anzio,0 dod_anzio,osgSaber,func_breakable,
+17/05/2022 5:32,1,0,dod_anzio,0 dod_anzio,[CX] Tommy W.,func_breakable,
+17/05/2022 5:32,1,0,dod_anzio,0 dod_anzio,[CX] Tommy W.,func_breakable,
+17/05/2022 5:33,1,0,dod_anzio,0 dod_anzio,,,[CX] Tommy W.
+17/05/2022 5:33,1,0,dod_anzio,0 dod_anzio,osgSaber,player,
+17/05/2022 5:34,1,0,dod_anzio,0 dod_anzio,,,osgSaber
+17/05/2022 5:34,1,0,dod_anzio,0 dod_anzio,,,[CX] Tommy W.
+17/05/2022 5:34,1,0,dod_anzio,0 dod_anzio,osgSaber,player,
+17/05/2022 5:35,1,0,dod_anzio,0 dod_anzio,,,osgSaber
+17/05/2022 5:35,1,0,dod_anzio,0 dod_anzio,[CX] Tommy W.,player,
+17/05/2022 5:35,1,0,dod_anzio,0 dod_anzio,[CX] Tommy W.,prop_physics_multiplayer,
+17/05/2022 5:36,1,1,dod_lime_arena,1 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 5:36,1,1,dod_lime_arena,1 dod_lime_arena,osgSaber,player,
+17/05/2022 5:37,1,1,dod_lime_arena,1 dod_lime_arena,,,osgSaber
+17/05/2022 5:37,1,1,dod_lime_arena,1 dod_lime_arena,[CX] Tommy W.,player,
+17/05/2022 5:37,1,1,dod_lime_arena,1 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 5:37,1,1,dod_lime_arena,1 dod_lime_arena,osgSaber,player,
+17/05/2022 5:37,1,1,dod_lime_arena,1 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 5:37,1,1,dod_lime_arena,1 dod_lime_arena,osgSaber,player,
+17/05/2022 5:38,1,1,dod_lime_arena,1 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 5:38,1,1,dod_lime_arena,1 dod_lime_arena,osgSaber,player,
+17/05/2022 5:38,1,1,dod_lime_arena,1 dod_lime_arena,,,osgSaber
+17/05/2022 5:38,1,1,dod_lime_arena,1 dod_lime_arena,[CX] Tommy W.,player,
+17/05/2022 5:38,1,1,dod_lime_arena,1 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 5:38,1,1,dod_lime_arena,1 dod_lime_arena,osgSaber,player,
+17/05/2022 5:38,1,1,dod_lime_arena,1 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 5:38,1,1,dod_lime_arena,1 dod_lime_arena,osgSaber,player,
+17/05/2022 5:38,1,1,dod_lime_arena,1 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 5:38,1,1,dod_lime_arena,1 dod_lime_arena,osgSaber,player,
+17/05/2022 5:39,1,1,dod_lime_arena,1 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 5:39,1,1,dod_lime_arena,1 dod_lime_arena,osgSaber,player,
+17/05/2022 5:39,1,1,dod_lime_arena,1 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 5:39,1,1,dod_lime_arena,1 dod_lime_arena,osgSaber,player,
+17/05/2022 5:39,1,1,dod_lime_arena,1 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 5:39,1,1,dod_lime_arena,1 dod_lime_arena,osgSaber,player,
+17/05/2022 5:39,1,1,dod_lime_arena,1 dod_lime_arena,,,osgSaber
+17/05/2022 5:39,1,1,dod_lime_arena,1 dod_lime_arena,[CX] Tommy W.,player,
+17/05/2022 5:40,1,1,dod_lime_arena,1 dod_lime_arena,,,osgSaber
+17/05/2022 5:40,1,1,dod_lime_arena,1 dod_lime_arena,[CX] Tommy W.,player,
+17/05/2022 5:40,1,1,dod_lime_arena,1 dod_lime_arena,,,osgSaber
+17/05/2022 5:40,1,1,dod_lime_arena,1 dod_lime_arena,[CX] Tommy W.,player,
+17/05/2022 5:40,1,1,dod_lime_arena,1 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 5:40,1,1,dod_lime_arena,1 dod_lime_arena,osgSaber,player,
+17/05/2022 5:40,1,1,dod_lime_arena,1 dod_lime_arena,,,osgSaber
+17/05/2022 5:40,1,1,dod_lime_arena,1 dod_lime_arena,[CX] Tommy W.,player,
+17/05/2022 5:40,1,1,dod_lime_arena,1 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 5:40,1,1,dod_lime_arena,1 dod_lime_arena,osgSaber,player,
+17/05/2022 5:41,1,1,dod_lime_arena,1 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 5:41,1,1,dod_lime_arena,1 dod_lime_arena,osgSaber,player,
+17/05/2022 5:41,1,1,dod_lime_arena,1 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 5:41,1,1,dod_lime_arena,1 dod_lime_arena,osgSaber,player,
+17/05/2022 5:41,1,1,dod_lime_arena,1 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 5:41,1,1,dod_lime_arena,1 dod_lime_arena,osgSaber,player,
+17/05/2022 5:41,1,1,dod_lime_arena,1 dod_lime_arena,,,osgSaber
+17/05/2022 5:41,1,1,dod_lime_arena,1 dod_lime_arena,[CX] Tommy W.,player,
+17/05/2022 5:41,1,1,dod_lime_arena,1 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 5:41,1,1,dod_lime_arena,1 dod_lime_arena,osgSaber,player,
+17/05/2022 5:42,1,1,dod_lime_arena,1 dod_lime_arena,,,osgSaber
+17/05/2022 5:42,1,1,dod_lime_arena,1 dod_lime_arena,[CX] Tommy W.,player,
+17/05/2022 5:42,1,1,dod_lime_arena,1 dod_lime_arena,,,osgSaber
+17/05/2022 5:42,1,1,dod_lime_arena,1 dod_lime_arena,[CX] Tommy W.,player,
+17/05/2022 5:42,1,1,dod_lime_arena,1 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 5:42,1,1,dod_lime_arena,1 dod_lime_arena,osgSaber,player,
+17/05/2022 5:42,1,1,dod_lime_arena,1 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 5:42,1,1,dod_lime_arena,1 dod_lime_arena,osgSaber,player,
+17/05/2022 5:42,1,1,dod_lime_arena,1 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 5:42,1,1,dod_lime_arena,1 dod_lime_arena,osgSaber,player,
+17/05/2022 5:43,1,1,dod_lime_arena,1 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 5:43,1,1,dod_lime_arena,1 dod_lime_arena,osgSaber,player,
+17/05/2022 5:43,1,1,dod_lime_arena,1 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 5:43,1,1,dod_lime_arena,1 dod_lime_arena,osgSaber,player,
+17/05/2022 5:43,1,1,dod_lime_arena,1 dod_lime_arena,,,osgSaber
+17/05/2022 5:43,1,1,dod_lime_arena,1 dod_lime_arena,[CX] Tommy W.,player,
+17/05/2022 5:43,1,1,dod_lime_arena,1 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 5:43,1,1,dod_lime_arena,1 dod_lime_arena,osgSaber,player,
+17/05/2022 5:44,1,1,dod_lime_arena,1 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 5:44,1,1,dod_lime_arena,1 dod_lime_arena,osgSaber,player,
+17/05/2022 5:44,1,1,dod_lime_arena,1 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 5:44,1,1,dod_lime_arena,1 dod_lime_arena,osgSaber,player,
+17/05/2022 5:44,1,1,dod_lime_arena,1 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 5:44,1,1,dod_lime_arena,1 dod_lime_arena,osgSaber,player,
+17/05/2022 5:44,1,1,dod_lime_arena,1 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 5:44,1,1,dod_lime_arena,1 dod_lime_arena,osgSaber,player,
+17/05/2022 5:44,1,1,dod_lime_arena,1 dod_lime_arena,,,osgSaber
+17/05/2022 5:44,1,1,dod_lime_arena,1 dod_lime_arena,[CX] Tommy W.,player,
+17/05/2022 5:45,1,1,dod_lime_arena,1 dod_lime_arena,,,osgSaber
+17/05/2022 5:45,1,1,dod_lime_arena,1 dod_lime_arena,[CX] Tommy W.,player,
+17/05/2022 5:45,1,1,dod_lime_arena,1 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 5:45,1,1,dod_lime_arena,1 dod_lime_arena,osgSaber,player,
+17/05/2022 5:45,1,1,dod_lime_arena,1 dod_lime_arena,,,osgSaber
+17/05/2022 5:45,1,1,dod_lime_arena,1 dod_lime_arena,[CX] Tommy W.,player,
+17/05/2022 5:45,1,1,dod_lime_arena,1 dod_lime_arena,,,osgSaber
+17/05/2022 5:45,1,1,dod_lime_arena,1 dod_lime_arena,[CX] Tommy W.,player,
+17/05/2022 5:46,1,1,dod_lime_arena,1 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 5:46,1,1,dod_lime_arena,1 dod_lime_arena,osgSaber,player,
+17/05/2022 5:46,1,1,dod_lime_arena,1 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 5:46,1,1,dod_lime_arena,1 dod_lime_arena,osgSaber,player,
+17/05/2022 5:47,1,1,dod_lime_arena,1 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 5:47,1,1,dod_lime_arena,1 dod_lime_arena,osgSaber,player,
+17/05/2022 5:47,1,1,dod_lime_arena,1 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 5:47,1,1,dod_lime_arena,1 dod_lime_arena,osgSaber,player,
+17/05/2022 5:47,1,1,dod_lime_arena,1 dod_lime_arena,,,osgSaber
+17/05/2022 5:47,1,1,dod_lime_arena,1 dod_lime_arena,[CX] Tommy W.,player,
+17/05/2022 5:47,1,1,dod_lime_arena,1 dod_lime_arena,,,osgSaber
+17/05/2022 5:47,1,1,dod_lime_arena,1 dod_lime_arena,[CX] Tommy W.,player,
+17/05/2022 5:48,1,1,dod_lime_arena,1 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 5:48,1,1,dod_lime_arena,1 dod_lime_arena,osgSaber,player,
+17/05/2022 5:48,1,1,dod_lime_arena,1 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 5:48,1,1,dod_lime_arena,1 dod_lime_arena,osgSaber,player,
+17/05/2022 5:48,1,1,dod_lime_arena,1 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 5:48,1,1,dod_lime_arena,1 dod_lime_arena,osgSaber,player,
+17/05/2022 5:48,1,1,dod_lime_arena,1 dod_lime_arena,,,osgSaber
+17/05/2022 5:48,1,1,dod_lime_arena,1 dod_lime_arena,[CX] Tommy W.,player,
+17/05/2022 5:48,1,1,dod_lime_arena,1 dod_lime_arena,,,osgSaber
+17/05/2022 5:48,1,1,dod_lime_arena,1 dod_lime_arena,[CX] Tommy W.,player,
+17/05/2022 5:49,1,1,dod_lime_arena,1 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 5:49,1,1,dod_lime_arena,1 dod_lime_arena,osgSaber,player,
+17/05/2022 5:49,1,1,dod_lime_arena,1 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 5:49,1,1,dod_lime_arena,1 dod_lime_arena,osgSaber,player,
+17/05/2022 5:49,1,1,dod_lime_arena,1 dod_lime_arena,,,osgSaber
+17/05/2022 5:49,1,1,dod_lime_arena,1 dod_lime_arena,[CX] Tommy W.,player,
+17/05/2022 5:49,1,1,dod_lime_arena,1 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 5:49,1,1,dod_lime_arena,1 dod_lime_arena,osgSaber,player,
+17/05/2022 5:50,1,1,dod_lime_arena,1 dod_lime_arena,,,osgSaber
+17/05/2022 5:50,1,1,dod_lime_arena,1 dod_lime_arena,[CX] Tommy W.,player,
+17/05/2022 5:50,1,1,dod_lime_arena,1 dod_lime_arena,,,osgSaber
+17/05/2022 5:50,1,1,dod_lime_arena,1 dod_lime_arena,[CX] Tommy W.,player,
+17/05/2022 5:50,1,1,dod_lime_arena,1 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 5:50,1,1,dod_lime_arena,1 dod_lime_arena,osgSaber,player,
+17/05/2022 5:50,1,1,dod_lime_arena,1 dod_lime_arena,,,osgSaber
+17/05/2022 5:50,1,1,dod_lime_arena,1 dod_lime_arena,[CX] Tommy W.,player,
+17/05/2022 5:51,1,1,dod_lime_arena,1 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 5:51,1,1,dod_lime_arena,1 dod_lime_arena,osgSaber,player,
+17/05/2022 5:51,1,1,dod_lime_arena,1 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 5:51,1,1,dod_lime_arena,1 dod_lime_arena,osgSaber,player,
+17/05/2022 5:52,1,1,dod_lime_arena,1 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 5:52,1,1,dod_lime_arena,1 dod_lime_arena,osgSaber,player,
+17/05/2022 5:52,1,1,dod_lime_arena,1 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 5:52,1,1,dod_lime_arena,1 dod_lime_arena,osgSaber,player,
+17/05/2022 5:52,1,1,dod_lime_arena,1 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 5:52,1,1,dod_lime_arena,1 dod_lime_arena,osgSaber,player,
+17/05/2022 5:52,1,1,dod_lime_arena,1 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 5:52,1,1,dod_lime_arena,1 dod_lime_arena,osgSaber,player,
+17/05/2022 5:52,1,1,dod_lime_arena,1 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 5:52,1,1,dod_lime_arena,1 dod_lime_arena,osgSaber,player,
+17/05/2022 5:53,1,1,dod_lime_arena,1 dod_lime_arena,,,osgSaber
+17/05/2022 5:53,1,1,dod_lime_arena,1 dod_lime_arena,[CX] Tommy W.,player,
+17/05/2022 5:53,1,1,dod_lime_arena,1 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 5:53,1,1,dod_lime_arena,1 dod_lime_arena,osgSaber,player,
+17/05/2022 5:53,1,1,dod_lime_arena,1 dod_lime_arena,,,osgSaber
+17/05/2022 5:53,1,1,dod_lime_arena,1 dod_lime_arena,[CX] Tommy W.,player,
+17/05/2022 5:54,1,1,dod_lime_arena,1 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 5:54,1,1,dod_lime_arena,1 dod_lime_arena,osgSaber,player,
+17/05/2022 5:54,1,1,dod_lime_arena,1 dod_lime_arena,,,osgSaber
+17/05/2022 5:54,1,1,dod_lime_arena,1 dod_lime_arena,[CX] Tommy W.,player,
+17/05/2022 5:54,1,1,dod_lime_arena,1 dod_lime_arena,,,osgSaber
+17/05/2022 5:54,1,1,dod_lime_arena,1 dod_lime_arena,[CX] Tommy W.,player,
+17/05/2022 5:54,1,1,dod_lime_arena,1 dod_lime_arena,,,ToeCutter
+17/05/2022 5:54,1,1,dod_lime_arena,1 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 5:54,1,1,dod_lime_arena,1 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 5:54,1,1,dod_lime_arena,1 dod_lime_arena,osgSaber,player,
+17/05/2022 5:55,1,1,dod_lime_arena,1 dod_lime_arena,,,ToeCutter
+17/05/2022 5:55,1,1,dod_lime_arena,1 dod_lime_arena,osgSaber,player,
+17/05/2022 5:55,1,1,dod_lime_arena,1 dod_lime_arena,,,osgSaber
+17/05/2022 5:55,1,1,dod_lime_arena,1 dod_lime_arena,[CX] Tommy W.,player,
+17/05/2022 5:55,1,1,dod_lime_arena,1 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 5:55,1,1,dod_lime_arena,1 dod_lime_arena,osgSaber,player,
+17/05/2022 5:55,1,1,dod_lime_arena,1 dod_lime_arena,,,ToeCutter
+17/05/2022 5:55,1,1,dod_lime_arena,1 dod_lime_arena,osgSaber,player,
+17/05/2022 5:55,1,1,dod_lime_arena,1 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 5:55,1,1,dod_lime_arena,1 dod_lime_arena,osgSaber,player,
+17/05/2022 5:56,1,2,dod_lime_arena,2 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 5:56,1,2,dod_lime_arena,2 dod_lime_arena,osgSaber,player,
+17/05/2022 5:56,1,2,dod_lime_arena,2 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 5:56,1,2,dod_lime_arena,2 dod_lime_arena,osgSaber,player,
+17/05/2022 5:56,1,2,dod_lime_arena,2 dod_lime_arena,,,osgSaber
+17/05/2022 5:56,1,2,dod_lime_arena,2 dod_lime_arena,[CX] Tommy W.,player,
+17/05/2022 5:57,1,2,dod_lime_arena,2 dod_lime_arena,,,osgSaber
+17/05/2022 5:57,1,2,dod_lime_arena,2 dod_lime_arena,[CX] Tommy W.,player,
+17/05/2022 5:57,1,2,dod_lime_arena,2 dod_lime_arena,,,osgSaber
+17/05/2022 5:57,1,2,dod_lime_arena,2 dod_lime_arena,[CX] Tommy W.,player,
+17/05/2022 5:57,1,2,dod_lime_arena,2 dod_lime_arena,,,osgSaber
+17/05/2022 5:57,1,2,dod_lime_arena,2 dod_lime_arena,[CX] Tommy W.,player,
+17/05/2022 5:57,1,2,dod_lime_arena,2 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 5:57,1,2,dod_lime_arena,2 dod_lime_arena,osgSaber,player,
+17/05/2022 5:57,1,2,dod_lime_arena,2 dod_lime_arena,,,osgSaber
+17/05/2022 5:57,1,2,dod_lime_arena,2 dod_lime_arena,[CX] Tommy W.,player,
+17/05/2022 5:58,1,2,dod_lime_arena,2 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 5:58,1,2,dod_lime_arena,2 dod_lime_arena,osgSaber,player,
+17/05/2022 5:58,1,2,dod_lime_arena,2 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 5:58,1,2,dod_lime_arena,2 dod_lime_arena,osgSaber,player,
+17/05/2022 5:58,1,2,dod_lime_arena,2 dod_lime_arena,,,osgSaber
+17/05/2022 5:58,1,2,dod_lime_arena,2 dod_lime_arena,[CX] Tommy W.,player,
+17/05/2022 5:58,1,2,dod_lime_arena,2 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 5:58,1,2,dod_lime_arena,2 dod_lime_arena,osgSaber,player,
+17/05/2022 5:59,1,2,dod_lime_arena,2 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 5:59,1,2,dod_lime_arena,2 dod_lime_arena,osgSaber,player,
+17/05/2022 5:59,1,2,dod_lime_arena,2 dod_lime_arena,,,osgSaber
+17/05/2022 5:59,1,2,dod_lime_arena,2 dod_lime_arena,[CX] Tommy W.,player,
+17/05/2022 5:59,1,2,dod_lime_arena,2 dod_lime_arena,,,osgSaber
+17/05/2022 5:59,1,2,dod_lime_arena,2 dod_lime_arena,[CX] Tommy W.,player,
+17/05/2022 5:59,1,2,dod_lime_arena,2 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 5:59,1,2,dod_lime_arena,2 dod_lime_arena,osgSaber,player,
+17/05/2022 6:00,1,2,dod_lime_arena,2 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 6:00,1,2,dod_lime_arena,2 dod_lime_arena,osgSaber,player,
+17/05/2022 6:00,1,2,dod_lime_arena,2 dod_lime_arena,,,osgSaber
+17/05/2022 6:00,1,2,dod_lime_arena,2 dod_lime_arena,[CX] Tommy W.,player,
+17/05/2022 6:00,1,2,dod_lime_arena,2 dod_lime_arena,,,osgSaber
+17/05/2022 6:00,1,2,dod_lime_arena,2 dod_lime_arena,[CX] Tommy W.,player,
+17/05/2022 6:00,1,2,dod_lime_arena,2 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 6:00,1,2,dod_lime_arena,2 dod_lime_arena,osgSaber,player,
+17/05/2022 6:01,1,2,dod_lime_arena,2 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 6:01,1,2,dod_lime_arena,2 dod_lime_arena,osgSaber,player,
+17/05/2022 6:01,1,2,dod_lime_arena,2 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 6:01,1,2,dod_lime_arena,2 dod_lime_arena,osgSaber,player,
+17/05/2022 6:01,1,2,dod_lime_arena,2 dod_lime_arena,,,osgSaber
+17/05/2022 6:01,1,2,dod_lime_arena,2 dod_lime_arena,[CX] Tommy W.,player,
+17/05/2022 6:01,1,2,dod_lime_arena,2 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 6:01,1,2,dod_lime_arena,2 dod_lime_arena,osgSaber,player,
+17/05/2022 6:02,1,2,dod_lime_arena,2 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 6:02,1,2,dod_lime_arena,2 dod_lime_arena,osgSaber,player,
+17/05/2022 6:02,1,2,dod_lime_arena,2 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 6:02,1,2,dod_lime_arena,2 dod_lime_arena,osgSaber,player,
+17/05/2022 6:02,1,2,dod_lime_arena,2 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 6:02,1,2,dod_lime_arena,2 dod_lime_arena,osgSaber,player,
+17/05/2022 6:02,1,2,dod_lime_arena,2 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 6:02,1,2,dod_lime_arena,2 dod_lime_arena,osgSaber,player,
+17/05/2022 6:02,1,2,dod_lime_arena,2 dod_lime_arena,,,osgSaber
+17/05/2022 6:02,1,2,dod_lime_arena,2 dod_lime_arena,[CX] Tommy W.,player,
+17/05/2022 6:03,1,2,dod_lime_arena,2 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 6:03,1,2,dod_lime_arena,2 dod_lime_arena,osgSaber,player,
+17/05/2022 6:03,1,2,dod_lime_arena,2 dod_lime_arena,,,osgSaber
+17/05/2022 6:03,1,2,dod_lime_arena,2 dod_lime_arena,[CX] Tommy W.,player,
+17/05/2022 6:03,1,2,dod_lime_arena,2 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 6:03,1,2,dod_lime_arena,2 dod_lime_arena,osgSaber,player,
+17/05/2022 6:03,1,2,dod_lime_arena,2 dod_lime_arena,,,osgSaber
+17/05/2022 6:03,1,2,dod_lime_arena,2 dod_lime_arena,[CX] Tommy W.,player,
+17/05/2022 6:04,1,2,dod_lime_arena,2 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 6:04,1,2,dod_lime_arena,2 dod_lime_arena,osgSaber,player,
+17/05/2022 6:04,1,2,dod_lime_arena,2 dod_lime_arena,,,osgSaber
+17/05/2022 6:04,1,2,dod_lime_arena,2 dod_lime_arena,[CX] Tommy W.,player,
+17/05/2022 6:04,1,2,dod_lime_arena,2 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 6:04,1,2,dod_lime_arena,2 dod_lime_arena,osgSaber,player,
+17/05/2022 6:04,1,2,dod_lime_arena,2 dod_lime_arena,,,osgSaber
+17/05/2022 6:04,1,2,dod_lime_arena,2 dod_lime_arena,[CX] Tommy W.,player,
+17/05/2022 6:05,1,2,dod_lime_arena,2 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 6:05,1,2,dod_lime_arena,2 dod_lime_arena,osgSaber,player,
+17/05/2022 6:05,1,2,dod_lime_arena,2 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 6:05,1,2,dod_lime_arena,2 dod_lime_arena,osgSaber,player,
+17/05/2022 6:05,1,2,dod_lime_arena,2 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 6:05,1,2,dod_lime_arena,2 dod_lime_arena,osgSaber,player,
+17/05/2022 6:05,1,2,dod_lime_arena,2 dod_lime_arena,,,osgSaber
+17/05/2022 6:05,1,2,dod_lime_arena,2 dod_lime_arena,[CX] Tommy W.,player,
+17/05/2022 6:06,1,2,dod_lime_arena,2 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 6:06,1,2,dod_lime_arena,2 dod_lime_arena,osgSaber,player,
+17/05/2022 6:06,1,2,dod_lime_arena,2 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 6:06,1,2,dod_lime_arena,2 dod_lime_arena,osgSaber,player,
+17/05/2022 6:06,1,2,dod_lime_arena,2 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 6:06,1,2,dod_lime_arena,2 dod_lime_arena,osgSaber,player,
+17/05/2022 6:06,1,2,dod_lime_arena,2 dod_lime_arena,,,osgSaber
+17/05/2022 6:06,1,2,dod_lime_arena,2 dod_lime_arena,[CX] Tommy W.,player,
+17/05/2022 6:07,1,2,dod_lime_arena,2 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 6:07,1,2,dod_lime_arena,2 dod_lime_arena,osgSaber,player,
+17/05/2022 6:07,1,2,dod_lime_arena,2 dod_lime_arena,,,osgSaber
+17/05/2022 6:07,1,2,dod_lime_arena,2 dod_lime_arena,[CX] Tommy W.,player,
+17/05/2022 6:07,1,2,dod_lime_arena,2 dod_lime_arena,,,osgSaber
+17/05/2022 6:07,1,2,dod_lime_arena,2 dod_lime_arena,[CX] Tommy W.,player,
+17/05/2022 6:07,1,2,dod_lime_arena,2 dod_lime_arena,,,osgSaber
+17/05/2022 6:07,1,2,dod_lime_arena,2 dod_lime_arena,[CX] Tommy W.,player,
+17/05/2022 6:08,1,2,dod_lime_arena,2 dod_lime_arena,,,osgSaber
+17/05/2022 6:08,1,2,dod_lime_arena,2 dod_lime_arena,[CX] Tommy W.,player,
+17/05/2022 6:08,1,2,dod_lime_arena,2 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 6:08,1,2,dod_lime_arena,2 dod_lime_arena,osgSaber,player,
+17/05/2022 6:08,1,2,dod_lime_arena,2 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 6:08,1,2,dod_lime_arena,2 dod_lime_arena,osgSaber,player,
+17/05/2022 6:08,1,2,dod_lime_arena,2 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 6:08,1,2,dod_lime_arena,2 dod_lime_arena,osgSaber,player,
+17/05/2022 6:08,1,2,dod_lime_arena,2 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 6:08,1,2,dod_lime_arena,2 dod_lime_arena,osgSaber,player,
+17/05/2022 6:08,1,2,dod_lime_arena,2 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 6:08,1,2,dod_lime_arena,2 dod_lime_arena,osgSaber,player,
+17/05/2022 6:09,1,2,dod_lime_arena,2 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 6:09,1,2,dod_lime_arena,2 dod_lime_arena,osgSaber,player,
+17/05/2022 6:09,1,2,dod_lime_arena,2 dod_lime_arena,,,osgSaber
+17/05/2022 6:09,1,2,dod_lime_arena,2 dod_lime_arena,[CX] Tommy W.,player,
+17/05/2022 6:09,1,2,dod_lime_arena,2 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 6:09,1,2,dod_lime_arena,2 dod_lime_arena,osgSaber,player,
+17/05/2022 6:09,1,2,dod_lime_arena,2 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 6:09,1,2,dod_lime_arena,2 dod_lime_arena,osgSaber,player,
+17/05/2022 6:09,1,2,dod_lime_arena,2 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 6:09,1,2,dod_lime_arena,2 dod_lime_arena,osgSaber,player,
+17/05/2022 6:10,1,2,dod_lime_arena,2 dod_lime_arena,,,osgSaber
+17/05/2022 6:10,1,2,dod_lime_arena,2 dod_lime_arena,[CX] Tommy W.,player,
+17/05/2022 6:10,1,2,dod_lime_arena,2 dod_lime_arena,,,osgSaber
+17/05/2022 6:10,1,2,dod_lime_arena,2 dod_lime_arena,[CX] Tommy W.,player,
+17/05/2022 6:10,1,2,dod_lime_arena,2 dod_lime_arena,,,osgSaber
+17/05/2022 6:10,1,2,dod_lime_arena,2 dod_lime_arena,[CX] Tommy W.,player,
+17/05/2022 6:10,1,2,dod_lime_arena,2 dod_lime_arena,,,osgSaber
+17/05/2022 6:10,1,2,dod_lime_arena,2 dod_lime_arena,[CX] Tommy W.,player,
+17/05/2022 6:11,1,2,dod_lime_arena,2 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 6:11,1,2,dod_lime_arena,2 dod_lime_arena,osgSaber,player,
+17/05/2022 6:11,1,2,dod_lime_arena,2 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 6:11,1,2,dod_lime_arena,2 dod_lime_arena,osgSaber,player,
+17/05/2022 6:11,1,2,dod_lime_arena,2 dod_lime_arena,,,[CX] Tommy W.
+17/05/2022 6:11,1,2,dod_lime_arena,2 dod_lime_arena,osgSaber,player,
+17/05/2022 6:42,2,2,dod_railroad3b3,2 dod_railroad3b3,osgSaber,func_breakable,
+17/05/2022 6:42,2,2,dod_railroad3b3,2 dod_railroad3b3,osgSaber,func_breakable,
+17/05/2022 6:43,2,2,dod_railroad3b3,2 dod_railroad3b3,osgSaber,func_breakable,
+17/05/2022 6:44,2,2,dod_railroad3b3,2 dod_railroad3b3,osgSaber,func_breakable,
+17/05/2022 6:44,2,2,dod_railroad3b3,2 dod_railroad3b3,osgSaber,func_breakable,
+17/05/2022 6:48,2,4,dod_solitude_rats,4 dod_solitude_rats,osgSaber,prop_physics_multiplayer,
+17/05/2022 6:58,2,7,dod_vallente_rc3,7 dod_vallente_rc3,osgSaber,prop_physics_multiplayer,
+17/05/2022 6:58,2,7,dod_vallente_rc3,7 dod_vallente_rc3,osgSaber,prop_physics_multiplayer,
+17/05/2022 7:00,2,8,anzio_b6,8 anzio_b6,osgSaber,func_breakable,
+17/05/2022 7:01,2,8,anzio_b6,8 anzio_b6,osgSaber,func_breakable,
+17/05/2022 7:04,2,11,dod_coire,11 dod_coire,osgSaber,func_breakable,
+17/05/2022 7:05,2,11,dod_coire,11 dod_coire,osgSaber,prop_physics_multiplayer,
+17/05/2022 7:05,2,11,dod_coire,11 dod_coire,osgSaber,prop_physics_multiplayer,
+17/05/2022 7:05,2,11,dod_coire,11 dod_coire,osgSaber,prop_physics_multiplayer,
+17/05/2022 7:34,3,1,dod_anzio_2016,1 dod_anzio_2016,osgSaber,prop_physics_multiplayer,
+17/05/2022 7:35,3,1,dod_anzio_2016,1 dod_anzio_2016,osgSaber,func_breakable,
+17/05/2022 7:42,4,0,dod_anzio,0 dod_anzio,osgSaber,func_breakable,
+17/05/2022 7:42,4,0,dod_anzio,0 dod_anzio,osgSaber,prop_physics_multiplayer,
