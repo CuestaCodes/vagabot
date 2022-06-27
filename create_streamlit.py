@@ -4,6 +4,8 @@
 # https://docs.streamlit.io/knowledge-base/using-streamlit/hide-row-indices-displaying-dataframe
 import streamlit as st
 import pandas as pd
+import matplotlib.pyplot as plt
+import numpy as np
 
 
 def create_st():
@@ -73,3 +75,25 @@ def create_st():
 
     # show ranking table
     st.table(df_player_rank[['ranking', 'player', 'kills']])
+
+    N = 15
+    theta = np.linspace(0.0, 2 * np.pi, N, endpoint=False)
+    r = np.array(
+        [0.9928, 0.9854, 0.9829, 0.9794, 0.9727, 0.9698, 0.9657, 0.9641, 0.9651, 0.9482, 0.9557, 0.9404, 0.9360, 0.9270,
+         0.9253])
+    width = np.array([0.4] * N)
+    label = ["a", "b", "c", "d", "e", "f", "g",
+             "h", "i", "j", "l", "m", "n", "o", "p"]
+
+    ax = plt.subplot(111, projection='polar')
+
+    ax.set_rlim(0.9, 1)
+    ax.set_yticklabels([])
+    ax.grid(False)
+    for spine in ax.spines.values():
+        spine.set_visible(False)
+    l_values = ax.bar(x=theta, height=r-.9, width=width,
+                      bottom=0.9, alpha=0.5, tick_label=label)
+
+    ax.bar_label(l_values)
+    plt.show()
