@@ -85,18 +85,21 @@ def create_st():
     label = df_player_only_kills['player_killed'].tolist()
     N = len(label)
     theta = np.linspace(0.0, 2 * np.pi, N, endpoint=False)
-    width = 1.9*np.pi / len(df_player_only_kills.index)
+    width = 1.8*np.pi / len(df_player_only_kills.index)
 
-    ax = plt.subplot(111, projection='polar')
+    fig, ax = plt.subplots(subplot_kw={'projection': 'polar'})
 
     ax.set_rlim(0, max(r))
     ax.set_yticklabels([])
     ax.grid(False)
     for spine in ax.spines.values():
         spine.set_visible(False)
+
+    # get and set values for bars
     l_values = ax.bar(x=theta, height=r, width=width,
                       bottom=0.1*max(r), alpha=0.5, tick_label=label)
-
     ax.bar_label(l_values, label_type='center')
-    st.set_option('deprecation.showPyplotGlobalUse', False)
-    st.pyplot()
+
+    # set constant size
+    fig.set_size_inches(8, 8)
+    st.pyplot(fig)
