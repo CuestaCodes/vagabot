@@ -85,7 +85,7 @@ def create_st():
     label = df_player_only_kills['player_killed'].tolist()
     N = len(label)
     theta = np.linspace(0.0, 2 * np.pi, N, endpoint=False)
-    width = np.array([0.4] * N)
+    width = 1.9*np.pi / len(df_player_only_kills.index)
 
     ax = plt.subplot(111, projection='polar')
 
@@ -94,8 +94,8 @@ def create_st():
     ax.grid(False)
     for spine in ax.spines.values():
         spine.set_visible(False)
-    l_values = ax.bar(x=theta, height=r-.9, width=width,
-                      bottom=0.9, alpha=0.5, tick_label=label)
+    l_values = ax.bar(x=theta, height=r, width=width,
+                      bottom=0.1, alpha=0.5, tick_label=label)
 
-    ax.bar_label(l_values)
-    st.pyplot()
+    ax.bar_label(l_values, label_type='center')
+    plt.show()
