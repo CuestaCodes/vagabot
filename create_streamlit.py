@@ -42,3 +42,13 @@ def create_st():
         set.union(player_set, player_killed_set, player_died_set))
 
     menu_player = st.sidebar.selectbox('Select Player', player_list)
+
+    # reduce dataframe with selected player
+    df_player_only = df_map[df_map.player == menu_player]
+    df_player_killed = df_map[df_map.player_killed == menu_player]
+    df_player_died = df_map[df_map.player_died == menu_player]
+
+    df_player = pd.concat(
+        [df_player_only, df_player_killed, df_player_died]).drop_duplicates()
+
+    print(df_player)
